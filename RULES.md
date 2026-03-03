@@ -58,7 +58,7 @@ when a vowel appears alone (not next to another vowel), it makes its common shor
 | a | a as in cat | cat → kat, bat → bat |
 | e | e as in bet | bet → bet, pen → pen |
 | i | i as in bit | bit → bit, fish → fish |
-| o | o as in dog | dog → dog, for → for, law → laa |
+| o | o as in dog | dog → dog, for → for, all → ol |
 | u | u as in but, or the schwa sound | but → but, about → ubout |
 
 the schwa (the unstressed "uh" sound in words like about, the, mother) is spelled `u` because it sounds closest to short u.
@@ -109,10 +109,16 @@ more examples:
 |----------|-------------|--------|
 | ukrooul (accrual) | u-k-r-**oo**-u-l | /ʌ-k-ɹ-uː-ʌ-l/ |
 | ukrooing (accruing) | u-k-r-**oo**-i-ng | /ʌ-k-ɹ-uː-ɪ-ŋ/ |
-| looes (laos) | l-**oo**-e-s | /l-uː-ɛ-s/ |
+| laaoes (laos) | l-**aa**-**oe**-s | /l-ɑ-oʊ-s/ |
 | aeemae (AMA) | **ae**-e-m-**ae** | /eɪ-ɛ-m-eɪ/ |
 
 this rule eliminates nearly all ambiguity from the vowel system — without it, `oo` + `i` could be misread as `o` + `oi`.
+
+## dictionary
+
+the inglish dictionary (`DIKSHUNEREE.md` and `dikshuneree.json`) is generated from the [CMU Pronouncing Dictionary](https://github.com/cmusphinx/cmudict), a machine-readable pronunciation dictionary of north american english. CMU provides ARPABET phoneme sequences for each word, which are mapped to inglish spellings and IPA symbols using the rules above.
+
+acronyms (words whose only pronunciations are letter-by-letter spellings, like "FBI" or "USA") are excluded from the dictionary — they are left untranslated.
 
 ## alternate pronunciations
 
@@ -126,6 +132,10 @@ for example, "hello" has two pronunciations:
 | huh-LOW | /hʌloʊ/ | huloe | further — `hul` doesn't match |
 
 `heloe` wins because it preserves more of the original english spelling.
+
+when two pronunciations have the same edit distance, prefer ɑ (spelled `aa`) over ɔː (spelled `o`). this keeps the more open vowel, which is more common in american english.
+
+in words where the ɔː sound comes from an `aw` spelling in english, use `aa` instead of `o`. this keeps the spelling closer to the original — for example, law → laa, saw → saa, raw → raa (not lo, so, ro).
 
 ## summary
 

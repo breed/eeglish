@@ -6,21 +6,11 @@ the site is live at https://inglish.us (github pages from this repo).
 
 ## inglish spelling rules
 
-- all letters and letter combinations have exactly one sound
-- the assignment of a letter or letter combination to a sound should be close to what is currently in use
-- vowel sounds only change based on immediately adjacent vowel
-- the common short sound of a vowel happens when the vowel is by itself
-- `o` by itself makes the /ɔː/ sound as in `dog`, `for`
-- `aa` (doubled a) makes the /ɑ/ sound as in `hot` → `haat`
-- if a vowel is immediately followed by an e the vowel will sound like its name
-- `yr` is the r-colored vowel /ɝ/ as in `bird` → `byrd`
-- `zj` is the /ʒ/ sound as in `measure` → `mezjyr`
-- `th` is used for both voiced (ð) and voiceless (θ) th sounds
-- first diphthong wins — read left to right, greedily match the first vowel pair
-- when multiple pronunciations exist, pick the one whose inglish spelling is closest to the english spelling (edit distance)
+see `RULES.md` for the full spelling rules and `ALFUBET.md` for the IPA-to-inglish letter mapping.
+
+key points for tools and dictionary generation:
 - don't translate acronyms — they are excluded from the dictionary
 - don't translate HTML tags or special markdown keys or tags
-- see `ALFUBET.md` for the full letter mapping and `RULES.md` for detailed rules with examples
 
 ## files
 
@@ -31,6 +21,7 @@ the site is live at https://inglish.us (github pages from this repo).
 - `generate_dictionary.py` - regenerates `DIKSHUNEREE.md` and `dikshuneree.json` from CMU Pronouncing Dictionary
 - `tranzlaet.py` - CLI tool that translates english text to inglish (`python3 tranzlaet.py [file...]` or stdin)
 - `index.html` - website with translate tab (paste text) and rules reference tab
+- `translate-button.js` - embeddable script that adds a floating inglish translate button to any webpage
 - `CNAME` - custom domain config for github pages (inglish.us)
 
 ## regenerating the dictionary
@@ -45,14 +36,12 @@ venv/bin/python3 generate_dictionary.py
 
 this regenerates both `DIKSHUNEREE.md` and `dikshuneree.json`.
 
-the script:
-1. maps ARPABET phonemes → inglish letters
-2. maps ARPABET phonemes → IPA symbols for the IPA column
-3. handles Y + UW → "ue" (the /juː/ sound)
-4. strips stress markers (0, 1, 2) from ARPABET codes
-5. when multiple pronunciations exist, picks the one whose inglish spelling is closest to the english spelling (levenshtein distance)
-6. both DH and TH map to `th`
-7. excludes acronyms (words whose only pronunciations are letter-by-letter spellings)
+the script applies all rules from `RULES.md`, including:
+1. maps ARPABET phonemes → inglish letters and IPA symbols
+2. handles Y + UW → "ue" (the /juː/ sound)
+3. words spelled with `aw` get `aa` instead of `o` for the AO phoneme
+4. picks closest pronunciation by edit distance; breaks ties by preferring ɑ (AA) over ɔː (AO)
+5. excludes acronyms (words whose only pronunciations are letter-by-letter spellings)
 
 ## changing letter mappings
 

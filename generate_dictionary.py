@@ -43,9 +43,18 @@ def strip_stress(phoneme):
     return re.sub(r'[012]$', '', phoneme)
 
 
-def phonemes_to_inglish(phonemes):
-    """Convert ARPABET phoneme list to inglish spelling."""
+def has_aw_sound(word):
+    """Check if the english word uses 'aw' spelling for the ɔː sound."""
+    return 'aw' in word
+
+
+def phonemes_to_inglish(phonemes, word=''):
+    """Convert ARPABET phoneme list to inglish spelling.
+
+    If the english word contains 'aw', AO phonemes map to 'aa' instead of 'o'.
+    """
     stripped = [strip_stress(p) for p in phonemes]
+    ao_override = has_aw_sound(word)
     result = []
     i = 0
     while i < len(stripped):
@@ -53,21 +62,31 @@ def phonemes_to_inglish(phonemes):
         if stripped[i] == 'Y' and i + 1 < len(stripped) and stripped[i + 1] == 'UW':
             result.append('ue')
             i += 2
+        elif stripped[i] == 'AO' and ao_override:
+            result.append('aa')
+            i += 1
         else:
             result.append(ARPABET_TO_ING.get(stripped[i], ''))
             i += 1
     return ''.join(result)
 
 
-def phonemes_to_ipa(phonemes):
-    """Convert ARPABET phoneme list to IPA string."""
+def phonemes_to_ipa(phonemes, word=''):
+    """Convert ARPABET phoneme list to IPA string.
+
+    If the english word contains 'aw', AO phonemes map to 'ɑ' instead of 'ɔː'.
+    """
     stripped = [strip_stress(p) for p in phonemes]
+    ao_override = has_aw_sound(word)
     result = []
     i = 0
     while i < len(stripped):
         if stripped[i] == 'Y' and i + 1 < len(stripped) and stripped[i + 1] == 'UW':
             result.append('juː')
             i += 2
+        elif stripped[i] == 'AO' and ao_override:
+            result.append('ɑ')
+            i += 1
         else:
             result.append(ARPABET_TO_IPA.get(stripped[i], ''))
             i += 1
@@ -143,27 +162,32 @@ def main():
             continue
 
         if len(pronunciations) == 1:
-            ing = phonemes_to_inglish(pronunciations[0])
-            ipa = phonemes_to_ipa(pronunciations[0])
+            ing = phonemes_to_inglish(pronunciations[0], word)
+            ipa = phonemes_to_ipa(pronunciations[0], word)
             entries.append((word, ing, ipa))
         else:
             multi_count += 1
-            # pick the pronunciation whose inglish is closest to the english
+            # pick the best pronunciation:
+            # 1. closest edit distance to english spelling
+            # 2. break ties by preferring fewer AO phonemes (choose ɑ over ɔː)
             best_ing = None
             best_ipa = None
             best_dist = float('inf')
+            best_ao = float('inf')
             first_ing = None
 
             for pron in pronunciations:
-                ing = phonemes_to_inglish(pron)
-                ipa = phonemes_to_ipa(pron)
+                ing = phonemes_to_inglish(pron, word)
+                ipa = phonemes_to_ipa(pron, word)
                 dist = edit_distance(word, ing)
+                ao_count = sum(1 for p in pron if strip_stress(p) == 'AO')
 
                 if first_ing is None:
                     first_ing = ing
 
-                if dist < best_dist:
+                if (dist, ao_count) < (best_dist, best_ao):
                     best_dist = dist
+                    best_ao = ao_count
                     best_ing = ing
                     best_ipa = ipa
 
