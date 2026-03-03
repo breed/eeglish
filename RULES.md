@@ -114,6 +114,19 @@ more examples:
 
 this rule eliminates nearly all ambiguity from the vowel system — without it, `oo` + `i` could be misread as `o` + `oi`.
 
+## alternate pronunciations
+
+when a word has more than one accepted pronunciation, use the one whose ingglish spelling is closest to the current US english spelling. this keeps ingglish as readable as possible for english speakers.
+
+for example, "hello" has two pronunciations:
+
+| pronunciation | IPA | ingglish | distance from english |
+|--------------|-----|----------|----------------------|
+| heh-LOW | /hɛloʊ/ | heloe | close — `hel` matches |
+| huh-LOW | /hʌloʊ/ | huloe | further — `hul` doesn't match |
+
+`heloe` wins because it preserves more of the original english spelling.
+
 ## summary
 
 the entire system rests on a few principles:

@@ -34,7 +34,7 @@ the dictionary was generated from the CMU Pronouncing Dictionary. to regenerate 
 2. maps ARPABET phonemes → IPA symbols for the IPA column
 3. handles Y + UW → "ue" (the /juː/ sound)
 4. strips stress markers (0, 1, 2) from ARPABET codes
-5. takes first pronunciation when multiple exist
+5. when multiple pronunciations exist, pick the one whose ingglish spelling is closest to the english spelling
 6. both DH and TH map to `th`
 
 after regenerating `DIKSHUNEREE.md`, regenerate `dikshuneree.json` for the website
