@@ -44,27 +44,30 @@ def strip_stress(phoneme):
 
 
 # contraction suffix mappings
-# key: suffix text after apostrophe in the english word
-# value: (output suffix with apostrophe, phoneme endings to try stripping)
+# key: suffix identifier
+# value: (output suffix, phoneme endings to try stripping)
 CONTRACTION_SUFFIXES = {
-    't':  ("'t",  [['T']]),
-    's':  ("'s",  [['Z'], ['S']]),
-    'd':  ("'d",  [['D']]),
-    'll': ("'l",  [['L']]),
-    'm':  ("'m",  [['M']]),
-    're': ("'r",  [['R']]),
-    've': ("'v",  [['AH', 'V'], ['V']]),
+    "n't": ("n't", [['N', 'T'], ['N']]),
+    's':   ("'s",  [['Z'], ['S']]),
+    'd':   ("'d",  [['D']]),
+    'll':  ("'l",  [['L']]),
+    'm':   ("'m",  [['M']]),
+    're':  ("'r",  [['R']]),
+    've':  ("'v",  [['AH', 'V'], ['V']]),
 }
 
 
 def contraction_suffix(word):
-    """Return the contraction suffix text if word has a known one, else None."""
+    """Return the contraction suffix key if word has a known one, else None."""
     if "'" not in word:
         return None
     apos_idx = word.index("'")
     if apos_idx == 0:  # leading apostrophe ('twas, 'em)
         return None
     suffix = word[apos_idx + 1:]
+    # n't: the 'n' before the apostrophe is part of the contraction
+    if suffix == 't' and apos_idx > 0 and word[apos_idx - 1] == 'n':
+        return "n't"
     if suffix in CONTRACTION_SUFFIXES:
         return suffix
     return None

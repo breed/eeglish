@@ -130,13 +130,13 @@ some suffixes are shortened since the doubled letter is redundant:
 - **'ve → 'v** (v alone makes the /v/ sound)
 - **'re → 'r** (r alone makes the /ɹ/ sound)
 
-all other suffixes stay as written: **'t** (for n't), **'m**, **'d**, **'s**.
+all other suffixes stay as written: **n't**, **'m**, **'d**, **'s**.
 
 | english | base | suffix | inglish |
 |---------|------|--------|---------|
-| don't | don | 't | doen't |
-| can't | can | 't | kan't |
-| wouldn't | wouldn | 't | wuudun't |
+| don't | do | n't | doen't |
+| can't | ca | n't | kan't |
+| wouldn't | would | n't | wuudun't |
 | I'm | I | 'm | ie'm |
 | we're | we | 're → 'r | wee'r |
 | I'll | I | 'll → 'l | ie'l |
