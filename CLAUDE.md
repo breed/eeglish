@@ -1,6 +1,8 @@
 # project description
 
-create a website and a tool that will convert standard american spelling to ingglish spelling.
+a website and tools that convert standard american spelling to ingglish spelling.
+
+the site is live at https://ingglish.org (github pages from this repo).
 
 ## ingglish spelling rules
 
@@ -15,6 +17,7 @@ create a website and a tool that will convert standard american spelling to ingg
 - `zj` is the /ʒ/ sound as in `measure` → `mezjyr`
 - `th` is used for both voiced (ð) and voiceless (θ) th sounds
 - first diphthong wins — read left to right, greedily match the first vowel pair
+- when multiple pronunciations exist, pick the one whose ingglish spelling is closest to the english spelling (edit distance)
 - don't translate HTML tags or special markdown keys or tags
 - see `ALFUBET.md` for the full letter mapping and `RULES.md` for detailed rules with examples
 
@@ -24,47 +27,39 @@ create a website and a tool that will convert standard american spelling to ingg
 - `RULES.md` - detailed explanation of the spelling rules with examples
 - `DIKSHUNEREE.md` - 126,052 word dictionary with columns `english`, `ingglish`, `IPA`
 - `dikshuneree.json` - JSON version of the dictionary for the website
+- `generate_dictionary.py` - regenerates `DIKSHUNEREE.md` and `dikshuneree.json` from CMU Pronouncing Dictionary
 - `tranzlaet.py` - CLI tool that translates english text to ingglish (`python3 tranzlaet.py [file...]` or stdin)
-- `index.html` - website for translating pasted text or fetched URLs to ingglish (serve with `python3 -m http.server`)
+- `index.html` - website for translating pasted text or fetched URLs to ingglish
+- `CNAME` - custom domain config for github pages (ingglish.org)
 
 ## regenerating the dictionary
 
-the dictionary was generated from the CMU Pronouncing Dictionary. to regenerate `DIKSHUNEREE.md`, create a python venv, install `cmudict`, and run a script that:
-1. maps ARPABET phonemes → ingglish letters using `ALFUBET.md`
+run `generate_dictionary.py` in a venv with `cmudict` installed:
+
+```
+python3 -m venv venv
+venv/bin/pip install cmudict
+venv/bin/python3 generate_dictionary.py
+```
+
+this regenerates both `DIKSHUNEREE.md` and `dikshuneree.json`.
+
+the script:
+1. maps ARPABET phonemes → ingglish letters
 2. maps ARPABET phonemes → IPA symbols for the IPA column
 3. handles Y + UW → "ue" (the /juː/ sound)
 4. strips stress markers (0, 1, 2) from ARPABET codes
-5. when multiple pronunciations exist, pick the one whose ingglish spelling is closest to the english spelling
+5. when multiple pronunciations exist, picks the one whose ingglish spelling is closest to the english spelling (levenshtein distance)
 6. both DH and TH map to `th`
-
-after regenerating `DIKSHUNEREE.md`, regenerate `dikshuneree.json` for the website
 
 ## changing letter mappings
 
 when a letter-to-sound mapping changes:
 1. update `ALFUBET.md`
 2. update `RULES.md`
-3. regenerate ingglish column in `DIKSHUNEREE.md` from the IPA column using updated mappings
-4. regenerate `dikshuneree.json` from `DIKSHUNEREE.md`
+3. update the mapping in `generate_dictionary.py`
+4. run `generate_dictionary.py` to regenerate `DIKSHUNEREE.md` and `dikshuneree.json`
 5. update this file
-
-the IPA-to-ingglish converter for regenerating the dictionary:
-
-```python
-IPA_TO_ING = [
-    ('juː', 'ue'), ('tʃ', 'ch'), ('dʒ', 'j'), ('eɪ', 'ae'), ('iː', 'ee'),
-    ('aɪ', 'ie'), ('oʊ', 'oe'), ('ɔː', 'o'), ('uː', 'oo'), ('aʊ', 'ou'),
-    ('ɔɪ', 'oi'), ('ɝ', 'yr'),
-    ('ð', 'th'), ('ŋ', 'ng'), ('ʃ', 'sh'), ('θ', 'th'), ('ʒ', 'zj'),
-    ('ɡ', 'g'), ('ɹ', 'r'), ('æ', 'a'), ('ɛ', 'e'), ('ɪ', 'i'),
-    ('ɑ', 'aa'), ('ʌ', 'u'), ('ə', 'u'), ('ʊ', 'uu'),
-    ('b', 'b'), ('d', 'd'), ('f', 'f'), ('h', 'h'), ('j', 'y'),
-    ('k', 'k'), ('l', 'l'), ('m', 'm'), ('n', 'n'), ('p', 'p'),
-    ('s', 's'), ('t', 't'), ('v', 'v'), ('w', 'w'), ('z', 'z'),
-]
-```
-
-order matters — longest IPA sequences must come first for greedy matching.
 
 ## translation tools
 
