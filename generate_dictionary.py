@@ -98,7 +98,13 @@ def main():
     multi_count = 0
     changed_count = 0
 
+    # words to exclude from the dictionary (e.g. "inglish" is a CMU surname
+    # entry that collides with the inglish language name)
+    exclude = {'inglish'}
+
     for word in sorted(d.keys()):
+        if word in exclude:
+            continue
         pronunciations = d[word]
 
         if len(pronunciations) == 1:
