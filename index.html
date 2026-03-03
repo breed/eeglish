@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>eeglish tranzlaetur</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: #f5f5f0;
+    color: #1a1a1a;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+
+  header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+  }
+
+  header p {
+    color: #666;
+    font-size: 0.95rem;
+  }
+
+  .input-section {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 0;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #e0e0e0;
+  }
+
+  .tab {
+    padding: 0.5rem 1.25rem;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 0.95rem;
+    color: #666;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -2px;
+    transition: color 0.15s, border-color 0.15s;
+  }
+
+  .tab:hover { color: #333; }
+
+  .tab.active {
+    color: #1a1a1a;
+    border-bottom-color: #1a1a1a;
+    font-weight: 600;
+  }
+
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+
+  textarea {
+    width: 100%;
+    min-height: 180px;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 0.95rem;
+    resize: vertical;
+    line-height: 1.6;
+  }
+
+  textarea:focus { outline: 2px solid #333; outline-offset: -1px; border-color: #333; }
+
+  .url-row {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .url-row input {
+    flex: 1;
+    padding: 0.6rem 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 0.95rem;
+  }
+
+  .url-row input:focus { outline: 2px solid #333; outline-offset: -1px; border-color: #333; }
+
+  button {
+    padding: 0.6rem 1.25rem;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background 0.15s;
+  }
+
+  .btn-primary {
+    background: #1a1a1a;
+    color: #fff;
+  }
+
+  .btn-primary:hover { background: #333; }
+  .btn-primary:disabled { background: #999; cursor: not-allowed; }
+
+  .btn-secondary {
+    background: #e8e8e8;
+    color: #333;
+  }
+
+  .btn-secondary:hover { background: #ddd; }
+
+  .actions {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 1rem;
+    justify-content: flex-end;
+  }
+
+  .output-section {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    display: none;
+  }
+
+  .output-section.visible { display: block; }
+
+  .output-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+  }
+
+  .output-header h2 {
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  .output-body {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace;
+    font-size: 0.9rem;
+    background: #fafafa;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    padding: 1rem;
+    max-height: 500px;
+    overflow-y: auto;
+    line-height: 1.6;
+  }
+
+  .status {
+    text-align: center;
+    padding: 1rem;
+    color: #666;
+    font-size: 0.9rem;
+  }
+
+  .status.error { color: #c00; }
+
+  .loading-bar {
+    height: 3px;
+    background: #e0e0e0;
+    border-radius: 2px;
+    overflow: hidden;
+    margin-bottom: 1rem;
+    display: none;
+  }
+
+  .loading-bar.active { display: block; }
+
+  .loading-bar::after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 30%;
+    background: #1a1a1a;
+    border-radius: 2px;
+    animation: loading 1s ease-in-out infinite;
+  }
+
+  @keyframes loading {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(400%); }
+  }
+
+  .stats {
+    font-size: 0.8rem;
+    color: #888;
+    margin-top: 0.5rem;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>eeglish tranzlaetur</h1>
+    <p>convert standard american english to ingglish spelling</p>
+  </header>
+
+  <div class="loading-bar" id="loadingBar"></div>
+  <div class="status" id="status">loading dictionary...</div>
+
+  <div id="app" style="display:none">
+    <div class="input-section">
+      <div class="tabs">
+        <button class="tab active" data-tab="text">paste text</button>
+        <button class="tab" data-tab="url">fetch URL</button>
+      </div>
+
+      <div class="tab-content active" id="tab-text">
+        <textarea id="inputText" placeholder="paste or type english text here..."></textarea>
+      </div>
+
+      <div class="tab-content" id="tab-url">
+        <div class="url-row">
+          <input type="url" id="inputUrl" placeholder="https://example.com">
+          <button class="btn-primary" id="fetchBtn">fetch</button>
+        </div>
+        <textarea id="fetchedText" placeholder="fetched content will appear here..." style="margin-top:0.75rem" readonly></textarea>
+      </div>
+
+      <div class="actions">
+        <button class="btn-secondary" id="clearBtn">clear</button>
+        <button class="btn-primary" id="translateBtn">translate</button>
+      </div>
+    </div>
+
+    <div class="output-section" id="outputSection">
+      <div class="output-header">
+        <h2>ingglish</h2>
+        <button class="btn-secondary" id="copyBtn">copy</button>
+      </div>
+      <div class="output-body" id="outputText"></div>
+      <div class="stats" id="stats"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  let dictionary = null;
+
+  // --- dictionary loading ---
+
+  async function loadDictionary() {
+    const bar = document.getElementById('loadingBar');
+    const status = document.getElementById('status');
+    bar.classList.add('active');
+
+    try {
+      const resp = await fetch('dikshuneree.json');
+      if (!resp.ok) throw new Error('failed to load dictionary');
+      dictionary = await resp.json();
+      const count = Object.keys(dictionary).length;
+      bar.classList.remove('active');
+      status.style.display = 'none';
+      document.getElementById('app').style.display = 'block';
+    } catch (e) {
+      bar.classList.remove('active');
+      status.className = 'status error';
+      status.textContent = 'failed to load dictionary. serve this directory with a web server (e.g. python3 -m http.server).';
+    }
+  }
+
+  // --- translation logic (mirrors tranzlaet.py) ---
+
+  const TAG_RE = /<[^>]*>/;
+  const TOKEN_RE = /<[^>]*>|[^<\s]+|\s+/g;
+  const PUNCT_RE = /^([^\w]*)(\w.*\w|\w)([^\w]*)$/u;
+
+  function applyCapitalization(original, translated) {
+    if (original === original.toUpperCase() && original !== original.toLowerCase()) {
+      return translated.toUpperCase();
+    }
+    if (original[0] === original[0].toUpperCase() &&
+        original.slice(1) === original.slice(1).toLowerCase()) {
+      return translated.charAt(0).toUpperCase() + translated.slice(1);
+    }
+    return translated;
+  }
+
+  function translateText(text) {
+    const tokens = text.match(TOKEN_RE);
+    if (!tokens) return text;
+
+    const parts = [];
+    for (const token of tokens) {
+      // pass through whitespace and HTML tags
+      if (/^\s+$/.test(token) || (token.startsWith('<') && token.endsWith('>'))) {
+        parts.push(token);
+        continue;
+      }
+      const m = token.match(PUNCT_RE);
+      if (!m) {
+        parts.push(token);
+        continue;
+      }
+      const [, leading, word, trailing] = m;
+      const lookup = word.toLowerCase();
+      if (dictionary[lookup] !== undefined) {
+        const translated = applyCapitalization(word, dictionary[lookup]);
+        parts.push(leading + translated + trailing);
+      } else {
+        parts.push(token);
+      }
+    }
+    return parts.join('');
+  }
+
+  // --- UI ---
+
+  function initUI() {
+    // tabs
+    document.querySelectorAll('.tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+        tab.classList.add('active');
+        document.getElementById('tab-' + tab.dataset.tab).classList.add('active');
+      });
+    });
+
+    // translate
+    document.getElementById('translateBtn').addEventListener('click', () => {
+      const activeTab = document.querySelector('.tab.active').dataset.tab;
+      let input;
+      if (activeTab === 'text') {
+        input = document.getElementById('inputText').value;
+      } else {
+        input = document.getElementById('fetchedText').value;
+      }
+      if (!input.trim()) return;
+
+      const start = performance.now();
+      const result = translateText(input);
+      const elapsed = (performance.now() - start).toFixed(0);
+
+      const words = input.split(/\s+/).filter(w => w.length > 0).length;
+      document.getElementById('outputText').textContent = result;
+      document.getElementById('stats').textContent = `${words} words translated in ${elapsed}ms`;
+      document.getElementById('outputSection').classList.add('visible');
+    });
+
+    // fetch URL
+    document.getElementById('fetchBtn').addEventListener('click', async () => {
+      const url = document.getElementById('inputUrl').value.trim();
+      if (!url) return;
+
+      const btn = document.getElementById('fetchBtn');
+      const fetched = document.getElementById('fetchedText');
+      btn.disabled = true;
+      btn.textContent = '...';
+      fetched.value = '';
+
+      try {
+        const resp = await fetch(url);
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        const text = await resp.text();
+        fetched.value = text;
+      } catch (e) {
+        // try CORS proxy fallback
+        try {
+          const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(url);
+          const resp = await fetch(proxyUrl);
+          if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+          const text = await resp.text();
+          fetched.value = text;
+        } catch (e2) {
+          fetched.value = `error fetching URL: ${e.message}\n\nthis may be due to CORS restrictions. try pasting the content directly instead.`;
+        }
+      }
+
+      btn.disabled = false;
+      btn.textContent = 'fetch';
+    });
+
+    // clear
+    document.getElementById('clearBtn').addEventListener('click', () => {
+      document.getElementById('inputText').value = '';
+      document.getElementById('fetchedText').value = '';
+      document.getElementById('inputUrl').value = '';
+      document.getElementById('outputSection').classList.remove('visible');
+    });
+
+    // copy
+    document.getElementById('copyBtn').addEventListener('click', () => {
+      const text = document.getElementById('outputText').textContent;
+      navigator.clipboard.writeText(text).then(() => {
+        const btn = document.getElementById('copyBtn');
+        btn.textContent = 'copied!';
+        setTimeout(() => { btn.textContent = 'copy'; }, 1500);
+      });
+    });
+
+    // translate on ctrl+enter
+    document.getElementById('inputText').addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' && (e.ctrlKey || e.metaKey)) {
+        document.getElementById('translateBtn').click();
+      }
+    });
+  }
+
+  initUI();
+  loadDictionary();
+})();
+</script>
+</body>
+</html>
