@@ -286,6 +286,19 @@
     color: #555;
     font-style: italic;
   }
+
+  .snippet {
+    background: #1a1a1a;
+    color: #e0e0e0;
+    padding: 1rem;
+    border-radius: 6px;
+    font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace;
+    font-size: 0.85rem;
+    overflow-x: auto;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+    white-space: pre;
+  }
 </style>
 </head>
 <body>
@@ -304,6 +317,7 @@
     <div class="tabs">
       <button class="tab active" data-tab="translate">translate</button>
       <button class="tab" data-tab="rules">rules</button>
+      <button class="tab" data-tab="button">translate button</button>
     </div>
 
     <div class="tab-content active" id="tab-translate">
@@ -430,6 +444,46 @@
           <li><strong>no silent letters</strong> &mdash; every letter you see, you pronounce</li>
           <li><strong>no exceptions</strong> &mdash; the rules apply to every word</li>
         </ul>
+      </div>
+    </div>
+
+    <div class="tab-content" id="tab-button">
+      <div class="section rules">
+        <h2>add inglish to your website</h2>
+        <p>add a floating translate button to any webpage with a single script tag. when visitors click it, all text on the page is translated to inglish. clicking again restores the original english.</p>
+
+        <h3>quick start</h3>
+        <p>paste this line before the closing <code>&lt;/body&gt;</code> tag of your HTML:</p>
+        <pre class="snippet">&lt;script src="https://inglish.us/translate-button.js"&gt;&lt;/script&gt;</pre>
+
+        <h3>what it does</h3>
+        <ul>
+          <li>adds a small "inglish" button in the bottom-right corner of the page</li>
+          <li>loads the dictionary on first click (~2.7 MB, cached by the browser after that)</li>
+          <li>translates all visible text to inglish spelling, preserving capitalization</li>
+          <li>click again to switch back to english</li>
+          <li>skips text inside <code>&lt;code&gt;</code>, <code>&lt;pre&gt;</code>, <code>&lt;script&gt;</code>, <code>&lt;style&gt;</code>, <code>&lt;textarea&gt;</code>, and <code>&lt;input&gt;</code> elements</li>
+        </ul>
+
+        <h3>how it works</h3>
+        <p>the script fetches the inglish dictionary (126,000+ words) from <code>inglish.us</code> and does word-by-word lookup on every text node in the page. HTML tags, attributes, and page structure are left untouched. only the visible text changes.</p>
+
+        <h3>self-hosting</h3>
+        <p>if you prefer to host the files yourself, download <a href="translate-button.js"><code>translate-button.js</code></a> and <a href="dikshuneree.json"><code>dikshuneree.json</code></a>, then edit the <code>DICT_URL</code> variable at the top of the script to point to your copy of the dictionary.</p>
+
+        <h3>example</h3>
+        <p>here is a minimal HTML page with the translate button:</p>
+        <pre class="snippet">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+  &lt;title&gt;my page&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;h1&gt;Hello World&lt;/h1&gt;
+  &lt;p&gt;The quick brown fox jumps over the lazy dog.&lt;/p&gt;
+  &lt;script src="https://inglish.us/translate-button.js"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
       </div>
     </div>
   </div>
