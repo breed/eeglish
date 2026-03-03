@@ -29,7 +29,7 @@ the site is live at https://ingglish.org (github pages from this repo).
 - `dikshuneree.json` - JSON version of the dictionary for the website
 - `generate_dictionary.py` - regenerates `DIKSHUNEREE.md` and `dikshuneree.json` from CMU Pronouncing Dictionary
 - `tranzlaet.py` - CLI tool that translates english text to ingglish (`python3 tranzlaet.py [file...]` or stdin)
-- `index.html` - website for translating pasted text or fetched URLs to ingglish
+- `index.html` - website with translate tab (paste text) and rules reference tab
 - `CNAME` - custom domain config for github pages (ingglish.org)
 
 ## regenerating the dictionary

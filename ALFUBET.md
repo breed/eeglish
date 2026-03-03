@@ -52,7 +52,7 @@ the ingglish alphabet maps every sound in american english to exactly one spelli
 | iː  | ee      | e + e = name of e | see → see |
 | aɪ  | ie      | i + e = name of i | bike → biek |
 | oʊ  | oe      | o + e = name of o | go → goe |
-| juː | ue      | u + e = name of u | use → uez |
+| juː | ue      | u + e = name of u | use → ues |
 | ɑ   | aa      | doubled a = elongated | hot → haat |
 | uː  | oo      | doubled o = elongated | food → food |
 | ʊ   | uu      | doubled u = elongated | book → buuk |
