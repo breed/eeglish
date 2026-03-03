@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""tranzlaet - translate english text to ingglish spelling."""
+"""tranzlaet - translate english text to inglish spelling."""
 
 import argparse
 import os
@@ -8,7 +8,7 @@ import sys
 
 
 def load_dictionary(path):
-    """Parse DIKSHUNEREE.md into a dict mapping english -> ingglish."""
+    """Parse DIKSHUNEREE.md into a dict mapping english -> inglish."""
     dictionary = {}
     with open(path, encoding="utf-8") as f:
         for line in f:
@@ -16,15 +16,15 @@ def load_dictionary(path):
             if not line.startswith("|"):
                 continue
             parts = [p.strip() for p in line.split("|")]
-            # parts[0] is empty (before first |), parts[1] = english, parts[2] = ingglish
+            # parts[0] is empty (before first |), parts[1] = english, parts[2] = inglish
             if len(parts) < 4:
                 continue
             english = parts[1]
-            ingglish = parts[2]
+            inglish = parts[2]
             # skip header rows
             if english.startswith("---") or parts[3] == "IPA":
                 continue
-            dictionary[english.lower()] = ingglish
+            dictionary[english.lower()] = inglish
     return dictionary
 
 
@@ -44,7 +44,7 @@ _PUNCT_RE = re.compile(r"^([^\w]*)(\w.*\w|\w)([^\w]*)$", re.UNICODE)
 
 
 def translate_text(text, dictionary):
-    """Translate a string from english to ingglish, preserving structure."""
+    """Translate a string from english to inglish, preserving structure."""
     tokens = _TOKEN_RE.findall(text)
     result = []
     for token in tokens:
@@ -70,7 +70,7 @@ def translate_text(text, dictionary):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Translate english text to ingglish spelling."
+        description="Translate english text to inglish spelling."
     )
     parser.add_argument(
         "files",

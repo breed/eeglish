@@ -1,18 +1,18 @@
-# ingglish spelling rules
+# inglish spelling rules
 
-ingglish is a phonetic respelling of american english. every sound maps to exactly one spelling, and every spelling maps to exactly one sound. there are no silent letters, no irregular spellings, and no ambiguity.
+inglish is a phonetic respelling of american english. every sound maps to exactly one spelling, and every spelling maps to exactly one sound. there are no silent letters, no irregular spellings, and no ambiguity.
 
 ## the core principle
 
 **one sound = one spelling.** if you can read the letters, you can pronounce the word. if you can hear the word, you can spell it.
 
-the letter assignments stay as close to standard english as possible so that ingglish remains readable to english speakers.
+the letter assignments stay as close to standard english as possible so that inglish remains readable to english speakers.
 
 ## consonants
 
 consonants work the way you'd expect from english. each consonant letter or pair makes one sound and only that sound.
 
-| ingglish | sound | english examples |
+| inglish | sound | english examples |
 |----------|-------|-----------------|
 | b | b as in bat | bat → bat |
 | ch | ch as in chin | chin → chin |
@@ -53,7 +53,7 @@ vowels follow three simple rules based on what's next to them.
 
 when a vowel appears alone (not next to another vowel), it makes its common short sound.
 
-| ingglish | sound | english examples |
+| inglish | sound | english examples |
 |----------|-------|-----------------|
 | a | a as in cat | cat → kat, bat → bat |
 | e | e as in bet | bet → bet, pen → pen |
@@ -67,7 +67,7 @@ the schwa (the unstressed "uh" sound in words like about, the, mother) is spelle
 
 adding `e` immediately after a vowel makes it "say its name" — the long vowel sound.
 
-| ingglish | sound | english examples |
+| inglish | sound | english examples |
 |----------|-------|-----------------|
 | ae | long a as in make | make → maek, cake → kaek |
 | ee | long e as in see | see → see, meet → meet, seat → seet |
@@ -81,7 +81,7 @@ this replaces english's unpredictable "silent e" rule with a consistent vowel pa
 
 repeating a vowel produces a longer, distinct vowel sound.
 
-| ingglish | sound | english examples |
+| inglish | sound | english examples |
 |----------|-------|-----------------|
 | aa | ah as in hot | hot → haat, top → taap, lot → laat |
 | oo | oo as in food | food → food, through → throo, blue → bloo |
@@ -91,7 +91,7 @@ repeating a vowel produces a longer, distinct vowel sound.
 
 a few vowel combinations represent sounds that glide between two vowels, plus one r-colored vowel.
 
-| ingglish | sound | english examples |
+| inglish | sound | english examples |
 |----------|-------|-----------------|
 | ou | ou as in out | out → out, loud → loud |
 | oi | oi as in boy | boy → boi, coin → koin |
@@ -105,7 +105,7 @@ for example, `ukrooul` (accrual) contains `ou` — but reading left to right, `o
 
 more examples:
 
-| ingglish | greedy parse | sounds |
+| inglish | greedy parse | sounds |
 |----------|-------------|--------|
 | ukrooul (accrual) | u-k-r-**oo**-u-l | /ʌ-k-ɹ-uː-ʌ-l/ |
 | ukrooing (accruing) | u-k-r-**oo**-i-ng | /ʌ-k-ɹ-uː-ɪ-ŋ/ |
@@ -116,11 +116,11 @@ this rule eliminates nearly all ambiguity from the vowel system — without it, 
 
 ## alternate pronunciations
 
-when a word has more than one accepted pronunciation, use the one whose ingglish spelling is closest to the current US english spelling. this keeps ingglish as readable as possible for english speakers.
+when a word has more than one accepted pronunciation, use the one whose inglish spelling is closest to the current US english spelling. this keeps inglish as readable as possible for english speakers.
 
 for example, "hello" has two pronunciations:
 
-| pronunciation | IPA | ingglish | distance from english |
+| pronunciation | IPA | inglish | distance from english |
 |--------------|-----|----------|----------------------|
 | heh-LOW | /hɛloʊ/ | heloe | close — `hel` matches |
 | huh-LOW | /hʌloʊ/ | huloe | further — `hul` doesn't match |

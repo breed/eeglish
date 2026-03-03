@@ -2,7 +2,7 @@
 """Generate DIKSHUNEREE.md from the CMU Pronouncing Dictionary.
 
 When multiple pronunciations exist for a word, picks the one whose
-ingglish spelling is closest to the original english spelling.
+inglish spelling is closest to the original english spelling.
 """
 import json
 import re
@@ -13,7 +13,7 @@ except ImportError:
     print("Install cmudict first: pip install cmudict")
     raise SystemExit(1)
 
-# ARPABET (without stress) → ingglish
+# ARPABET (without stress) → inglish
 ARPABET_TO_ING = {
     'AA': 'aa', 'AE': 'a', 'AH': 'u', 'AO': 'o', 'AW': 'ou',
     'AY': 'ie', 'B': 'b', 'CH': 'ch', 'D': 'd', 'DH': 'th',
@@ -43,8 +43,8 @@ def strip_stress(phoneme):
     return re.sub(r'[012]$', '', phoneme)
 
 
-def phonemes_to_ingglish(phonemes):
-    """Convert ARPABET phoneme list to ingglish spelling."""
+def phonemes_to_inglish(phonemes):
+    """Convert ARPABET phoneme list to inglish spelling."""
     stripped = [strip_stress(p) for p in phonemes]
     result = []
     i = 0
@@ -102,19 +102,19 @@ def main():
         pronunciations = d[word]
 
         if len(pronunciations) == 1:
-            ing = phonemes_to_ingglish(pronunciations[0])
+            ing = phonemes_to_inglish(pronunciations[0])
             ipa = phonemes_to_ipa(pronunciations[0])
             entries.append((word, ing, ipa))
         else:
             multi_count += 1
-            # pick the pronunciation whose ingglish is closest to the english
+            # pick the pronunciation whose inglish is closest to the english
             best_ing = None
             best_ipa = None
             best_dist = float('inf')
             first_ing = None
 
             for pron in pronunciations:
-                ing = phonemes_to_ingglish(pron)
+                ing = phonemes_to_inglish(pron)
                 ipa = phonemes_to_ipa(pron)
                 dist = edit_distance(word, ing)
 
@@ -134,8 +134,8 @@ def main():
     # write DIKSHUNEREE.md
     with open('DIKSHUNEREE.md', 'w', encoding='utf-8') as f:
         f.write('# dictionary\n\n')
-        f.write('ingglish dictionary generated from the CMU Pronouncing Dictionary.\n\n')
-        f.write('| english | ingglish | IPA |\n')
+        f.write('inglish dictionary generated from the CMU Pronouncing Dictionary.\n\n')
+        f.write('| english | inglish | IPA |\n')
         f.write('|---------|---------|-----|\n')
         for word, ing, ipa in entries:
             f.write(f'| {word} | {ing} | {ipa} |\n')

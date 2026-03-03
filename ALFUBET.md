@@ -1,6 +1,6 @@
-# ingglish alphabet
+# inglish alphabet
 
-the ingglish alphabet maps every sound in american english to exactly one spelling. no silent letters, no ambiguity.
+the inglish alphabet maps every sound in american english to exactly one spelling. no silent letters, no ambiguity.
 
 ## rules
 
@@ -11,7 +11,7 @@ the ingglish alphabet maps every sound in american english to exactly one spelli
 
 ## consonants
 
-| IPA | ingglish | example (english → ingglish) |
+| IPA | inglish | example (english → inglish) |
 |-----|---------|----------------------------|
 | b   | b       | bat → bat                  |
 | tʃ  | ch      | chin → chin                |
@@ -40,7 +40,7 @@ the ingglish alphabet maps every sound in american english to exactly one spelli
 
 ## vowels
 
-| IPA | ingglish | rule | example (english → ingglish) |
+| IPA | inglish | rule | example (english → inglish) |
 |-----|---------|------|-----------------------------|
 | æ   | a       | short a (vowel alone) | cat → kat |
 | ɛ   | e       | short e (vowel alone) | bet → bet |
