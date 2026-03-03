@@ -54,18 +54,10 @@
     border-color: #999;
   }
 
-  .input-section {
-    background: #fff;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 1.5rem;
-    margin-bottom: 1.5rem;
-  }
-
   .tabs {
     display: flex;
     gap: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
     border-bottom: 2px solid #e0e0e0;
   }
 
@@ -92,6 +84,14 @@
   .tab-content { display: none; }
   .tab-content.active { display: block; }
 
+  .section {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
   textarea {
     width: 100%;
     min-height: 180px;
@@ -105,21 +105,6 @@
   }
 
   textarea:focus { outline: 2px solid #333; outline-offset: -1px; border-color: #333; }
-
-  .url-row {
-    display: flex;
-    gap: 0.5rem;
-  }
-
-  .url-row input {
-    flex: 1;
-    padding: 0.6rem 0.75rem;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    font-size: 0.95rem;
-  }
-
-  .url-row input:focus { outline: 2px solid #333; outline-offset: -1px; border-color: #333; }
 
   button {
     padding: 0.6rem 1.25rem;
@@ -137,7 +122,6 @@
   }
 
   .btn-primary:hover { background: #333; }
-  .btn-primary:disabled { background: #999; cursor: not-allowed; }
 
   .btn-secondary {
     background: #e8e8e8;
@@ -229,6 +213,71 @@
     color: #888;
     margin-top: 0.5rem;
   }
+
+  /* rules page styles */
+  .rules h2 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .rules h2:first-child { margin-top: 0; }
+
+  .rules h3 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin-top: 1.25rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .rules p {
+    margin-bottom: 0.75rem;
+    font-size: 0.95rem;
+  }
+
+  .rules ul {
+    margin-bottom: 0.75rem;
+    padding-left: 1.5rem;
+    font-size: 0.95rem;
+  }
+
+  .rules li { margin-bottom: 0.25rem; }
+
+  .rules table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+  }
+
+  .rules th {
+    text-align: left;
+    padding: 0.5rem 0.75rem;
+    border-bottom: 2px solid #ddd;
+    font-weight: 600;
+    background: #fafafa;
+  }
+
+  .rules td {
+    padding: 0.4rem 0.75rem;
+    border-bottom: 1px solid #eee;
+  }
+
+  .rules tr:hover td { background: #fafafa; }
+
+  .rules code {
+    background: #f0f0f0;
+    padding: 0.1rem 0.35rem;
+    border-radius: 3px;
+    font-size: 0.88rem;
+    font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace;
+  }
+
+  .rules .example {
+    color: #555;
+    font-style: italic;
+  }
 </style>
 </head>
 <body>
@@ -243,37 +292,136 @@
   <div class="status" id="status">loading dictionary...</div>
 
   <div id="app" style="display:none">
-    <div class="input-section">
-      <div class="tabs">
-        <button class="tab active" data-tab="text">paste text</button>
-        <button class="tab" data-tab="url">fetch URL</button>
-      </div>
+    <div class="tabs">
+      <button class="tab active" data-tab="translate">translate</button>
+      <button class="tab" data-tab="rules">rules</button>
+    </div>
 
-      <div class="tab-content active" id="tab-text">
+    <div class="tab-content active" id="tab-translate">
+      <div class="section">
         <textarea id="inputText" placeholder="paste or type english text here..."></textarea>
-      </div>
-
-      <div class="tab-content" id="tab-url">
-        <div class="url-row">
-          <input type="url" id="inputUrl" placeholder="https://example.com">
-          <button class="btn-primary" id="fetchBtn">fetch</button>
+        <div class="actions">
+          <button class="btn-secondary" id="clearBtn">clear</button>
+          <button class="btn-primary" id="translateBtn">translate</button>
         </div>
-        <textarea id="fetchedText" placeholder="fetched content will appear here..." style="margin-top:0.75rem" readonly></textarea>
       </div>
 
-      <div class="actions">
-        <button class="btn-secondary" id="clearBtn">clear</button>
-        <button class="btn-primary" id="translateBtn">translate</button>
+      <div class="output-section" id="outputSection">
+        <div class="output-header">
+          <h2>ingglish</h2>
+          <button class="btn-secondary" id="copyBtn">copy</button>
+        </div>
+        <div class="output-body" id="outputText"></div>
+        <div class="stats" id="stats"></div>
       </div>
     </div>
 
-    <div class="output-section" id="outputSection">
-      <div class="output-header">
-        <h2>ingglish</h2>
-        <button class="btn-secondary" id="copyBtn">copy</button>
+    <div class="tab-content" id="tab-rules">
+      <div class="section rules">
+        <h2>the core principle</h2>
+        <p><strong>one sound = one spelling.</strong> if you can read the letters, you can pronounce the word. if you can hear the word, you can spell it.</p>
+        <p>the letter assignments stay as close to standard english as possible so that ingglish remains readable to english speakers.</p>
+
+        <h2>consonants</h2>
+        <p>consonants work the way you'd expect from english. each consonant letter or pair makes one sound and only that sound.</p>
+        <table>
+          <tr><th>ingglish</th><th>sound</th><th>example</th></tr>
+          <tr><td><code>b</code></td><td>b as in bat</td><td>bat &rarr; bat</td></tr>
+          <tr><td><code>ch</code></td><td>ch as in chin</td><td>chin &rarr; chin</td></tr>
+          <tr><td><code>d</code></td><td>d as in dog</td><td>dog &rarr; dog</td></tr>
+          <tr><td><code>f</code></td><td>f as in fish</td><td>fish &rarr; fish</td></tr>
+          <tr><td><code>g</code></td><td>always hard g as in go</td><td>go &rarr; goe, get &rarr; get</td></tr>
+          <tr><td><code>h</code></td><td>h as in hat</td><td>hat &rarr; hat</td></tr>
+          <tr><td><code>j</code></td><td>j as in judge</td><td>judge &rarr; juj</td></tr>
+          <tr><td><code>k</code></td><td>k as in cat</td><td>cat &rarr; kat, cake &rarr; kaek</td></tr>
+          <tr><td><code>l</code></td><td>l as in lip</td><td>lip &rarr; lip</td></tr>
+          <tr><td><code>m</code></td><td>m as in map</td><td>map &rarr; map</td></tr>
+          <tr><td><code>n</code></td><td>n as in nap</td><td>nap &rarr; nap</td></tr>
+          <tr><td><code>ng</code></td><td>ng as in sing</td><td>sing &rarr; sing</td></tr>
+          <tr><td><code>p</code></td><td>p as in pen</td><td>pen &rarr; pen</td></tr>
+          <tr><td><code>r</code></td><td>r as in red</td><td>red &rarr; red</td></tr>
+          <tr><td><code>s</code></td><td>s as in sun</td><td>sun &rarr; sun</td></tr>
+          <tr><td><code>sh</code></td><td>sh as in ship</td><td>ship &rarr; ship</td></tr>
+          <tr><td><code>t</code></td><td>t as in top</td><td>top &rarr; taap</td></tr>
+          <tr><td><code>th</code></td><td>th as in thin or the</td><td>thin &rarr; thin, the &rarr; thu</td></tr>
+          <tr><td><code>v</code></td><td>v as in van</td><td>van &rarr; van</td></tr>
+          <tr><td><code>w</code></td><td>w as in win</td><td>win &rarr; win</td></tr>
+          <tr><td><code>y</code></td><td>y as in yes</td><td>yes &rarr; yes</td></tr>
+          <tr><td><code>z</code></td><td>z as in zoo</td><td>zoo &rarr; zoo</td></tr>
+          <tr><td><code>zj</code></td><td>zh as in measure</td><td>measure &rarr; mezjyr</td></tr>
+        </table>
+        <p>notable differences from english:</p>
+        <ul>
+          <li><strong><code>k</code> replaces <code>c</code></strong> for the /k/ sound &mdash; cat &rarr; kat, cake &rarr; kaek</li>
+          <li><strong><code>g</code> is always hard</strong> &mdash; there is no soft g (that sound is spelled <code>j</code>)</li>
+          <li><strong><code>th</code> covers both th sounds</strong> &mdash; thin (voiceless) and the (voiced) both use <code>th</code></li>
+          <li><strong><code>zj</code> is new</strong> &mdash; english has no dedicated spelling for the sound in measure, pleasure, vision</li>
+        </ul>
+
+        <h2>vowels</h2>
+        <p>vowels follow three simple rules based on what's next to them.</p>
+
+        <h3>rule 1: a vowel by itself makes its short sound</h3>
+        <p>when a vowel appears alone (not next to another vowel), it makes its common short sound.</p>
+        <table>
+          <tr><th>ingglish</th><th>sound</th><th>example</th></tr>
+          <tr><td><code>a</code></td><td>a as in cat</td><td>cat &rarr; kat, bat &rarr; bat</td></tr>
+          <tr><td><code>e</code></td><td>e as in bet</td><td>bet &rarr; bet, pen &rarr; pen</td></tr>
+          <tr><td><code>i</code></td><td>i as in bit</td><td>bit &rarr; bit, fish &rarr; fish</td></tr>
+          <tr><td><code>o</code></td><td>o as in dog</td><td>dog &rarr; dog, for &rarr; for, law &rarr; lo</td></tr>
+          <tr><td><code>u</code></td><td>u as in but, or the schwa</td><td>but &rarr; but, about &rarr; ubout</td></tr>
+        </table>
+        <p>the schwa (the unstressed "uh" sound in words like about, the, mother) is spelled <code>u</code> because it sounds closest to short u.</p>
+
+        <h3>rule 2: a vowel followed by <code>e</code> sounds like its name</h3>
+        <p>adding <code>e</code> immediately after a vowel makes it "say its name" &mdash; the long vowel sound.</p>
+        <table>
+          <tr><th>ingglish</th><th>sound</th><th>example</th></tr>
+          <tr><td><code>ae</code></td><td>long a as in make</td><td>make &rarr; maek, cake &rarr; kaek</td></tr>
+          <tr><td><code>ee</code></td><td>long e as in see</td><td>see &rarr; see, meet &rarr; meet, seat &rarr; seet</td></tr>
+          <tr><td><code>ie</code></td><td>long i as in bike</td><td>bike &rarr; biek, time &rarr; tiem, night &rarr; niet</td></tr>
+          <tr><td><code>oe</code></td><td>long o as in go</td><td>go &rarr; goe, home &rarr; hoem, phone &rarr; foen</td></tr>
+          <tr><td><code>ue</code></td><td>long u as in use</td><td>use &rarr; uez, cute &rarr; kuet</td></tr>
+        </table>
+        <p>this replaces english's unpredictable "silent e" rule with a consistent vowel pair.</p>
+
+        <h3>rule 3: a doubled vowel makes an elongated sound</h3>
+        <p>repeating a vowel produces a longer, distinct vowel sound.</p>
+        <table>
+          <tr><th>ingglish</th><th>sound</th><th>example</th></tr>
+          <tr><td><code>aa</code></td><td>ah as in hot</td><td>hot &rarr; haat, top &rarr; taap, lot &rarr; laat</td></tr>
+          <tr><td><code>oo</code></td><td>oo as in food</td><td>food &rarr; food, through &rarr; throo, blue &rarr; bloo</td></tr>
+          <tr><td><code>uu</code></td><td>oo as in book</td><td>book &rarr; buuk, put &rarr; puut, push &rarr; puush</td></tr>
+        </table>
+
+        <h3>diphthongs and r-colored vowels</h3>
+        <p>a few vowel combinations represent sounds that glide between two vowels, plus one r-colored vowel.</p>
+        <table>
+          <tr><th>ingglish</th><th>sound</th><th>example</th></tr>
+          <tr><td><code>ou</code></td><td>ou as in out</td><td>out &rarr; out, loud &rarr; loud</td></tr>
+          <tr><td><code>oi</code></td><td>oi as in boy</td><td>boy &rarr; boi, coin &rarr; koin</td></tr>
+          <tr><td><code>yr</code></td><td>ur as in bird</td><td>bird &rarr; byrd, her &rarr; hyr, turn &rarr; tyrn, world &rarr; wyrld</td></tr>
+        </table>
+
+        <h2>reading rule: first diphthong wins</h2>
+        <p>when two vowels are adjacent, read left to right and match the first diphthong or digraph you find. this resolves cases where separate vowel sounds happen to sit next to each other.</p>
+        <p>for example, <code>ukrooul</code> (accrual) contains <code>ou</code> &mdash; but reading left to right, <code>oo</code> matches first, leaving a lone <code>u</code>. the word reads as u-k-r-oo-u-l, not u-k-r-o-ou-l.</p>
+
+        <h2>alternate pronunciations</h2>
+        <p>when a word has more than one accepted pronunciation, use the one whose ingglish spelling is closest to the current US english spelling. this keeps ingglish as readable as possible for english speakers.</p>
+        <p>for example, "hello" has two pronunciations: /h&#x025B;lo&#x028A;/ &rarr; <code>heloe</code> and /h&#x028C;lo&#x028A;/ &rarr; <code>huloe</code>. <code>heloe</code> wins because it preserves more of the original english spelling.</p>
+
+        <h2>summary</h2>
+        <p>the entire system rests on a few principles:</p>
+        <ul>
+          <li><strong>every letter or letter combination has exactly one sound</strong></li>
+          <li><strong>letter-to-sound assignments stay close to standard english</strong></li>
+          <li><strong>vowel sounds change only based on the immediately adjacent vowel:</strong> vowel alone &rarr; short sound, vowel + e &rarr; long sound, vowel + same vowel &rarr; elongated sound</li>
+          <li><strong>first diphthong wins</strong> &mdash; read left to right, match the first vowel pair</li>
+          <li><strong>no silent letters</strong> &mdash; every letter you see, you pronounce</li>
+          <li><strong>no exceptions</strong> &mdash; the rules apply to every word</li>
+        </ul>
       </div>
-      <div class="output-body" id="outputText"></div>
-      <div class="stats" id="stats"></div>
     </div>
   </div>
 </div>
@@ -293,7 +441,6 @@
       const resp = await fetch('dikshuneree.json');
       if (!resp.ok) throw new Error('failed to load dictionary');
       dictionary = await resp.json();
-      const count = Object.keys(dictionary).length;
       bar.classList.remove('active');
       status.style.display = 'none';
       document.getElementById('app').style.display = 'block';
@@ -306,7 +453,6 @@
 
   // --- translation logic (mirrors tranzlaet.py) ---
 
-  const TAG_RE = /<[^>]*>/;
   const TOKEN_RE = /<[^>]*>|[^<\s]+|\s+/g;
   const PUNCT_RE = /^([^\w]*)(\w.*\w|\w)([^\w]*)$/u;
 
@@ -327,7 +473,6 @@
 
     const parts = [];
     for (const token of tokens) {
-      // pass through whitespace and HTML tags
       if (/^\s+$/.test(token) || (token.startsWith('<') && token.endsWith('>'))) {
         parts.push(token);
         continue;
@@ -364,13 +509,7 @@
 
     // translate
     document.getElementById('translateBtn').addEventListener('click', () => {
-      const activeTab = document.querySelector('.tab.active').dataset.tab;
-      let input;
-      if (activeTab === 'text') {
-        input = document.getElementById('inputText').value;
-      } else {
-        input = document.getElementById('fetchedText').value;
-      }
+      const input = document.getElementById('inputText').value;
       if (!input.trim()) return;
 
       const start = performance.now();
@@ -383,44 +522,9 @@
       document.getElementById('outputSection').classList.add('visible');
     });
 
-    // fetch URL
-    document.getElementById('fetchBtn').addEventListener('click', async () => {
-      const url = document.getElementById('inputUrl').value.trim();
-      if (!url) return;
-
-      const btn = document.getElementById('fetchBtn');
-      const fetched = document.getElementById('fetchedText');
-      btn.disabled = true;
-      btn.textContent = '...';
-      fetched.value = '';
-
-      try {
-        const resp = await fetch(url);
-        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-        const text = await resp.text();
-        fetched.value = text;
-      } catch (e) {
-        // try CORS proxy fallback
-        try {
-          const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(url);
-          const resp = await fetch(proxyUrl);
-          if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-          const text = await resp.text();
-          fetched.value = text;
-        } catch (e2) {
-          fetched.value = `error fetching URL: ${e.message}\n\nthis may be due to CORS restrictions. try pasting the content directly instead.`;
-        }
-      }
-
-      btn.disabled = false;
-      btn.textContent = 'fetch';
-    });
-
     // clear
     document.getElementById('clearBtn').addEventListener('click', () => {
       document.getElementById('inputText').value = '';
-      document.getElementById('fetchedText').value = '';
-      document.getElementById('inputUrl').value = '';
       document.getElementById('outputSection').classList.remove('visible');
     });
 
