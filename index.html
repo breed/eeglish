@@ -54,14 +54,6 @@
     border-color: #999;
   }
 
-  button.gh-btn {
-    border: 1px solid #ccc;
-    padding: 0.4rem 1rem;
-    background: none;
-    font-weight: normal;
-    font-size: 0.85rem;
-  }
-
   .tabs {
     display: flex;
     gap: 0;
@@ -307,7 +299,6 @@
     <h1>inglish tranzlaetur</h1>
     <p>convert standard american english to inglish spelling</p>
     <a href="https://github.com/breed/eeglish" class="gh-btn">view on github</a>
-    <button id="langToggle" class="gh-btn">inglish</button>
   </header>
 
   <div class="loading-bar" id="loadingBar"></div>
@@ -557,70 +548,6 @@
     return parts.join('');
   }
 
-  // --- language toggle ---
-
-  let isInglish = false;
-  const savedTextNodes = [];
-  const savedAttrs = [];
-
-  function shouldSkipNode(node) {
-    const skip = new Set(['CODE', 'SCRIPT', 'STYLE', 'TABLE', 'TEXTAREA']);
-    let el = node.parentElement;
-    while (el) {
-      if (skip.has(el.tagName)) return true;
-      if (el.id === 'langToggle' || el.id === 'outputText' || el.id === 'stats') return true;
-      el = el.parentElement;
-    }
-    return false;
-  }
-
-  function toggleLanguage() {
-    if (!dictionary) return;
-    const btn = document.getElementById('langToggle');
-
-    if (isInglish) {
-      for (const {node, original} of savedTextNodes) {
-        node.textContent = original;
-      }
-      for (const {el, attr, original} of savedAttrs) {
-        el.setAttribute(attr, original);
-      }
-      savedTextNodes.length = 0;
-      savedAttrs.length = 0;
-      btn.textContent = 'inglish';
-      isInglish = false;
-    } else {
-      const walker = document.createTreeWalker(
-        document.querySelector('.container'),
-        NodeFilter.SHOW_TEXT
-      );
-      const nodes = [];
-      while (walker.nextNode()) nodes.push(walker.currentNode);
-
-      for (const node of nodes) {
-        if (!node.textContent.trim() || shouldSkipNode(node)) continue;
-        const original = node.textContent;
-        const translated = translateText(original);
-        if (translated !== original) {
-          savedTextNodes.push({node, original});
-          node.textContent = translated;
-        }
-      }
-
-      // translate placeholder
-      const textarea = document.getElementById('inputText');
-      const origPh = textarea.placeholder;
-      const translatedPh = translateText(origPh);
-      if (translatedPh !== origPh) {
-        savedAttrs.push({el: textarea, attr: 'placeholder', original: origPh});
-        textarea.placeholder = translatedPh;
-      }
-
-      btn.textContent = 'english';
-      isInglish = true;
-    }
-  }
-
   // --- UI ---
 
   function initUI() {
@@ -671,14 +598,12 @@
         document.getElementById('translateBtn').click();
       }
     });
-
-    // language toggle
-    document.getElementById('langToggle').addEventListener('click', toggleLanguage);
   }
 
   initUI();
   loadDictionary();
 })();
 </script>
+<script src="translate-button.js"></script>
 </body>
 </html>
