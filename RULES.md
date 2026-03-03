@@ -120,6 +120,34 @@ the inglish dictionary (`DIKSHUNEREE.md` and `dikshuneree.json`) is generated fr
 
 acronyms (words whose only pronunciations are letter-by-letter spellings, like "FBI" or "USA") are excluded from the dictionary — they are left untranslated.
 
+## contractions
+
+contractions preserve the apostrophe and suffix. only the base word (the part before the apostrophe) is respelled in inglish.
+
+some suffixes are shortened since the doubled letter is redundant:
+
+- **'ll → 'l** (one l is enough for the /l/ sound)
+- **'ve → 'v** (v alone makes the /v/ sound)
+- **'re → 'r** (r alone makes the /ɹ/ sound)
+
+all other suffixes stay as written: **'t** (for n't), **'m**, **'d**, **'s**.
+
+| english | base | suffix | inglish |
+|---------|------|--------|---------|
+| don't | don | 't | doen't |
+| can't | can | 't | kan't |
+| wouldn't | wouldn | 't | wuudun't |
+| I'm | I | 'm | ie'm |
+| we're | we | 're → 'r | wee'r |
+| I'll | I | 'll → 'l | ie'l |
+| I've | I | 've → 'v | ie'v |
+| he'd | he | 'd | hee'd |
+| he's | he | 's | hee's |
+| it's | it | 's | it's |
+| let's | let | 's | let's |
+
+words with a leading apostrophe ('em, 'twas, 'til) pass through unchanged.
+
 ## alternate pronunciations
 
 when a word has more than one accepted pronunciation, use the one whose inglish spelling is closest to the current US english spelling. this keeps inglish as readable as possible for english speakers.

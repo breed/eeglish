@@ -43,6 +43,54 @@ def strip_stress(phoneme):
     return re.sub(r'[012]$', '', phoneme)
 
 
+# contraction suffix mappings
+# key: suffix text after apostrophe in the english word
+# value: (output suffix with apostrophe, phoneme endings to try stripping)
+CONTRACTION_SUFFIXES = {
+    't':  ("'t",  [['T']]),
+    's':  ("'s",  [['Z'], ['S']]),
+    'd':  ("'d",  [['D']]),
+    'll': ("'l",  [['L']]),
+    'm':  ("'m",  [['M']]),
+    're': ("'r",  [['R']]),
+    've': ("'v",  [['AH', 'V'], ['V']]),
+}
+
+
+def contraction_suffix(word):
+    """Return the contraction suffix text if word has a known one, else None."""
+    if "'" not in word:
+        return None
+    apos_idx = word.index("'")
+    if apos_idx == 0:  # leading apostrophe ('twas, 'em)
+        return None
+    suffix = word[apos_idx + 1:]
+    if suffix in CONTRACTION_SUFFIXES:
+        return suffix
+    return None
+
+
+def contraction_inglish(phonemes, word, suffix_text):
+    """Convert a contraction to inglish, preserving the apostrophe and suffix.
+
+    Strips suffix phonemes from the pronunciation, translates the base,
+    and appends the (possibly shortened) suffix.
+    """
+    output_suffix, phoneme_options = CONTRACTION_SUFFIXES[suffix_text]
+    stripped = [strip_stress(p) for p in phonemes]
+
+    # try to strip suffix phonemes from the end (longest pattern first)
+    base_end = len(phonemes)
+    for ending in phoneme_options:
+        n = len(ending)
+        if len(stripped) >= n and stripped[-n:] == ending:
+            base_end = len(phonemes) - n
+            break
+
+    base_ing = phonemes_to_inglish(phonemes[:base_end], word)
+    return base_ing + output_suffix
+
+
 def has_aw_sound(word):
     """Check if the english word uses 'aw' spelling for the ɔː sound."""
     return 'aw' in word
@@ -147,6 +195,7 @@ def main():
     multi_count = 0
     changed_count = 0
     acronym_count = 0
+    contraction_count = 0
 
     # words to exclude (collide with the inglish language name)
     exclude = {'inglish'}
@@ -154,6 +203,11 @@ def main():
     for word in sorted(d.keys()):
         if word in exclude:
             continue
+
+        # skip leading-apostrophe words ('em, 'twas, etc.) — pass through unchanged
+        if word.startswith("'"):
+            continue
+
         pronunciations = d[word]
 
         # skip acronyms (words whose only pronunciations are letter-by-letter)
@@ -161,8 +215,18 @@ def main():
             acronym_count += 1
             continue
 
+        # detect contraction suffix
+        suffix = contraction_suffix(word)
+        if suffix:
+            contraction_count += 1
+
+        def to_inglish(pron):
+            if suffix:
+                return contraction_inglish(pron, word, suffix)
+            return phonemes_to_inglish(pron, word)
+
         if len(pronunciations) == 1:
-            ing = phonemes_to_inglish(pronunciations[0], word)
+            ing = to_inglish(pronunciations[0])
             ipa = phonemes_to_ipa(pronunciations[0], word)
             entries.append((word, ing, ipa))
         else:
@@ -177,7 +241,7 @@ def main():
             first_ing = None
 
             for pron in pronunciations:
-                ing = phonemes_to_inglish(pron, word)
+                ing = to_inglish(pron)
                 ipa = phonemes_to_ipa(pron, word)
                 dist = edit_distance(word, ing)
                 ao_count = sum(1 for p in pron if strip_stress(p) == 'AO')
@@ -212,12 +276,15 @@ def main():
 
     print(f'total entries: {len(entries)}')
     print(f'acronyms excluded: {acronym_count}')
+    print(f'contractions preserved: {contraction_count}')
     print(f'words with multiple pronunciations: {multi_count}')
     print(f'words where alternate pronunciation was chosen: {changed_count}')
 
     # spot check
     for w in ['hello', 'the', 'hot', 'dog', 'bird', 'world', 'measure',
-              'cat', 'go', 'food', 'law', 'thought']:
+              'cat', 'go', 'food', 'law', 'thought',
+              "don't", "can't", "wouldn't", "i'm", "we're",
+              "i'll", "i've", "he'd", "he's", "it's", "let's"]:
         if w in dictionary:
             print(f'  {w} → {dictionary[w]}')
 
