@@ -122,7 +122,9 @@ acronyms (words whose only pronunciations are letter-by-letter spellings, like "
 
 ## contractions
 
-contractions preserve the apostrophe and suffix. only the base word (the part before the apostrophe) is respelled in inglish.
+contractions preserve the apostrophe and suffix.
+**NOTE** **n't** is a special case that counts the *n* as well as the *'t* as the suffix.
+only the base word (the part before the suffix) is respelled in inglish.
 
 some suffixes are shortened since the doubled letter is redundant:
 
@@ -136,7 +138,7 @@ all other suffixes stay as written: **n't**, **'m**, **'d**, **'s**.
 |---------|------|--------|---------|
 | don't | do | n't | doen't |
 | can't | ca | n't | kan't |
-| wouldn't | would | n't | wuudun't |
+| wouldn't | would | n't | wuudn't |
 | I'm | I | 'm | ie'm |
 | we're | we | 're → 'r | wee'r |
 | I'll | I | 'll → 'l | ie'l |

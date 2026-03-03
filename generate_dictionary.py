@@ -47,7 +47,7 @@ def strip_stress(phoneme):
 # key: suffix identifier
 # value: (output suffix, phoneme endings to try stripping)
 CONTRACTION_SUFFIXES = {
-    "n't": ("n't", [['N', 'T'], ['N']]),
+    "n't": ("n't", [['AH', 'N', 'T'], ['N', 'T'], ['AH', 'N'], ['N']]),
     's':   ("'s",  [['Z'], ['S']]),
     'd':   ("'d",  [['D']]),
     'll':  ("'l",  [['L']]),
