@@ -2,7 +2,7 @@
 
 a website and tools that convert standard american spelling to inglish spelling.
 
-the site is live at https://ingglish.org (github pages from this repo).
+the site is live at https://inglish.us (github pages from this repo).
 
 ## inglish spelling rules
 
@@ -30,7 +30,7 @@ the site is live at https://ingglish.org (github pages from this repo).
 - `generate_dictionary.py` - regenerates `DIKSHUNEREE.md` and `dikshuneree.json` from CMU Pronouncing Dictionary
 - `tranzlaet.py` - CLI tool that translates english text to inglish (`python3 tranzlaet.py [file...]` or stdin)
 - `index.html` - website with translate tab (paste text) and rules reference tab
-- `CNAME` - custom domain config for github pages (ingglish.org)
+- `CNAME` - custom domain config for github pages (inglish.us)
 
 ## regenerating the dictionary
 
