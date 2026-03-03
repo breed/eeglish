@@ -2,7 +2,7 @@
 
 a website and tools that convert standard american spelling to inglish spelling.
 
-the site is live at https://inglish.org (github pages from this repo).
+the site is live at https://ingglish.org (github pages from this repo).
 
 ## inglish spelling rules
 
@@ -30,7 +30,7 @@ the site is live at https://inglish.org (github pages from this repo).
 - `generate_dictionary.py` - regenerates `DIKSHUNEREE.md` and `dikshuneree.json` from CMU Pronouncing Dictionary
 - `tranzlaet.py` - CLI tool that translates english text to inglish (`python3 tranzlaet.py [file...]` or stdin)
 - `index.html` - website with translate tab (paste text) and rules reference tab
-- `CNAME` - custom domain config for github pages (inglish.org)
+- `CNAME` - custom domain config for github pages (ingglish.org)
 
 ## regenerating the dictionary
 
@@ -59,7 +59,8 @@ when a letter-to-sound mapping changes:
 2. update `RULES.md`
 3. update the mapping in `generate_dictionary.py`
 4. run `generate_dictionary.py` to regenerate `DIKSHUNEREE.md` and `dikshuneree.json`
-5. update this file
+5. update the rules tab content in `index.html`
+6. update this file
 
 ## translation tools
 

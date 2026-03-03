@@ -377,7 +377,7 @@
           <tr><td><code>a</code></td><td>a as in cat</td><td>cat &rarr; kat, bat &rarr; bat</td></tr>
           <tr><td><code>e</code></td><td>e as in bet</td><td>bet &rarr; bet, pen &rarr; pen</td></tr>
           <tr><td><code>i</code></td><td>i as in bit</td><td>bit &rarr; bit, fish &rarr; fish</td></tr>
-          <tr><td><code>o</code></td><td>o as in dog</td><td>dog &rarr; dog, for &rarr; for, law &rarr; lo</td></tr>
+          <tr><td><code>o</code></td><td>o as in dog</td><td>dog &rarr; dog, for &rarr; for, law &rarr; laa</td></tr>
           <tr><td><code>u</code></td><td>u as in but, or the schwa</td><td>but &rarr; but, about &rarr; ubout</td></tr>
         </table>
         <p>the schwa (the unstressed "uh" sound in words like about, the, mother) is spelled <code>u</code> because it sounds closest to short u.</p>
@@ -398,7 +398,7 @@
         <p>repeating a vowel produces a longer, distinct vowel sound.</p>
         <table>
           <tr><th>inglish</th><th>sound</th><th>example</th></tr>
-          <tr><td><code>aa</code></td><td>ah as in hot</td><td>hot &rarr; haat, top &rarr; taap, lot &rarr; laat</td></tr>
+          <tr><td><code>aa</code></td><td>ah as in hot</td><td>hot &rarr; haat, pot &rarr; paat, rock &rarr; raak</td></tr>
           <tr><td><code>oo</code></td><td>oo as in food</td><td>food &rarr; food, through &rarr; throo, blue &rarr; bloo</td></tr>
           <tr><td><code>uu</code></td><td>oo as in book</td><td>book &rarr; buuk, put &rarr; puut, push &rarr; puush</td></tr>
         </table>
@@ -505,7 +505,7 @@
 
   // --- language toggle ---
 
-  let isIngglish = false;
+  let isInglish = false;
   const savedTextNodes = [];
   const savedAttrs = [];
 
@@ -524,7 +524,7 @@
     if (!dictionary) return;
     const btn = document.getElementById('langToggle');
 
-    if (isIngglish) {
+    if (isInglish) {
       for (const {node, original} of savedTextNodes) {
         node.textContent = original;
       }
@@ -534,7 +534,7 @@
       savedTextNodes.length = 0;
       savedAttrs.length = 0;
       btn.textContent = 'inglish';
-      isIngglish = false;
+      isInglish = false;
     } else {
       const walker = document.createTreeWalker(
         document.querySelector('.container'),
@@ -563,7 +563,7 @@
       }
 
       btn.textContent = 'english';
-      isIngglish = true;
+      isInglish = true;
     }
   }
 

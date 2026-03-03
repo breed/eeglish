@@ -58,7 +58,7 @@ when a vowel appears alone (not next to another vowel), it makes its common shor
 | a | a as in cat | cat → kat, bat → bat |
 | e | e as in bet | bet → bet, pen → pen |
 | i | i as in bit | bit → bit, fish → fish |
-| o | o as in dog | dog → dog, for → for, law → lo |
+| o | o as in dog | dog → dog, for → for, law → laa |
 | u | u as in but, or the schwa sound | but → but, about → ubout |
 
 the schwa (the unstressed "uh" sound in words like about, the, mother) is spelled `u` because it sounds closest to short u.
@@ -83,7 +83,7 @@ repeating a vowel produces a longer, distinct vowel sound.
 
 | inglish | sound | english examples |
 |----------|-------|-----------------|
-| aa | ah as in hot | hot → haat, top → taap, lot → laat |
+| aa | ah as in hot | hot → haat, pot → paat, rock → raak |
 | oo | oo as in food | food → food, through → throo, blue → bloo |
 | uu | oo as in book | book → buuk, put → puut, push → puush |
 
