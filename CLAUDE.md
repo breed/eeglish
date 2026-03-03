@@ -18,6 +18,7 @@ the site is live at https://inglish.us (github pages from this repo).
 - `th` is used for both voiced (ð) and voiceless (θ) th sounds
 - first diphthong wins — read left to right, greedily match the first vowel pair
 - when multiple pronunciations exist, pick the one whose inglish spelling is closest to the english spelling (edit distance)
+- don't translate acronyms — they are excluded from the dictionary
 - don't translate HTML tags or special markdown keys or tags
 - see `ALFUBET.md` for the full letter mapping and `RULES.md` for detailed rules with examples
 
@@ -25,7 +26,7 @@ the site is live at https://inglish.us (github pages from this repo).
 
 - `ALFUBET.md` - IPA-to-inglish letter mapping (24 consonants, 17 vowels)
 - `RULES.md` - detailed explanation of the spelling rules with examples
-- `DIKSHUNEREE.md` - 126,052 word dictionary with columns `english`, `inglish`, `IPA`
+- `DIKSHUNEREE.md` - 125,873 word dictionary with columns `english`, `inglish`, `IPA`
 - `dikshuneree.json` - JSON version of the dictionary for the website
 - `generate_dictionary.py` - regenerates `DIKSHUNEREE.md` and `dikshuneree.json` from CMU Pronouncing Dictionary
 - `tranzlaet.py` - CLI tool that translates english text to inglish (`python3 tranzlaet.py [file...]` or stdin)
@@ -51,6 +52,7 @@ the script:
 4. strips stress markers (0, 1, 2) from ARPABET codes
 5. when multiple pronunciations exist, picks the one whose inglish spelling is closest to the english spelling (levenshtein distance)
 6. both DH and TH map to `th`
+7. excludes acronyms (words whose only pronunciations are letter-by-letter spellings)
 
 ## changing letter mappings
 

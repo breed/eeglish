@@ -91,21 +91,56 @@ def edit_distance(a, b):
     return dp[n]
 
 
+# how each letter of the alphabet is pronounced when spelled out
+_LETTER_PRONS = {
+    'a': ['EY'], 'b': ['B','IY'], 'c': ['S','IY'], 'd': ['D','IY'],
+    'e': ['IY'], 'f': ['EH','F'], 'g': ['JH','IY'], 'h': ['EY','CH'],
+    'i': ['AY'], 'j': ['JH','EY'], 'k': ['K','EY'], 'l': ['EH','L'],
+    'm': ['EH','M'], 'n': ['EH','N'], 'o': ['OW'], 'p': ['P','IY'],
+    'q': ['K','Y','UW'], 'r': ['AA','R'], 's': ['EH','S'], 't': ['T','IY'],
+    'u': ['Y','UW'], 'v': ['V','IY'], 'w': ['D','AH','B','AH','L','Y','UW'],
+    'x': ['EH','K','S'], 'y': ['W','AY'], 'z': ['Z','IY'],
+}
+
+
+def is_spelled_out(word, pron):
+    """Check if a pronunciation matches letter-by-letter spelling."""
+    expected = []
+    for ch in word:
+        if ch not in _LETTER_PRONS:
+            return False
+        expected.extend(_LETTER_PRONS[ch])
+    return [strip_stress(p) for p in pron] == expected
+
+
+def is_acronym(word, pronunciations):
+    """A word is an acronym if it's 2+ letters and all pronunciations are
+    letter-by-letter spellings."""
+    if not word.isalpha() or len(word) < 2:
+        return False
+    return all(is_spelled_out(word, p) for p in pronunciations)
+
+
 def main():
     d = cmudict.dict()
 
     entries = []
     multi_count = 0
     changed_count = 0
+    acronym_count = 0
 
-    # words to exclude from the dictionary (e.g. "inglish" is a CMU surname
-    # entry that collides with the inglish language name)
+    # words to exclude (collide with the inglish language name)
     exclude = {'inglish'}
 
     for word in sorted(d.keys()):
         if word in exclude:
             continue
         pronunciations = d[word]
+
+        # skip acronyms (words whose only pronunciations are letter-by-letter)
+        if is_acronym(word, pronunciations):
+            acronym_count += 1
+            continue
 
         if len(pronunciations) == 1:
             ing = phonemes_to_inglish(pronunciations[0])
@@ -152,6 +187,7 @@ def main():
         json.dump(dictionary, f, ensure_ascii=False, separators=(',', ':'))
 
     print(f'total entries: {len(entries)}')
+    print(f'acronyms excluded: {acronym_count}')
     print(f'words with multiple pronunciations: {multi_count}')
     print(f'words where alternate pronunciation was chosen: {changed_count}')
 
