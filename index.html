@@ -405,11 +405,17 @@
 
   // --- translation logic (mirrors tranzlaet.py) ---
 
-  const TOKEN_RE = /<[^>]*>|[^<\s]+|\s+/g;
+  const TOKEN_RE = /<[^>]*>|[^<\s]+|<|\s+/g;
   const PUNCT_RE = /^([^\w]*)(\w.*\w|\w)([^\w]*)$/u;
 
+  // own-property check so prototype names (__proto__) never false-match
+  function hasWord(key) {
+    return Object.prototype.hasOwnProperty.call(dictionary, key);
+  }
+
   function applyCapitalization(original, translated) {
-    if (original === original.toUpperCase() && original !== original.toLowerCase()) {
+    // a single capital letter is title case, not ALL CAPS ("I" → "Ie")
+    if (original.length > 1 && original === original.toUpperCase() && original !== original.toLowerCase()) {
       return translated.toUpperCase();
     }
     if (original[0] === original[0].toUpperCase() &&
@@ -434,10 +440,20 @@
         parts.push(token);
         continue;
       }
-      const [, leading, word, trailing] = m;
-      const lookup = word.toLowerCase();
-      if (dictionary[lookup] !== undefined) {
-        const translated = applyCapitalization(word, dictionary[lookup]);
+      const leading = m[1];
+      let word = m[2];
+      let trailing = m[3];
+      // curly apostrophes match the ASCII-apostrophe dictionary entries
+      let lookup = word.toLowerCase().replace(/’/g, "'");
+      // dictionary keys can end in an apostrophe (plural possessives, goin')
+      if ((trailing[0] === "'" || trailing[0] === '’') && hasWord(lookup + "'")) {
+        word += trailing[0];
+        trailing = trailing.slice(1);
+        lookup += "'";
+      }
+      if (hasWord(lookup)) {
+        let translated = applyCapitalization(word, dictionary[lookup]);
+        if (word.includes('’')) translated = translated.replace(/'/g, '’');
         parts.push(leading + translated + trailing);
       } else {
         parts.push(token);
@@ -448,10 +464,18 @@
 
   // --- markdown renderer (for RULES.md) ---
 
+  function escapeHtml(text) {
+    return text.replace(/&/g, '&amp;').replace(/</g, '&lt;')
+               .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
   function mdInline(text) {
+    text = escapeHtml(text);
     text = text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
     text = text.replace(/`(.+?)`/g, '<code>$1</code>');
-    text = text.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+    // only http(s), mailto, and scheme-less (relative/anchor) link targets
+    text = text.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (mm, label, href) =>
+      /^(?:https?:|mailto:|[^:]*$)/i.test(href) ? '<a href="' + href + '">' + label + '</a>' : label);
     return text;
   }
 

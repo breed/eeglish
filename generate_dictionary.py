@@ -226,7 +226,11 @@ def main():
         def to_inglish(pron):
             if suffix:
                 return contraction_inglish(pron, word, suffix)
-            return phonemes_to_inglish(pron, word)
+            ing = phonemes_to_inglish(pron, word)
+            # keep a trailing bare apostrophe (plural possessives, goin', ol')
+            if word.endswith("'"):
+                ing += "'"
+            return ing
 
         if len(pronunciations) == 1:
             ing = to_inglish(pronunciations[0])

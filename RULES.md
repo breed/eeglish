@@ -150,6 +150,8 @@ all other suffixes stay as written: **n't**, **'m**, **'d**, **'s**.
 
 words with a leading apostrophe ('em, 'twas, 'til) pass through unchanged.
 
+words ending in a bare apostrophe — plural possessives (lawyers') and dropped-letter spellings (goin', ol') — respell the word and keep the trailing apostrophe: lawyers' → laayyrz', goin' → goeun', ol' → oel'.
+
 ## alternate pronunciations
 
 when a word has more than one accepted pronunciation, use the one whose inglish spelling is closest to the current US english spelling. this keeps inglish as readable as possible for english speakers.

@@ -20,6 +20,7 @@ key points for tools and dictionary generation:
 - `dikshuneree.json` - JSON version of the dictionary for the website
 - `generate_dictionary.py` - regenerates `DIKSHUNEREE.md` and `dikshuneree.json` from CMU Pronouncing Dictionary
 - `tranzlaet.py` - CLI tool that translates english text to inglish (`python3 tranzlaet.py [file...]` or stdin)
+- `test_tranzlaet.py` - unit tests for tranzlaet.py (`python3 -m unittest test_tranzlaet`)
 - `index.html` - website with translate tab (paste text) and rules tab (auto-rendered from RULES.md)
 - `translate-button.js` - embeddable script that adds a floating inglish translate button to any webpage
 - `CNAME` - custom domain config for github pages (inglish.us)
@@ -44,6 +45,7 @@ the script applies all rules from `RULES.md`, including:
 5. excludes acronyms (words whose only pronunciations are letter-by-letter spellings)
 6. preserves contractions: translates the base word, keeps the apostrophe and suffix ('t, 's, 'd, 'm, 'l, 'r, 'v)
 7. skips leading-apostrophe words ('em, 'twas, etc.) — they pass through the translator unchanged
+8. words ending in a bare apostrophe (plural possessives like lawyers', dropped-letter words like goin' and ol') keep the trailing apostrophe in the inglish spelling
 
 ## changing letter mappings
 
@@ -71,11 +73,18 @@ when a spelling rule changes (contractions, alternate pronunciation selection, a
 - HTML tags and markdown syntax pass through untranslated
 - capitalization is preserved (ALL CAPS, Title Case, lowercase)
 - contractions (don't, I'm, we're, etc.) are looked up as whole tokens — the dictionary already has them with apostrophes preserved
-- the tokenizer regex is `<[^>]*>|[^<\s]+|\s+` — splits on whitespace and HTML tags
+- curly apostrophes (’) are normalized to ' for dictionary lookup, and restored in the translated output
+- the tokenizer regex is `<[^>]*>|[^<\s]+|<|\s+` — splits on whitespace and HTML tags; a lone `<` with no closing `>` passes through as its own token
 - the punctuation regex `^([^\w]*)(\w.*\w|\w)([^\w]*)$` strips leading/trailing non-word characters before dictionary lookup
+- if the stripped trailing punctuation starts with an apostrophe, the apostrophe-inclusive dictionary key is tried first so trailing-apostrophe entries (lawyers', goin', ol') are reachable
+- the JS translators check dictionary words with `Object.prototype.hasOwnProperty` so prototype names (e.g. __proto__) in the text never false-match
+- a single capital letter is treated as title case, not ALL CAPS (I → Ie)
+- `test_tranzlaet.py` covers the python translator (`python3 -m unittest test_tranzlaet`)
 
 ## website rules tab
 
 the rules tab in `index.html` fetches `RULES.md` at runtime and renders it to HTML using a simple inline markdown parser. this means the rules tab is always in sync with `RULES.md` — no manual HTML updates needed.
 
 the markdown parser handles: headings, tables, bold, code, links, ordered/numbered lists (with nested sub-bullets), and paragraphs. if new markdown features are added to `RULES.md` (e.g. blockquotes, images), the parser in `index.html` may need to be extended.
+
+the parser HTML-escapes all text before rendering (so literal `<`, `>`, `&` in RULES.md display correctly) and only allows http(s), mailto, and relative link targets.

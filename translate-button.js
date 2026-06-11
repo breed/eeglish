@@ -4,11 +4,17 @@
   var isInglish = false;
   var saved = [];
 
-  var TOKEN_RE = /<[^>]*>|[^<\s]+|\s+/g;
+  var TOKEN_RE = /<[^>]*>|[^<\s]+|<|\s+/g;
   var PUNCT_RE = /^([^\w]*)(\w.*\w|\w)([^\w]*)$/u;
 
+  // own-property check so prototype names (__proto__) never false-match
+  function hasWord(key) {
+    return Object.prototype.hasOwnProperty.call(dictionary, key);
+  }
+
   function applyCase(orig, trans) {
-    if (orig === orig.toUpperCase() && orig !== orig.toLowerCase()) return trans.toUpperCase();
+    // a single capital letter is title case, not ALL CAPS ("I" → "Ie")
+    if (orig.length > 1 && orig === orig.toUpperCase() && orig !== orig.toLowerCase()) return trans.toUpperCase();
     if (orig[0] === orig[0].toUpperCase() && orig.slice(1) === orig.slice(1).toLowerCase())
       return trans.charAt(0).toUpperCase() + trans.slice(1);
     return trans;
@@ -27,9 +33,19 @@
       var m = t.match(PUNCT_RE);
       if (!m) { parts.push(t); continue; }
       var word = m[2];
-      var lookup = word.toLowerCase();
-      if (dictionary[lookup] !== undefined) {
-        parts.push(m[1] + applyCase(word, dictionary[lookup]) + m[3]);
+      var trailing = m[3];
+      // curly apostrophes match the ASCII-apostrophe dictionary entries
+      var lookup = word.toLowerCase().replace(/’/g, "'");
+      // dictionary keys can end in an apostrophe (plural possessives, goin')
+      if ((trailing.charAt(0) === "'" || trailing.charAt(0) === '’') && hasWord(lookup + "'")) {
+        word += trailing.charAt(0);
+        trailing = trailing.slice(1);
+        lookup += "'";
+      }
+      if (hasWord(lookup)) {
+        var trans = applyCase(word, dictionary[lookup]);
+        if (word.indexOf('’') !== -1) trans = trans.replace(/'/g, '’');
+        parts.push(m[1] + trans + trailing);
       } else {
         parts.push(t);
       }

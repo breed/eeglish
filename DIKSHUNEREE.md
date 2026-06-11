@@ -553,7 +553,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | accountant | ukountunt | ʌkaʊntʌnt |
 | accountant's | ukountunt's | ʌkaʊntʌnts |
 | accountants | ukountunts | ʌkaʊntʌnts |
-| accountants' | ukountunts | ʌkaʊntʌnts |
+| accountants' | ukountunts' | ʌkaʊntʌnts |
 | accounted | ukountid | ʌkaʊntɪd |
 | accountemp | ukountemp | ʌkaʊntɛmp |
 | accountemps | ukountemps | ʌkaʊntɛmps |
@@ -661,7 +661,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | achill's | akil's | ækɪlz |
 | achille | ukilee | ʌkɪliː |
 | achilles | ukileez | ʌkɪliːz |
-| achilles' | ukileez | ʌkɪliːz |
+| achilles' | ukileez' | ʌkɪliːz |
 | aching | aeking | eɪkɪŋ |
 | achingly | aekinglee | eɪkɪŋliː |
 | achmed | aahmed | ɑhmɛd |
@@ -818,7 +818,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | activism | aktivizum | æktɪvɪzʌm |
 | activist | aktivist | æktɪvɪst |
 | activists | aktivists | æktɪvɪsts |
-| activists' | aktivists | æktɪvɪsts |
+| activists' | aktivists' | æktɪvɪsts |
 | activities | aktiviteez | æktɪvɪtiːz |
 | activity | aktivitee | æktɪvɪtiː |
 | actmedia | aktmeedeeu | æktmiːdiːʌ |
@@ -827,7 +827,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | actor | aktyr | æktɝ |
 | actor's | aktyr's | æktɝz |
 | actors | aktyrz | æktɝz |
-| actors' | aktyrz | æktɝz |
+| actors' | aktyrz' | æktɝz |
 | actress | aktrus | æktɹʌs |
 | actress's | aktrusi's | æktɹʌsɪz |
 | actresses | aktrusiz | æktɹʌsɪz |
@@ -895,7 +895,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | adamo | aadaamoe | ɑdɑmoʊ |
 | adamowicz | udaamuvich | ʌdɑmʌvɪtʃ |
 | adams | adumz | ædʌmz |
-| adams' | adumz | ædʌmz |
+| adams' | adumz' | ædʌmz |
 | adams's | adumzi's | ædʌmzɪz |
 | adamski | udamskee | ʌdæmskiː |
 | adamson | adumsun | ædʌmsʌn |
@@ -945,7 +945,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | addictive | udiktiv | ʌdɪktɪv |
 | addicts | adikts | ædɪkts |
 | addidas | udeedus | ʌdiːdʌs |
-| addidas' | udeedus | ʌdiːdʌs |
+| addidas' | udeedus' | ʌdiːdʌs |
 | addidas's | udeedusi's | ʌdiːdʌsɪz |
 | addidases | udeedusiz | ʌdiːdʌsɪz |
 | addie | adee | ædiː |
@@ -1100,13 +1100,13 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | administration | administraeshun | ædmɪnɪstɹeɪʃʌn |
 | administration's | administraeshun's | ædmɪnɪstɹeɪʃʌnz |
 | administrations | administraeshunz | ædmɪnɪstɹeɪʃʌnz |
-| administrations' | administraeshunz | ædmɪnɪstɹeɪʃʌnz |
+| administrations' | administraeshunz' | ædmɪnɪstɹeɪʃʌnz |
 | administrative | udminustraetiv | ʌdmɪnʌstɹeɪtɪv |
 | administratively | adminustraetivlee | ædmɪnʌstɹeɪtɪvliː |
 | administrator | udminustraetyr | ʌdmɪnʌstɹeɪtɝ |
 | administrator's | administraetyr's | ædmɪnɪstɹeɪtɝz |
 | administrators | administraetyrz | ædmɪnɪstɹeɪtɝz |
-| administrators' | adminustraetyrz | ædmɪnʌstɹeɪtɝz |
+| administrators' | adminustraetyrz' | ædmɪnʌstɹeɪtɝz |
 | admins | adminz | ædmɪnz |
 | admira | admieru | ædmaɪɹʌ |
 | admira's | admieru's | ædmaɪɹʌz |
@@ -1211,7 +1211,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | adroit | udroit | ʌdɹɔɪt |
 | adroitly | udroitlee | ʌdɹɔɪtliː |
 | ads | adz | ædz |
-| ads' | adz | ædz |
+| ads' | adz' | ædz |
 | adsit | adsit | ædsɪt |
 | adsorption | udsorpshun | ʌdsɔːɹpʃʌn |
 | adss | ads | æds |
@@ -1232,7 +1232,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | adultery | udultyree | ʌdʌltɝiː |
 | adulthood | udulthuud | ʌdʌlthʊd |
 | adults | adults | ædʌlts |
-| adults' | adults | ædʌlts |
+| adults' | adults' | ædʌlts |
 | adusdur | adusdyr | ædʌsdɝ |
 | advacare | advuker | ædvʌkɛɹ |
 | advalue | advuloo | ædvʌluː |
@@ -1281,7 +1281,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | advertiser | advyrtiezyr | ædvɝtaɪzɝ |
 | advertiser's | advyrtiezyr's | ædvɝtaɪzɝz |
 | advertisers | advyrtiezyrz | ædvɝtaɪzɝz |
-| advertisers' | advyrtiezyrz | ædvɝtaɪzɝz |
+| advertisers' | advyrtiezyrz' | ædvɝtaɪzɝz |
 | advertises | advyrtieziz | ædvɝtaɪzɪz |
 | advertising | advyrtiezing | ædvɝtaɪzɪŋ |
 | advertising's | advyrtiezing's | ædvɝtaɪzɪŋz |
@@ -1300,7 +1300,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | adviser | adviezyr | ædvaɪzɝ |
 | adviser's | udviezyr's | ʌdvaɪzɝz |
 | advisers | adviezyrz | ædvaɪzɝz |
-| advisers' | adviezyrz | ædvaɪzɝz |
+| advisers' | adviezyrz' | ædvaɪzɝz |
 | advises | advieziz | ædvaɪzɪz |
 | advising | adviezing | ædvaɪzɪŋ |
 | advisor | adviezyr | ædvaɪzɝ |
@@ -1429,7 +1429,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | affiliated | ufileeaetid | ʌfɪliːeɪtɪd |
 | affiliated's | ufileeaetid's | ʌfɪliːeɪtɪdz |
 | affiliates | ufileeuts | ʌfɪliːʌts |
-| affiliates' | ufileeits | ʌfɪliːɪts |
+| affiliates' | ufileeits' | ʌfɪliːɪts |
 | affiliating | ufileeaeting | ʌfɪliːeɪtɪŋ |
 | affiliation | ufileeaeshun | ʌfɪliːeɪʃʌn |
 | affiliations | ufileeaeshunz | ʌfɪliːeɪʃʌnz |
@@ -1598,7 +1598,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | agematsu | agumatsoo | æɡʌmætsuː |
 | agence | ajuns | ædʒʌns |
 | agencies | aejunseez | eɪdʒʌnsiːz |
-| agencies' | aejunseez | eɪdʒʌnsiːz |
+| agencies' | aejunseez' | eɪdʒʌnsiːz |
 | agency | aejunsee | eɪdʒʌnsiː |
 | agency's | aejunsee's | eɪdʒʌnsiːz |
 | agenda | ujendu | ʌdʒɛndʌ |
@@ -1606,12 +1606,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | agent | aejunt | eɪdʒʌnt |
 | agent's | aejunt's | eɪdʒʌnts |
 | agents | aejunts | eɪdʒʌnts |
-| agents' | aejunts | eɪdʒʌnts |
+| agents' | aejunts' | eɪdʒʌnts |
 | ager | aejyr | eɪdʒɝ |
 | ageratum | ujerutum | ʌdʒɛɹʌtʌm |
 | ageratums | ujerutumz | ʌdʒɛɹʌtʌmz |
 | agers | aejyrz | eɪdʒɝz |
-| agers' | aejyrz | eɪdʒɝz |
+| agers' | aejyrz' | eɪdʒɝz |
 | agerton | aegyrtun | eɪɡɝtʌn |
 | ages | aejuz | eɪdʒʌz |
 | agfa | agfu | æɡfʌ |
@@ -1855,7 +1855,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | aiden | aeden | eɪdɛn |
 | aidenn | aeden | eɪdɛn |
 | aides | aedz | eɪdz |
-| aides' | aedz | eɪdz |
+| aides' | aedz' | eɪdz |
 | aidid | iedeed | aɪdiːd |
 | aidid's | iedeed's | aɪdiːdz |
 | aiding | aeding | eɪdɪŋ |
@@ -1983,7 +1983,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | airliner's | erlienyr's | ɛɹlaɪnɝz |
 | airliners | erlienyrz | ɛɹlaɪnɝz |
 | airlines | erlienz | ɛɹlaɪnz |
-| airlines' | erlienz | ɛɹlaɪnz |
+| airlines' | erlienz' | ɛɹlaɪnz |
 | airlink | erlingk | ɛɹlɪŋk |
 | airlinks | erlingks | ɛɹlɪŋks |
 | airlock | erlok | ɛɹlɔːk |
@@ -2022,7 +2022,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | airway | erwae | ɛɹweɪ |
 | airway's | erwae's | ɛɹweɪz |
 | airways | erwaez | ɛɹweɪz |
-| airways' | erwaez | ɛɹweɪz |
+| airways' | erwaez' | ɛɹweɪz |
 | airways's | erwaezi's | ɛɹweɪzɪz |
 | airwing | erwing | ɛɹwɪŋ |
 | airwings | erwingz | ɛɹwɪŋz |
@@ -2610,7 +2610,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | allegiances | aleejeeansiz | æliːdʒiːænsɪz |
 | alleging | ulejing | ʌlɛdʒɪŋ |
 | allegis | alaejis | æleɪdʒɪs |
-| allegis' | alaejis | æleɪdʒɪs |
+| allegis' | alaejis' | æleɪdʒɪs |
 | allegis's | alaejisi's | æleɪdʒɪsɪz |
 | allegorical | alugorukul | ælʌɡɔːɹʌkʌl |
 | allegories | alugoreez | ælʌɡɔːɹiːz |
@@ -2691,7 +2691,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | alliedsignal | aliedsignul | ælaɪdsɪɡnʌl |
 | alliedsignal's | aliedsignul's | ælaɪdsɪɡnʌlz |
 | allies | aliez | ælaɪz |
-| allies' | aliez | ælaɪz |
+| allies' | aliez' | ælaɪz |
 | alligator | alugaetyr | ælʌɡeɪtɝ |
 | alligators | alugaetyrz | ælʌɡeɪtɝz |
 | alligood | aliguud | ælɪɡʊd |
@@ -2917,7 +2917,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | alsbrook | alzbruuk | ælzbɹʊk |
 | alsbrook's | alzbruuk's | ælzbɹʊks |
 | alsbrooks | alzbruuks | ælzbɹʊks |
-| alsbrooks' | alzbruuks | ælzbɹʊks |
+| alsbrooks' | alzbruuks' | ælzbɹʊks |
 | alsbury | alzberee | ælzbɛɹiː |
 | alsdorf | alzdorf | ælzdɔːɹf |
 | alsgaard | aalzgaard | ɑlzɡɑɹd |
@@ -3317,12 +3317,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | americano | umerikaanoe | ʌmɛɹɪkɑnoʊ |
 | americanos | umerikaanoez | ʌmɛɹɪkɑnoʊz |
 | americans | umerikunz | ʌmɛɹɪkʌnz |
-| americans' | umerikunz | ʌmɛɹɪkʌnz |
+| americans' | umerikunz' | ʌmɛɹɪkʌnz |
 | americar | umerikaar | ʌmɛɹɪkɑɹ |
 | americare | umeriker | ʌmɛɹɪkɛɹ |
 | americares | umerikerz | ʌmɛɹɪkɛɹz |
 | americas | umerikuz | ʌmɛɹɪkʌz |
-| americas' | umerikuz | ʌmɛɹɪkʌz |
+| americas' | umerikuz' | ʌmɛɹɪkʌz |
 | americium | umeriseeum | ʌmɛɹɪsiːʌm |
 | americo | umyrukoe | ʌmɝʌkoʊ |
 | americold | umerikoeld | ʌmɛɹɪkoʊld |
@@ -3350,7 +3350,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | amerson | amyrsun | æmɝsʌn |
 | amery | amyree | æmɝiː |
 | ames | aemz | eɪmz |
-| ames' | aemz | eɪmz |
+| ames' | aemz' | eɪmz |
 | ames's | aemzi's | eɪmzɪz |
 | amesville | aemzvil | eɪmzvɪl |
 | ametek | amutek | æmʌtɛk |
@@ -3558,7 +3558,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | amused | umuezd | ʌmjuːzd |
 | amusement | umuezmunt | ʌmjuːzmʌnt |
 | amusements | umuezmunts | ʌmjuːzmʌnts |
-| amusements' | umuezmunts | ʌmjuːzmʌnts |
+| amusements' | umuezmunts' | ʌmjuːzmʌnts |
 | amuses | umueziz | ʌmjuːzɪz |
 | amusing | umuezing | ʌmjuːzɪŋ |
 | amusingly | umuezinglee | ʌmjuːzɪŋliː |
@@ -3621,7 +3621,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | analyst | anulist | ænʌlɪst |
 | analyst's | anulist's | ænʌlɪsts |
 | analysts | anulists | ænʌlɪsts |
-| analysts' | anulists | ænʌlɪsts |
+| analysts' | anulists' | ænʌlɪsts |
 | analytic | anulitik | ænʌlɪtɪk |
 | analytical | anulitikul | ænʌlɪtɪkʌl |
 | analytically | anulitiklee | ænʌlɪtɪkliː |
@@ -3680,7 +3680,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | ancestor | ansestyr | ænsɛstɝ |
 | ancestor's | ansestyr's | ænsɛstɝz |
 | ancestors | ansestyrz | ænsɛstɝz |
-| ancestors' | ansestyrz | ænsɛstɝz |
+| ancestors' | ansestyrz' | ænsɛstɝz |
 | ancestral | ansestrul | ænsɛstɹʌl |
 | ancestry | ansestree | ænsɛstɹiː |
 | ancheta | aanketu | ɑnkɛtʌ |
@@ -3780,7 +3780,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | andrew | androo | ændɹuː |
 | andrew's | androo's | ændɹuːz |
 | andrews | androoz | ændɹuːz |
-| andrews' | androoz | ændɹuːz |
+| andrews' | androoz' | ændɹuːz |
 | andrey | andree | ændɹiː |
 | andrezak | andruzak | ændɹʌzæk |
 | andria | andreeu | ændɹiːʌ |
@@ -3846,7 +3846,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | angeleno | anjulenoe | ændʒʌlɛnoʊ |
 | angelenos | anjulenoez | ændʒʌlɛnoʊz |
 | angeles | anjulis | ændʒʌlɪs |
-| angeles' | anjuleez | ændʒʌliːz |
+| angeles' | anjuleez' | ændʒʌliːz |
 | angeles's | anjulisi's | ændʒʌlɪsɪz |
 | angeletti | aanggeletee | ɑŋɡɛlɛtiː |
 | angelfish | aenjulfish | eɪndʒʌlfɪʃ |
@@ -3878,7 +3878,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | angelou | anjuloo | ændʒʌluː |
 | angeloz | anjuloez | ændʒʌloʊz |
 | angels | aenjulz | eɪndʒʌlz |
-| angels' | aenjulz | eɪndʒʌlz |
+| angels' | aenjulz' | eɪndʒʌlz |
 | angelucci | aanggeloochee | ɑŋɡɛluːtʃiː |
 | anger | anggyr | æŋɡɝ |
 | angered | anggyrd | æŋɡɝd |
@@ -3962,7 +3962,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | animal | anumul | ænʌmʌl |
 | animal's | anumul's | ænʌmʌlz |
 | animals | anumulz | ænʌmʌlz |
-| animals' | anumulz | ænʌmʌlz |
+| animals' | anumulz' | ænʌmʌlz |
 | animate | anumut | ænʌmʌt |
 | animated | anumaetid | ænʌmeɪtɪd |
 | animates | anumuts | ænʌmʌts |
@@ -4633,7 +4633,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | applicant | aplikunt | æplɪkʌnt |
 | applicant's | aplikunt's | æplɪkʌnts |
 | applicants | aplikunts | æplɪkʌnts |
-| applicants' | aplukunts | æplʌkʌnts |
+| applicants' | aplukunts' | æplʌkʌnts |
 | application | aplukaeshun | æplʌkeɪʃʌn |
 | applications | aplukaeshunz | æplʌkeɪʃʌnz |
 | applicator | aplukaetyr | æplʌkeɪtɝ |
@@ -4789,7 +4789,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | arabie | arubee | æɹʌbiː |
 | arable | arubul | æɹʌbʌl |
 | arabs | arubz | æɹʌbz |
-| arabs' | arubz | æɹʌbz |
+| arabs' | arubz' | æɹʌbz |
 | araby | arubee | æɹʌbiː |
 | arachnid | yraknid | ɝæknɪd |
 | arachnids | yraknidz | ɝæknɪdz |
@@ -4844,7 +4844,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | arbitrage | aarbitraazj | ɑɹbɪtɹɑʒ |
 | arbitrager | aarbitraazjyr | ɑɹbɪtɹɑʒɝ |
 | arbitragers | aarbitraazjyrz | ɑɹbɪtɹɑʒɝz |
-| arbitragers' | aarbitraazjyrz | ɑɹbɪtɹɑʒɝz |
+| arbitragers' | aarbitraazjyrz' | ɑɹbɪtɹɑʒɝz |
 | arbitrageur | aarbitraazjyr | ɑɹbɪtɹɑʒɝ |
 | arbitrageurs | aarbutraazjyrz | ɑɹbʌtɹɑʒɝz |
 | arbitraging | aarbutraajing | ɑɹbʌtɹɑdʒɪŋ |
@@ -4860,7 +4860,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | arbitrator | aarbitraetyr | ɑɹbɪtɹeɪtɝ |
 | arbitrator's | aarbutraetyr's | ɑɹbʌtɹeɪtɝz |
 | arbitrators | aarbitraetyrz | ɑɹbɪtɹeɪtɝz |
-| arbitrators' | aarbutraetyrz | ɑɹbʌtɹeɪtɝz |
+| arbitrators' | aarbutraetyrz' | ɑɹbʌtɹeɪtɝz |
 | arbitron | aarbutrun | ɑɹbʌtɹʌn |
 | arbo | aarboe | ɑɹboʊ |
 | arbogast | aarboegaast | ɑɹboʊɡɑst |
@@ -5141,7 +5141,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | arkansan | aarkanzun | ɑɹkænzʌn |
 | arkansans | aarkanzunz | ɑɹkænzʌnz |
 | arkansas | aarkunsaa | ɑɹkʌnsɑ |
-| arkansas' | aarkunsaaz | ɑɹkʌnsɑz |
+| arkansas' | aarkunsaaz' | ɑɹkʌnsɑz |
 | arkansas's | aarkunsaa's | ɑɹkʌnsɑz |
 | arkarow | aarkuroe | ɑɹkʌɹoʊ |
 | arkin | aarkin | ɑɹkɪn |
@@ -5483,7 +5483,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | artistically | aartistiklee | ɑɹtɪstɪkliː |
 | artistry | aartistree | ɑɹtɪstɹiː |
 | artists | aartists | ɑɹtɪsts |
-| artists' | aartists | ɑɹtɪsts |
+| artists' | aartists' | ɑɹtɪsts |
 | artley | aartlee | ɑɹtliː |
 | artman | aartmun | ɑɹtmʌn |
 | artois | aartwaa | ɑɹtwɑ |
@@ -5679,7 +5679,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | asker | askyr | æskɝ |
 | asker's | askyr's | æskɝz |
 | askers | askyrz | æskɝz |
-| askers' | askyrz | æskɝz |
+| askers' | askyrz' | æskɝz |
 | askers's | askyrzi's | æskɝzɪz |
 | askew | uskue | ʌskjuː |
 | askey | uskee | ʌskiː |
@@ -5809,7 +5809,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | assessors | usesyrz | ʌsɛsɝz |
 | asset | aset | æsɛt |
 | assets | asets | æsɛts |
-| assets' | asets | æsɛts |
+| assets' | asets' | æsɛts |
 | asshole | ashoel | æshoʊl |
 | assholes | ashoelz | æshoʊlz |
 | assicurazioni | useekyrazeeoenee | ʌsiːkɝæziːoʊniː |
@@ -5841,7 +5841,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | associate's | usoeseeut's | ʌsoʊsiːʌts |
 | associated | usoeseeaetid | ʌsoʊsiːeɪtɪd |
 | associates | usoeseeuts | ʌsoʊsiːʌts |
-| associates' | usoesheeuts | ʌsoʊʃiːʌts |
+| associates' | usoesheeuts' | ʌsoʊʃiːʌts |
 | associating | usoeseeaeting | ʌsoʊsiːeɪtɪŋ |
 | association | usoeseeaeshun | ʌsoʊsiːeɪʃʌn |
 | association's | usoesheeaeshun's | ʌsoʊʃiːeɪʃʌnz |
@@ -5929,7 +5929,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | astronautical | astrunaatikul | æstɹʌnɑtɪkʌl |
 | astronautics | astrunaatiks | æstɹʌnɑtɪks |
 | astronauts | astrunots | æstɹʌnɔːts |
-| astronauts' | astrunots | æstɹʌnɔːts |
+| astronauts' | astrunots' | æstɹʌnɔːts |
 | astronomer | ustraanumyr | ʌstɹɑnʌmɝ |
 | astronomers | ustraanumyrz | ʌstɹɑnʌmɝz |
 | astronomical | astrunaamikul | æstɹʌnɑmɪkʌl |
@@ -6014,7 +6014,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | athlete | athleet | æθliːt |
 | athlete's | athleet's | æθliːts |
 | athletes | athleets | æθliːts |
-| athletes' | athleets | æθliːts |
+| athletes' | athleets' | æθliːts |
 | athletic | athletik | æθlɛtɪk |
 | athletically | athletiklee | æθlɛtɪkliː |
 | athleticism | athletisizum | æθlɛtɪsɪzʌm |
@@ -6044,7 +6044,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | atlantica | atlantiku | ætlæntɪkʌ |
 | atlantico | atlantikoe | ætlæntɪkoʊ |
 | atlantis | atlantis | ætlæntɪs |
-| atlantis' | atlantis | ætlæntɪs |
+| atlantis' | atlantis' | ætlæntɪs |
 | atlantis's | atlantisi's | ætlæntɪsɪz |
 | atlas | atlus | ætlʌs |
 | atlas's | atlusi's | ætlʌsɪz |
@@ -6124,7 +6124,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | attendant | utendunt | ʌtɛndʌnt |
 | attendant's | utendunt's | ʌtɛndʌnts |
 | attendants | utendunts | ʌtɛndʌnts |
-| attendants' | utendunts | ʌtɛndʌnts |
+| attendants' | utendunts' | ʌtɛndʌnts |
 | attended | utendid | ʌtɛndɪd |
 | attendee | utendee | ʌtɛndiː |
 | attendees | utendeez | ʌtɛndiːz |
@@ -6164,7 +6164,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | attorney | utyrnee | ʌtɝniː |
 | attorney's | utyrnee's | ʌtɝniːz |
 | attorneys | utyrneez | ʌtɝniːz |
-| attorneys' | utyrneez | ʌtɝniːz |
+| attorneys' | utyrneez' | ʌtɝniːz |
 | attract | utrakt | ʌtɹækt |
 | attracted | utraktid | ʌtɹæktɪd |
 | attracting | utrakting | ʌtɹæktɪŋ |
@@ -6263,7 +6263,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | auditorium | odutoreeum | ɔːdʌtɔːɹiːʌm |
 | auditoriums | oditoreeumz | ɔːdɪtɔːɹiːʌmz |
 | auditors | aadutyrz | ɑdʌtɝz |
-| auditors' | odityrz | ɔːdɪtɝz |
+| auditors' | odityrz' | ɔːdɪtɝz |
 | auditory | oditoree | ɔːdɪtɔːɹiː |
 | audits | aaduts | ɑdʌts |
 | audran | odrun | ɔːdɹʌn |
@@ -6342,7 +6342,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | aunt's | ant's | ænts |
 | auntie | antee | æntiː |
 | aunts | ants | ænts |
-| aunts' | ants | ænts |
+| aunts' | ants' | ænts |
 | aupperle | oupyrlee | aʊpɝliː |
 | aura | oru | ɔːɹʌ |
 | aural | orul | ɔːɹʌl |
@@ -6430,7 +6430,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | authoritative | uthorutaetiv | ʌθɔːɹʌteɪtɪv |
 | authoritatively | uthorutaetivlee | ʌθɔːɹʌteɪtɪvliː |
 | authorities | uthoruteez | ʌθɔːɹʌtiːz |
-| authorities' | uthoriteez | ʌθɔːɹɪtiːz |
+| authorities' | uthoriteez' | ʌθɔːɹɪtiːz |
 | authority | uthorutee | ʌθɔːɹʌtiː |
 | authority's | uthoritee's | ʌθɔːɹɪtiːz |
 | authorization | othyruzaeshun | ɔːθɝʌzeɪʃʌn |
@@ -6440,7 +6440,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | authorizes | othyrieziz | ɔːθɝaɪzɪz |
 | authorizing | othyriezing | ɔːθɝaɪzɪŋ |
 | authors | othyrz | ɔːθɝz |
-| authors' | othyrz | ɔːθɝz |
+| authors' | othyrz' | ɔːθɝz |
 | authorship | othyrship | ɔːθɝʃɪp |
 | autism | otizum | ɔːtɪzʌm |
 | autistic | otistik | ɔːtɪstɪk |
@@ -6471,7 +6471,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | automaker | otoemaekyr | ɔːtoʊmeɪkɝ |
 | automaker's | otoemaekyr's | ɔːtoʊmeɪkɝz |
 | automakers | otoemaekyrz | ɔːtoʊmeɪkɝz |
-| automakers' | otoemaekyrz | ɔːtoʊmeɪkɝz |
+| automakers' | otoemaekyrz' | ɔːtoʊmeɪkɝz |
 | automap | otoemap | ɔːtoʊmæp |
 | automata | otaamutu | ɔːtɑmʌtʌ |
 | automate | otumaet | ɔːtʌmeɪt |
@@ -6899,7 +6899,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | babic | baabik | bɑbɪk |
 | babich | babich | bæbɪtʃ |
 | babies | baebeez | beɪbiːz |
-| babies' | baebeez | beɪbiːz |
+| babies' | baebeez' | beɪbiːz |
 | babik | baabik | bɑbɪk |
 | babin | babin | bæbɪn |
 | babineau | babinoe | bæbɪnoʊ |
@@ -7634,7 +7634,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bancroft's | bankroft's | bænkɹɔːfts |
 | bancserve | banksyrv | bænksɝv |
 | bancshares | bangksherz | bæŋkʃɛɹz |
-| bancshares' | bangksherz | bæŋkʃɛɹz |
+| bancshares' | bangksherz' | bæŋkʃɛɹz |
 | banctec | bangktek | bæŋktɛk |
 | banctexas | bangkteksus | bæŋktɛksʌs |
 | band | band | bænd |
@@ -7744,7 +7744,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | banker | bangkyr | bæŋkɝ |
 | banker's | bangkyr's | bæŋkɝz |
 | bankers | bangkyrz | bæŋkɝz |
-| bankers' | bangkyrz | bæŋkɝz |
+| bankers' | bangkyrz' | bæŋkɝz |
 | bankert | bangkyrt | bæŋkɝt |
 | bankes | bangks | bæŋks |
 | bankey | bankee | bænkiː |
@@ -7768,7 +7768,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bankrupted | bangkruptid | bæŋkɹʌptɪd |
 | bankrupting | bangkrupting | bæŋkɹʌptɪŋ |
 | banks | bangks | bæŋks |
-| banks' | bangks | bæŋks |
+| banks' | bangks' | bæŋks |
 | banks's | bangksi's | bæŋksɪz |
 | bankshare | bangksher | bæŋkʃɛɹ |
 | bankshares | bangksherz | bæŋkʃɛɹz |
@@ -7945,7 +7945,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | barclay | baarklae | bɑɹkleɪ |
 | barclay's | baarklae's | bɑɹkleɪz |
 | barclays | baarklaez | bɑɹkleɪz |
-| barclays' | baarklaez | bɑɹkleɪz |
+| barclays' | baarklaez' | bɑɹkleɪz |
 | barclays's | baarklaezi's | bɑɹkleɪzɪz |
 | barclift | baarklift | bɑɹklɪft |
 | barco | baarkoe | bɑɹkoʊ |
@@ -8025,7 +8025,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | baring's | bering's | bɛɹɪŋz |
 | baringer | beringyr | bɛɹɪŋɝ |
 | barings | beringz | bɛɹɪŋz |
-| barings' | beringz | bɛɹɪŋz |
+| barings' | beringz' | bɛɹɪŋz |
 | baris | baareez | bɑɹiːz |
 | barish | berish | bɛɹɪʃ |
 | barista | baareestu | bɑɹiːstʌ |
@@ -8490,7 +8490,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bated | baetid | beɪtɪd |
 | bateman | baetmun | beɪtmʌn |
 | bates | baets | beɪts |
-| bates' | baets | beɪts |
+| bates' | baets' | beɪts |
 | bateson | batisun | bætɪsʌn |
 | batesville | baetsvil | beɪtsvɪl |
 | batey | baetee | beɪtiː |
@@ -8855,7 +8855,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bearishness | berishnus | bɛɹɪʃnʌs |
 | bearman | bermun | bɛɹmʌn |
 | bears | berz | bɛɹz |
-| bears' | berz | bɛɹz |
+| bears' | berz' | bɛɹz |
 | bearse | byrs | bɝs |
 | bearss | byrs | bɝs |
 | bearup | berup | bɛɹʌp |
@@ -8880,7 +8880,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | beatings | beetingz | biːtɪŋz |
 | beatle | beetul | biːtʌl |
 | beatles | beetulz | biːtʌlz |
-| beatles' | beetulz | biːtʌlz |
+| beatles' | beetulz' | biːtʌlz |
 | beatnik | beetnik | biːtnɪk |
 | beatniks | beetniks | biːtnɪks |
 | beato | beeatoe | biːætoʊ |
@@ -9145,7 +9145,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | beerbower | birboeyr | bɪɹboʊɝ |
 | beerman | birmun | bɪɹmʌn |
 | beers | birz | bɪɹz |
-| beers' | birz | bɪɹz |
+| beers' | birz' | bɪɹz |
 | beers's | birzi's | bɪɹzɪz |
 | beery | biree | bɪɹiː |
 | bees | beez | biːz |
@@ -9315,7 +9315,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | beilman | bielmun | baɪlmʌn |
 | beim | biem | baɪm |
 | bein | been | biːn |
-| bein' | beein | biːɪn |
+| bein' | beein' | biːɪn |
 | beine | been | biːn |
 | being | beeing | biːɪŋ |
 | being's | beeing's | biːɪŋz |
@@ -9515,7 +9515,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bellows | beloez | bɛloʊz |
 | bellrose | belroez | bɛlɹoʊz |
 | bells | belz | bɛlz |
-| bells' | belz | bɛlz |
+| bells' | belz' | bɛlz |
 | bellsouth | belsouth | bɛlsaʊθ |
 | bellsouth's | belsouth's | bɛlsaʊθs |
 | bellucci | beloochee | bɛluːtʃiː |
@@ -9587,7 +9587,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | belz | belz | bɛlz |
 | belzberg | beltsbyrg | bɛltsbɝɡ |
 | belzbergs | beltsbyrgz | bɛltsbɝɡz |
-| belzbergs' | belzbyrgz | bɛlzbɝɡz |
+| belzbergs' | belzbyrgz' | bɛlzbɝɡz |
 | belzer | belzyr | bɛlzɝ |
 | bem | bem | bɛm |
 | beman | beemun | biːmʌn |
@@ -9995,7 +9995,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | berle | byrl | bɝl |
 | berle's | byrl's | bɝlz |
 | berles | byrlz | bɝlz |
-| berles' | byrlz | bɝlz |
+| berles' | byrlz' | bɝlz |
 | berlet | byrlet | bɝlɛt |
 | berlet's | byrlet's | bɝlɛts |
 | berlex | byrleks | bɝlɛks |
@@ -10186,7 +10186,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | besaw | beesaa | biːsɑ |
 | besch | besh | bɛʃ |
 | beschloss | beshlos | bɛʃlɔːs |
-| beschloss' | beshlos | bɛʃlɔːs |
+| beschloss' | beshlos' | bɛʃlɔːs |
 | beschloss's | beshlosi's | bɛʃlɔːsɪs |
 | besecker | besikyr | bɛsɪkɝ |
 | beseech | beeseech | biːsiːtʃ |
@@ -10793,7 +10793,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | billowing | biloeing | bɪloʊɪŋ |
 | billows | biloez | bɪloʊz |
 | bills | bilz | bɪlz |
-| bills' | bilz | bɪlz |
+| bills' | bilz' | bɪlz |
 | billup | bilup | bɪlʌp |
 | billups | bilups | bɪlʌps |
 | billy | bilee | bɪliː |
@@ -11012,7 +11012,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | birdlike | byrdliek | bɝdlaɪk |
 | birdman | byrdman | bɝdmæn |
 | birds | byrdz | bɝdz |
-| birds' | byrdz | bɝdz |
+| birds' | byrdz' | bɝdz |
 | birdsall | byrdzol | bɝdzɔːl |
 | birdseed | byrdseed | bɝdsiːd |
 | birdsell | byrdsul | bɝdsʌl |
@@ -11108,7 +11108,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bishop's | bishup's | bɪʃʌps |
 | bishoprics | bishupriks | bɪʃʌpɹɪks |
 | bishops | bishups | bɪʃʌps |
-| bishops' | bishaaps | bɪʃɑps |
+| bishops' | bishaaps' | bɪʃɑps |
 | bishopsgate | bishupsgaet | bɪʃʌpsɡeɪt |
 | bisiani | biseeaanee | bɪsiːɑniː |
 | bisig | bisig | bɪsɪɡ |
@@ -11276,7 +11276,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | blackpool | blakpool | blækpuːl |
 | blackrock | blakraak | blækɹɑk |
 | blacks | blaks | blæks |
-| blacks' | blaks | blæks |
+| blacks' | blaks' | blæks |
 | blacksburg | blaksbyrg | blæksbɝɡ |
 | blackshear | blakshir | blækʃɪɹ |
 | blacksher | blakshyr | blækʃɝ |
@@ -11585,7 +11585,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bliscoll | bliskol | blɪskɔːl |
 | blish | blish | blɪʃ |
 | bliss | blis | blɪs |
-| bliss' | blis | blɪs |
+| bliss' | blis' | blɪs |
 | blissett | blisit | blɪsɪt |
 | blissful | blisful | blɪsfʌl |
 | blissfully | blisfulee | blɪsfʌliː |
@@ -11832,7 +11832,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | blueprints | blooprints | bluːpɹɪnts |
 | bluer | blooyr | bluːɝ |
 | blues | blooz | bluːz |
-| blues' | blooz | bluːz |
+| blues' | blooz' | bluːz |
 | bluest | blooust | bluːʌst |
 | bluestein | bluusteen | blʊstiːn |
 | bluestine | bloostien | bluːstaɪn |
@@ -12273,7 +12273,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | boitnott | boitnaat | bɔɪtnɑt |
 | boivin | boivan | bɔɪvæn |
 | bojangles | boejanggulz | boʊdʒæŋɡʌlz |
-| bojangles' | boejanggulz | boʊdʒæŋɡʌlz |
+| bojangles' | boejanggulz' | boʊdʒæŋɡʌlz |
 | bojanowski | buyunofskee | bʌjʌnɔːfskiː |
 | bojarski | buyaarskee | bʌjɑɹskiː |
 | bojenka | bujengku | bʌdʒɛŋkʌ |
@@ -12470,12 +12470,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bonderman | baandyrmun | bɑndɝmʌn |
 | bondholder | baandhoeldyr | bɑndhoʊldɝ |
 | bondholders | baandhoeldyrz | bɑndhoʊldɝz |
-| bondholders' | baandhoeldyrz | bɑndhoʊldɝz |
+| bondholders' | baandhoeldyrz' | bɑndhoʊldɝz |
 | bondi | baandee | bɑndiː |
 | bonding | baanding | bɑndɪŋ |
 | bondra | baandru | bɑndɹʌ |
 | bonds | baandz | bɑndz |
-| bonds' | baandz | bɑndz |
+| bonds' | baandz' | bɑndz |
 | bondt | baant | bɑnt |
 | bondurant | boenduurunt | boʊndʊɹʌnt |
 | bondy | baandee | bɑndiː |
@@ -12629,7 +12629,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | booknotes | buuknoets | bʊknoʊts |
 | bookout | buukout | bʊkaʊt |
 | books | buuks | bʊks |
-| books' | buuks | bʊks |
+| books' | buuks' | bʊks |
 | bookseller | buukselyr | bʊksɛlɝ |
 | booksellers | buukselyrz | bʊksɛlɝz |
 | bookshelf | buukshelf | bʊkʃɛlf |
@@ -12656,7 +12656,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | boomerang | boomyrang | buːmɝæŋ |
 | boomeranged | boomyrangd | buːmɝæŋd |
 | boomers | boomyrz | buːmɝz |
-| boomers' | boomyrz | buːmɝz |
+| boomers' | boomyrz' | buːmɝz |
 | boomershine | boomyrshien | buːmɝʃaɪn |
 | boomhower | boomhoeyr | buːmhoʊɝ |
 | booming | booming | buːmɪŋ |
@@ -12806,7 +12806,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | borin | borin | bɔːɹɪn |
 | boring | boring | bɔːɹɪŋ |
 | boris | boris | bɔːɹɪs |
-| boris' | boris | bɔːɹɪs |
+| boris' | boris' | bɔːɹɪs |
 | boris's | borisi's | bɔːɹɪsɪz |
 | borja | boryu | bɔːɹjʌ |
 | borjas | boryuz | bɔːɹjʌz |
@@ -12865,7 +12865,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | borrower | baaroeyr | bɑɹoʊɝ |
 | borrower's | baaroeyr's | bɑɹoʊɝz |
 | borrowers | baaroeyrz | bɑɹoʊɝz |
-| borrowers' | baaroeyrz | bɑɹoʊɝz |
+| borrowers' | baaroeyrz' | bɑɹoʊɝz |
 | borrowing | baaroeing | bɑɹoʊɪŋ |
 | borrowings | baaroeingz | bɑɹoʊɪŋz |
 | borrowman | baaroemun | bɑɹoʊmʌn |
@@ -12938,7 +12938,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bosqi | baaskee | bɑskiː |
 | bosquez | boeskwez | boʊskwɛz |
 | boss | bos | bɔːs |
-| boss' | bos | bɔːs |
+| boss' | bos' | bɔːs |
 | boss's | bosi's | bɔːsɪz |
 | bossard | busaard | bʌsɑɹd |
 | bossart | busaart | bʌsɑɹt |
@@ -12948,7 +12948,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bosserman | bosyrmun | bɔːsɝmʌn |
 | bossert | baasyrt | bɑsɝt |
 | bosses | bosiz | bɔːsɪz |
-| bosses' | bosiz | bɔːsɪz |
+| bosses' | bosiz' | bɔːsɪz |
 | bosshardt | boshaart | bɔːshɑɹt |
 | bosshart | boshaart | bɔːshɑɹt |
 | bossi | boesee | boʊsiː |
@@ -13034,7 +13034,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bottlenecks | baatulneks | bɑtʌlnɛks |
 | bottler | baatlyr | bɑtlɝ |
 | bottlers | baatlyrz | bɑtlɝz |
-| bottlers' | baatlyrz | bɑtlɝz |
+| bottlers' | baatlyrz' | bɑtlɝz |
 | bottles | baatulz | bɑtʌlz |
 | bottling | baatling | bɑtlɪŋ |
 | bottom | baatum | bɑtʌm |
@@ -13333,7 +13333,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | boyne | boin | bɔɪn |
 | boynton | bointun | bɔɪntʌn |
 | boys | boiz | bɔɪz |
-| boys' | boiz | bɔɪz |
+| boys' | boiz' | bɔɪz |
 | boysel | boisul | bɔɪsʌl |
 | boysen | boisun | bɔɪsʌn |
 | boyson | boizun | bɔɪzʌn |
@@ -13613,7 +13613,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | brandon's | brandun's | bɹændʌnz |
 | brandow | brandou | bɹændaʊ |
 | brands | brandz | bɹændz |
-| brands' | brandz | bɹændz |
+| brands' | brandz' | bɹændz |
 | brands's | brandzi's | bɹændzɪz |
 | brandstetter | brandstityr | bɹændstɪtɝ |
 | brandt | brant | bɹænt |
@@ -13750,7 +13750,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | braverman | braevyrmun | bɹeɪvɝmʌn |
 | bravery | braevyree | bɹeɪvɝiː |
 | braves | braevz | bɹeɪvz |
-| braves' | braevz | bɹeɪvz |
+| braves' | braevz' | bɹeɪvz |
 | bravest | braevust | bɹeɪvʌst |
 | braving | braeving | bɹeɪvɪŋ |
 | bravo | braavoe | bɹɑvoʊ |
@@ -13897,7 +13897,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | breeden's | breedun's | bɹiːdʌnz |
 | breeder | breedyr | bɹiːdɝ |
 | breeders | breedyrz | bɹiːdɝz |
-| breeders' | breedyrz | bɹiːdɝz |
+| breeders' | breedyrz' | bɹiːdɝz |
 | breeding | breeding | bɹiːdɪŋ |
 | breedlove | breedluv | bɹiːdlʌv |
 | breeds | breedz | bɹiːdz |
@@ -14035,7 +14035,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | brewer's | brooyr's | bɹuːɝz |
 | breweries | brooyreez | bɹuːɝiːz |
 | brewers | brooyrz | bɹuːɝz |
-| brewers' | brooyrz | bɹuːɝz |
+| brewers' | brooyrz' | bɹuːɝz |
 | brewery | brooyree | bɹuːɝiː |
 | brewing | brooing | bɹuːɪŋ |
 | brewington | brooingtun | bɹuːɪŋtʌn |
@@ -14108,7 +14108,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bridesmaid | briedzmaed | bɹaɪdzmeɪd |
 | bridesmaid's | briedzmaed's | bɹaɪdzmeɪdz |
 | bridesmaids | briedzmaedz | bɹaɪdzmeɪdz |
-| bridesmaids' | briedzmaedz | bɹaɪdzmeɪdz |
+| bridesmaids' | briedzmaedz' | bɹaɪdzmeɪdz |
 | bridge | brij | bɹɪdʒ |
 | bridge's | briji's | bɹɪdʒɪz |
 | bridged | brijd | bɹɪdʒd |
@@ -14313,7 +14313,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | britoil | britoil | bɹɪtɔɪl |
 | briton | britun | bɹɪtʌn |
 | britons | britunz | bɹɪtʌnz |
-| britons' | britunz | bɹɪtʌnz |
+| britons' | britunz' | bɹɪtʌnz |
 | brits | brits | bɹɪts |
 | britsch | brich | bɹɪtʃ |
 | britt | brit | bɹɪt |
@@ -14359,7 +14359,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | broadcaster | brodkastyr | bɹɔːdkæstɝ |
 | broadcaster's | brodkastyr's | bɹɔːdkæstɝz |
 | broadcasters | brodkastyrz | bɹɔːdkæstɝz |
-| broadcasters' | brodkastyrz | bɹɔːdkæstɝz |
+| broadcasters' | brodkastyrz' | bɹɔːdkæstɝz |
 | broadcasting | brodkasting | bɹɔːdkæstɪŋ |
 | broadcasting's | brodkasting's | bɹɔːdkæstɪŋz |
 | broadcasts | brodkasts | bɹɔːdkæsts |
@@ -14487,11 +14487,11 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | brokerage | broekyrij | bɹoʊkɝɪdʒ |
 | brokerage's | broekyriji's | bɹoʊkɝɪdʒɪz |
 | brokerages | broekyrijiz | bɹoʊkɝɪdʒɪz |
-| brokerages' | broekyrijiz | bɹoʊkɝɪdʒɪz |
+| brokerages' | broekyrijiz' | bɹoʊkɝɪdʒɪz |
 | brokered | broekyrd | bɹoʊkɝd |
 | brokering | broekyring | bɹoʊkɝɪŋ |
 | brokers | broekyrz | bɹoʊkɝz |
-| brokers' | broekyrz | bɹoʊkɝz |
+| brokers' | broekyrz' | bɹoʊkɝz |
 | broking | broeking | bɹoʊkɪŋ |
 | brokini | brukeenee | bɹʌkiːniː |
 | brolin | broelin | bɹoʊlɪn |
@@ -14572,7 +14572,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | brookner's | bruuknyr's | bɹʊknɝz |
 | brookover | bruukoevyr | bɹʊkoʊvɝ |
 | brooks | bruuks | bɹʊks |
-| brooks' | bruuks | bɹʊks |
+| brooks' | bruuks' | bɹʊks |
 | brooks's | bruuksi's | bɹʊksɪz |
 | brookshier | brooksheeyr | bɹuːkʃiːɝ |
 | brookshire | brookshier | bɹuːkʃaɪɹ |
@@ -14618,7 +14618,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | brotherhood | bruthyrhuud | bɹʌðɝhʊd |
 | brotherly | bruthyrlee | bɹʌðɝliː |
 | brothers | bruthyrz | bɹʌðɝz |
-| brothers' | bruthyrz | bɹʌðɝz |
+| brothers' | bruthyrz' | bɹʌðɝz |
 | brothers's | bruthyrzi's | bɹʌðɝzɪz |
 | brothers-in-law | bruthyrzinlaa | bɹʌðɝzɪnlɑ |
 | brotherson | bruthyrsun | bɹʌðɝsʌn |
@@ -14678,7 +14678,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | brownouts | brounouts | bɹaʊnaʊts |
 | brownrigg | brounrig | bɹaʊnɹɪɡ |
 | browns | brounz | bɹaʊnz |
-| browns' | brounz | bɹaʊnz |
+| browns' | brounz' | bɹaʊnz |
 | brownson | brounsun | bɹaʊnsʌn |
 | brownstein | brounsteen | bɹaʊnstiːn |
 | brownstone | brounstoen | bɹaʊnstoʊn |
@@ -14888,7 +14888,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bryan | brieun | bɹaɪʌn |
 | bryan's | brieun's | bɹaɪʌnz |
 | bryans | brieunz | bɹaɪʌnz |
-| bryans' | brieunz | bɹaɪʌnz |
+| bryans' | brieunz' | bɹaɪʌnz |
 | bryant | brieunt | bɹaɪʌnt |
 | bryars | brieyrz | bɹaɪɝz |
 | bryce | bries | bɹaɪs |
@@ -15033,7 +15033,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bucoba | buekoebu | bjuːkoʊbʌ |
 | bucolic | buekaalik | bjuːkɑlɪk |
 | bucs | buks | bʌks |
-| bucs' | buks | bʌks |
+| bucs' | buks' | bʌks |
 | bucy | buesee | bjuːsiː |
 | buczek | buchek | bʌtʃɛk |
 | buczkowski | buchkofskee | bʌtʃkɔːfskiː |
@@ -15220,7 +15220,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | builder | bildyr | bɪldɝ |
 | builder's | bildyr's | bɪldɝz |
 | builders | bildyrz | bɪldɝz |
-| builders' | bildyrz | bɪldɝz |
+| builders' | bildyrz' | bɪldɝz |
 | building | bilding | bɪldɪŋ |
 | building's | bilding's | bɪldɪŋz |
 | buildings | bildingz | bɪldɪŋz |
@@ -15326,7 +15326,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | bullocks | buuluks | bʊlʌks |
 | bullpen | buulpen | bʊlpɛn |
 | bulls | buulz | bʊlz |
-| bulls' | buulz | bʊlz |
+| bulls' | buulz' | bʊlz |
 | bullseye | boolzie | buːlzaɪ |
 | bullshit | buulshit | bʊlʃɪt |
 | bullshitter | buulshityr | bʊlʃɪtɝ |
@@ -15692,7 +15692,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | burnley's | byrnlee's | bɝnliːz |
 | burnout | byrnout | bɝnaʊt |
 | burns | byrnz | bɝnz |
-| burns' | byrnz | bɝnz |
+| burns' | byrnz' | bɝnz |
 | burns's | byrnzi's | bɝnzɪz |
 | burnsed | byrnzd | bɝnzd |
 | burnside | byrnsied | bɝnsaɪd |
@@ -15830,10 +15830,10 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | busiest | bizeeust | bɪziːʌst |
 | busily | bizulee | bɪzʌliː |
 | business | biznus | bɪznʌs |
-| business' | biznis | bɪznɪs |
+| business' | biznis' | bɪznɪs |
 | business's | biznisi's | bɪznɪsɪz |
 | businesses | biznusuz | bɪznʌsʌz |
-| businesses' | biznesiz | bɪznɛsɪz |
+| businesses' | biznesiz' | bɪznɛsɪz |
 | businessland | biznisland | bɪznɪslænd |
 | businesslike | biznisliek | bɪznɪslaɪk |
 | businessman | biznusman | bɪznʌsmæn |
@@ -16009,7 +16009,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | buyer | bieyr | baɪɝ |
 | buyer's | bieyr's | baɪɝz |
 | buyers | bieyrz | baɪɝz |
-| buyers' | bieyrz | baɪɝz |
+| buyers' | bieyrz' | baɪɝz |
 | buying | bieing | baɪɪŋ |
 | buyout | bieout | baɪaʊt |
 | buyouts | bieouts | baɪaʊts |
@@ -16053,7 +16053,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | byerley | bieyrlee | baɪɝliː |
 | byerly | bieyrlee | baɪɝliː |
 | byers | bieyrz | baɪɝz |
-| byers' | bieyrz | baɪɝz |
+| byers' | bieyrz' | baɪɝz |
 | byfield | biefeeld | baɪfiːld |
 | byford | bifyrd | bɪfɝd |
 | bygone | biegon | baɪɡɔːn |
@@ -16278,7 +16278,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | caesarean | kaesyreen | keɪsɝiːn |
 | caesareans | kaesyreenz | keɪsɝiːnz |
 | caesars | seezyrz | siːzɝz |
-| caesars' | seezyrz | siːzɝz |
+| caesars' | seezyrz' | siːzɝz |
 | caetano | kutaanoe | kʌtɑnoʊ |
 | cafarella | kaafaarelu | kɑfɑɹɛlʌ |
 | cafarelli | kaafaarelee | kɑfɑɹɛliː |
@@ -16739,7 +16739,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | campopiano | kaampoepeeaanoe | kɑmpoʊpiːɑnoʊ |
 | campos | kampoez | kæmpoʊz |
 | camps | kamps | kæmps |
-| camps' | kamps | kæmps |
+| camps' | kamps' | kæmps |
 | campsite | kampsiet | kæmpsaɪt |
 | campsites | kampsiets | kæmpsaɪts |
 | campton | kamptun | kæmptʌn |
@@ -16769,7 +16769,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | canadian | kunaedeeun | kʌneɪdiːʌn |
 | canadian's | kunaedeeun's | kʌneɪdiːʌnz |
 | canadians | kunaedeeunz | kʌneɪdiːʌnz |
-| canadians' | kunaedeeunz | kʌneɪdiːʌnz |
+| canadians' | kunaedeeunz' | kʌneɪdiːʌnz |
 | canadienne | kunadeeen | kʌnædiːɛn |
 | canady | kunaadee | kʌnɑdiː |
 | canal | kunal | kʌnæl |
@@ -16833,7 +16833,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | candidate | kandudaet | kændʌdeɪt |
 | candidate's | kandudaet's | kændʌdeɪts |
 | candidates | kandudaets | kændʌdeɪts |
-| candidates' | kandudaets | kændʌdeɪts |
+| candidates' | kandudaets' | kændʌdeɪts |
 | candidly | kandidlee | kændɪdliː |
 | candido | kandeedoe | kændiːdoʊ |
 | candie | kandee | kændiː |
@@ -17299,7 +17299,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | cardinale | kaardeenaalee | kɑɹdiːnɑliː |
 | cardinali | kaardeenaalee | kɑɹdiːnɑliː |
 | cardinals | kaardunulz | kɑɹdʌnʌlz |
-| cardinals' | kaardinulz | kɑɹdɪnʌlz |
+| cardinals' | kaardinulz' | kɑɹdɪnʌlz |
 | cardio | kaardeeoe | kɑɹdiːoʊ |
 | cardiologist | kaardeeaalujist | kɑɹdiːɑlʌdʒɪst |
 | cardiologists | kaardeeaalujists | kɑɹdiːɑlʌdʒɪsts |
@@ -17323,7 +17323,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | cardoza | kaardoezu | kɑɹdoʊzʌ |
 | cardozo | kaardoezoe | kɑɹdoʊzoʊ |
 | cards | kaardz | kɑɹdz |
-| cards' | kaardz | kɑɹdz |
+| cards' | kaardz' | kɑɹdz |
 | carducci | kaardoochee | kɑɹduːtʃiː |
 | cardwell | kaardwel | kɑɹdwɛl |
 | cardy | kaardee | kɑɹdiː |
@@ -17491,7 +17491,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | carmaker | kaarmaekyr | kɑɹmeɪkɝ |
 | carmaker's | kaarmaekyr's | kɑɹmeɪkɝz |
 | carmakers | kaarmaekyrz | kɑɹmeɪkɝz |
-| carmakers' | kaarmaekyrz | kɑɹmeɪkɝz |
+| carmakers' | kaarmaekyrz' | kɑɹmeɪkɝz |
 | carman | kaarmun | kɑɹmʌn |
 | carmany | kaarmunee | kɑɹmʌniː |
 | carmean | kaarmeeun | kɑɹmiːʌn |
@@ -17659,7 +17659,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | carriere | kaariree | kɑɹɪɹiː |
 | carriero | kaariroe | kɑɹɪɹoʊ |
 | carriers | kareeyrz | kæɹiːɝz |
-| carriers' | kereeyrz | kɛɹiːɝz |
+| carriers' | kereeyrz' | kɛɹiːɝz |
 | carriers's | kareeyrzi's | kæɹiːɝzɪz |
 | carries | kareez | kæɹiːz |
 | carrig | karig | kæɹɪɡ |
@@ -17700,7 +17700,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | carrying | kareeing | kæɹiːɪŋ |
 | carryover | keryoevyr | kɛɹjoʊvɝ |
 | cars | kaarz | kɑɹz |
-| cars' | kaarz | kɑɹz |
+| cars' | kaarz' | kɑɹz |
 | carse | kaars | kɑɹs |
 | carsey | kaarsee | kɑɹsiː |
 | carsick | kaarsik | kɑɹsɪk |
@@ -17813,7 +17813,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | cascade's | kaskaed's | kæskeɪdz |
 | cascaded | kaskaedid | kæskeɪdɪd |
 | cascades | kaskaedz | kæskeɪdz |
-| cascades' | kaskaedz | kæskeɪdz |
+| cascades' | kaskaedz' | kæskeɪdz |
 | cascading | kaskaeding | kæskeɪdɪŋ |
 | casciano | kaascheeaanoe | kɑstʃiːɑnoʊ |
 | casciato | kaaschaatoe | kɑstʃɑtoʊ |
@@ -18416,7 +18416,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | cedillo | chediloe | tʃɛdɪloʊ |
 | ceding | seeding | siːdɪŋ |
 | cedras | saedraas | seɪdɹɑs |
-| cedras' | saedraas | seɪdɹɑs |
+| cedras' | saedraas' | seɪdɹɑs |
 | cedras's | saedraasi's | seɪdɹɑsɪs |
 | cedric | sedrik | sɛdɹɪk |
 | cedrone | saedroenae | seɪdɹoʊneɪ |
@@ -18498,7 +18498,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | cellphones | selfoenz | sɛlfoʊnz |
 | cellpro | selproe | sɛlpɹoʊ |
 | cells | selz | sɛlz |
-| cells' | selz | sɛlz |
+| cells' | selz' | sɛlz |
 | cellstar | selstaar | sɛlstɑɹ |
 | cellucci | cheloochee | tʃɛluːtʃiː |
 | cellular | selyulyr | sɛljʌlɝ |
@@ -18517,7 +18517,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | celt | selt | sɛlt |
 | celtic | seltik | sɛltɪk |
 | celtics | seltiks | sɛltɪks |
-| celtics' | seltiks | sɛltɪks |
+| celtics' | seltiks' | sɛltɪks |
 | celts | selts | sɛlts |
 | cement | sument | sʌmɛnt |
 | cemented | sumentid | sʌmɛntɪd |
@@ -18574,7 +18574,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | centerre | sentyr | sɛntɝ |
 | centerre's | sentyr's | sɛntɝz |
 | centers | sentyrz | sɛntɝz |
-| centers' | sentyrz | sɛntɝz |
+| centers' | sentyrz' | sɛntɝz |
 | centerville | sentyrvil | sɛntɝvɪl |
 | centex | senteks | sɛntɛks |
 | centigrade | sentugraed | sɛntʌɡɹeɪd |
@@ -18800,7 +18800,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | chained | chaend | tʃeɪnd |
 | chaining | chaening | tʃeɪnɪŋ |
 | chains | chaenz | tʃeɪnz |
-| chains' | chaenz | tʃeɪnz |
+| chains' | chaenz' | tʃeɪnz |
 | chainsaw | chaensaa | tʃeɪnsɑ |
 | chainsaws | chaensaaz | tʃeɪnsɑz |
 | chair | cher | tʃɛɹ |
@@ -18863,7 +18863,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | chamberlayne | chaembyrlaen | tʃeɪmbɝleɪn |
 | chamberlin | chaembyrlin | tʃeɪmbɝlɪn |
 | chambers | chaembyrz | tʃeɪmbɝz |
-| chambers' | chaembyrz | tʃeɪmbɝz |
+| chambers' | chaembyrz' | tʃeɪmbɝz |
 | chambers's | chaembyrzi's | tʃeɪmbɝzɪz |
 | chamblee | chamblee | tʃæmbliː |
 | chambless | shumblees | ʃʌmbliːs |
@@ -19014,7 +19014,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | characterizes | keruktyriezuz | kɛɹʌktɝaɪzʌz |
 | characterizing | keruktyriezing | kɛɹʌktɝaɪzɪŋ |
 | characters | karuktyrz | kæɹʌktɝz |
-| characters' | cheruktyrz | tʃɛɹʌktɝz |
+| characters' | cheruktyrz' | tʃɛɹʌktɝz |
 | charade | shyraed | ʃɝeɪd |
 | charades | shyraedz | ʃɝeɪdz |
 | charalambos | chaarulaamboes | tʃɑɹʌlɑmboʊs |
@@ -19054,7 +19054,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | charitable | charutubul | tʃæɹʌtʌbʌl |
 | charitably | cheritublee | tʃɛɹɪtʌbliː |
 | charities | cheriteez | tʃɛɹɪtiːz |
-| charities' | cheriteez | tʃɛɹɪtiːz |
+| charities' | cheriteez' | tʃɛɹɪtiːz |
 | charity | cheritee | tʃɛɹɪtiː |
 | charity's | cherutee's | tʃɛɹʌtiːz |
 | charla | chaarlu | tʃɑɹlʌ |
@@ -19068,7 +19068,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | charlemagne | shaarlumaen | ʃɑɹlʌmeɪn |
 | charlene | shaarleen | ʃɑɹliːn |
 | charles | chaarlz | tʃɑɹlz |
-| charles' | chaarlz | tʃɑɹlz |
+| charles' | chaarlz' | tʃɑɹlz |
 | charles's | chaarlzi's | tʃɑɹlzɪz |
 | charleston | chaarlstun | tʃɑɹlstʌn |
 | charleston's | chaarlstun's | tʃɑɹlstʌnz |
@@ -19199,7 +19199,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | chatwal | chatwol | tʃætwɔːl |
 | chatwin | chatwin | tʃætwɪn |
 | chatz | chats | tʃæts |
-| chatz' | chats | tʃæts |
+| chatz' | chats' | tʃæts |
 | chatz's | chatsi's | tʃætsɪz |
 | chau | shoe | ʃoʊ |
 | chaucer | chosyr | tʃɔːsɝ |
@@ -19233,7 +19233,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | chavin | chaevin | tʃeɪvɪn |
 | chavira | kaaviru | kɑvɪɹʌ |
 | chavis | chavis | tʃævɪs |
-| chavis' | chavis | tʃævɪs |
+| chavis' | chavis' | tʃævɪs |
 | chavitz | chavits | tʃævɪts |
 | chavous | shuvos | ʃʌvɔːs |
 | chaw | chaa | tʃɑ |
@@ -19386,7 +19386,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | chemical's | kemikul's | kɛmɪkʌlz |
 | chemically | kemuklee | kɛmʌkliː |
 | chemicals | kemikulz | kɛmɪkʌlz |
-| chemicals' | chemukulz | tʃɛmʌkʌlz |
+| chemicals' | chemukulz' | tʃɛmʌkʌlz |
 | chemie | chemee | tʃɛmiː |
 | chemins | cheminz | tʃɛmɪnz |
 | chemise | shumeez | ʃʌmiːz |
@@ -19554,7 +19554,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | chiaoscurist | keeaaoskoorist | kiːɑɔːskuːɹɪst |
 | chiaoscuro | keeaaoskooroe | kiːɑɔːskuːɹoʊ |
 | chiapas | cheeaapus | tʃiːɑpʌs |
-| chiapas' | cheeaapuz | tʃiːɑpʌz |
+| chiapas' | cheeaapuz' | tʃiːɑpʌz |
 | chiapparone | cheeapyroen | tʃiːæpɝoʊn |
 | chiappetta | keeaapetu | kiːɑpɛtʌ |
 | chiappone | keeaapoenee | kiːɑpoʊniː |
@@ -19593,7 +19593,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | chickened | chikund | tʃɪkʌnd |
 | chickening | chikuning | tʃɪkʌnɪŋ |
 | chickens | chikunz | tʃɪkʌnz |
-| chickens' | chikunz | tʃɪkʌnz |
+| chickens' | chikunz' | tʃɪkʌnz |
 | chickering | chikyring | tʃɪkɝɪŋ |
 | chicks | chiks | tʃɪks |
 | chico | cheekoe | tʃiːkoʊ |
@@ -19613,7 +19613,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | chieffo | keefoe | kiːfoʊ |
 | chiefly | cheeflee | tʃiːfliː |
 | chiefs | cheefs | tʃiːfs |
-| chiefs' | cheefs | tʃiːfs |
+| chiefs' | cheefs' | tʃiːfs |
 | chieftain | cheeftun | tʃiːftʌn |
 | chieftain's | cheeftun's | tʃiːftʌnz |
 | chieftains | cheeftunz | tʃiːftʌnz |
@@ -19655,7 +19655,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | children | childrun | tʃɪldɹʌn |
 | children's | childrun's | tʃɪldɹʌnz |
 | childrens | childrunz | tʃɪldɹʌnz |
-| childrens' | childrunz | tʃɪldɹʌnz |
+| childrens' | childrunz' | tʃɪldɹʌnz |
 | childres | chieldyrz | tʃaɪldɝz |
 | childress | childris | tʃɪldɹɪs |
 | childrey | childree | tʃɪldɹiː |
@@ -19953,7 +19953,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | chriboniko's | chribuneekoe's | tʃɹɪbʌniːkoʊz |
 | chriptosporidium | kriptoesporideeum | kɹɪptoʊspɔːɹɪdiːʌm |
 | chris | kris | kɹɪs |
-| chris' | kris | kɹɪs |
+| chris' | kris' | kɹɪs |
 | chrisco | kreeskoe | kɹiːskoʊ |
 | chriscoe | kriskoe | kɹɪskoʊ |
 | chrisman | krismun | kɹɪsmʌn |
@@ -20010,7 +20010,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | christman's | kristmun's | kɹɪstmʌnz |
 | christmann | kristmun | kɹɪstmʌn |
 | christmas | krismus | kɹɪsmʌs |
-| christmas' | krismus | kɹɪsmʌs |
+| christmas' | krismus' | kɹɪsmʌs |
 | christmases | krismusiz | kɹɪsmʌsɪz |
 | christmastime | kristmustiem | kɹɪstmʌstaɪm |
 | christner | kristnyr | kɹɪstnɝ |
@@ -20132,7 +20132,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | church | chyrch | tʃɝtʃ |
 | church's | chyrchu's | tʃɝtʃʌz |
 | churches | chyrchiz | tʃɝtʃɪz |
-| churches' | chyrchiz | tʃɝtʃɪz |
+| churches' | chyrchiz' | tʃɝtʃɪz |
 | churchgoer | chyrchgoeyr | tʃɝtʃɡoʊɝ |
 | churchgoers | chyrchgoeyrz | tʃɝtʃɡoʊɝz |
 | churchgoing | chyrchgoeing | tʃɝtʃɡoʊɪŋ |
@@ -20405,9 +20405,9 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | citicorp | siteekorp | sɪtiːkɔːɹp |
 | citicorp's | siteekorp's | sɪtiːkɔːɹps |
 | citicorps | siteekorps | sɪtiːkɔːɹps |
-| citicorps' | siteekorps | sɪtiːkɔːɹps |
+| citicorps' | siteekorps' | sɪtiːkɔːɹps |
 | cities | siteez | sɪtiːz |
-| cities' | siteez | sɪtiːz |
+| cities' | siteez' | sɪtiːz |
 | citing | sieting | saɪtɪŋ |
 | citisteel | siteesteel | sɪtiːstiːl |
 | citizen | sitizun | sɪtɪzʌn |
@@ -20415,7 +20415,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | citizenry | sitizunree | sɪtɪzʌnɹiː |
 | citizenry's | sitizunree's | sɪtɪzʌnɹiːz |
 | citizens | sitizunz | sɪtɪzʌnz |
-| citizens' | sitizunz | sɪtɪzʌnz |
+| citizens' | sitizunz' | sɪtɪzʌnz |
 | citizenship | sitizunship | sɪtɪzʌnʃɪp |
 | citrano | cheetraanoe | tʃiːtɹɑnoʊ |
 | citric | sitrik | sɪtɹɪk |
@@ -20488,7 +20488,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | claim | klaem | kleɪm |
 | claimant | klaemunt | kleɪmʌnt |
 | claimants | klaemunts | kleɪmʌnts |
-| claimants' | klaemunts | kleɪmʌnts |
+| claimants' | klaemunts' | kleɪmʌnts |
 | claimed | klaemd | kleɪmd |
 | claiming | klaeming | kleɪmɪŋ |
 | claims | klaemz | kleɪmz |
@@ -20661,7 +20661,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | claudson | klodsun | klɔːdsʌn |
 | claunch | klonch | klɔːntʃ |
 | claus | kloz | klɔːz |
-| claus' | kloz | klɔːz |
+| claus' | kloz' | klɔːz |
 | clause | kloz | klɔːz |
 | clausell | klozul | klɔːzʌl |
 | clausen | klousun | klaʊsʌn |
@@ -20821,7 +20821,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | clerk's | klyrk's | klɝks |
 | clerkin | klyrkin | klɝkɪn |
 | clerks | klyrks | klɝks |
-| clerks' | klyrks | klɝks |
+| clerks' | klyrks' | klɝks |
 | clermont | klermaant | klɛɹmɑnt |
 | cleva | kleevu | kliːvʌ |
 | cleve | kleev | kliːv |
@@ -20860,7 +20860,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | client's | klieunt's | klaɪʌnts |
 | clientele | klieuntel | klaɪʌntɛl |
 | clients | klieunts | klaɪʌnts |
-| clients' | klieunts | klaɪʌnts |
+| clients' | klieunts' | klaɪʌnts |
 | cliett | kleet | kliːt |
 | clif | klif | klɪf |
 | cliff | klif | klɪf |
@@ -20871,7 +20871,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | clifford | klifyrd | klɪfɝd |
 | clifford's | klifyrd's | klɪfɝdz |
 | cliffs | klifs | klɪfs |
-| cliffs' | klifs | klɪfs |
+| cliffs' | klifs' | klɪfs |
 | clift | klift | klɪft |
 | clifton | kliftun | klɪftʌn |
 | cliggott | kligut | klɪɡʌt |
@@ -20890,7 +20890,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | climbed | kliemd | klaɪmd |
 | climber | kliemyr | klaɪmɝ |
 | climbers | kliemyrz | klaɪmɝz |
-| climbers' | kliemyrz | klaɪmɝz |
+| climbers' | kliemyrz' | klaɪmɝz |
 | climbing | klieming | klaɪmɪŋ |
 | climbs | kliemz | klaɪmz |
 | climer | kliemyr | klaɪmɝ |
@@ -20934,7 +20934,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | clintonites | klintuniets | klɪntʌnaɪts |
 | clintonomics | klintunaamiks | klɪntʌnɑmɪks |
 | clintons | klintunz | klɪntʌnz |
-| clintons' | klintunz | klɪntʌnz |
+| clintons' | klintunz' | klɪntʌnz |
 | clio | kleeoe | kliːoʊ |
 | clip | klip | klɪp |
 | clipboard | klipbord | klɪpbɔːɹd |
@@ -20989,7 +20989,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | clone | kloen | kloʊn |
 | cloned | kloend | kloʊnd |
 | clones | kloenz | kloʊnz |
-| clones' | kloenz | kloʊnz |
+| clones' | kloenz' | kloʊnz |
 | clonidine | klaanideen | klɑnɪdiːn |
 | cloning | kloening | kloʊnɪŋ |
 | cloninger | kloeningyr | kloʊnɪŋɝ |
@@ -21678,7 +21678,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | colleague | kaaleeg | kɑliːɡ |
 | colleague's | kaaleeg's | kɑliːɡz |
 | colleagues | kaaleegz | kɑliːɡz |
-| colleagues' | kaaleegz | kɑliːɡz |
+| colleagues' | kaaleegz' | kɑliːɡz |
 | collect | kulekt | kʌlɛkt |
 | collected | kulektud | kʌlɛktʌd |
 | collectibility | kulektibilitee | kʌlɛktɪbɪlɪtiː |
@@ -21698,14 +21698,14 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | collector | kulektyr | kʌlɛktɝ |
 | collector's | kulektyr's | kʌlɛktɝz |
 | collectors | kulektyrz | kʌlɛktɝz |
-| collectors' | kulektyrz | kʌlɛktɝz |
+| collectors' | kulektyrz' | kʌlɛktɝz |
 | collects | kulekts | kʌlɛkts |
 | colledge | kaalij | kɑlɪdʒ |
 | colleen | kaaleen | kɑliːn |
 | college | kaalij | kɑlɪdʒ |
 | college's | kaaliji's | kɑlɪdʒɪz |
 | colleges | kaalijiz | kɑlɪdʒɪz |
-| colleges' | kaalijiz | kɑlɪdʒɪz |
+| colleges' | kaalijiz' | kɑlɪdʒɪz |
 | collegeville | kaalujvil | kɑlʌdʒvɪl |
 | collegial | kuleejeeul | kʌliːdʒiːʌl |
 | collegiality | kuleejeealitee | kʌliːdʒiːælɪtiː |
@@ -21745,7 +21745,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | collingsworth | kulingzwyrth | kʌlɪŋzwɝθ |
 | collingwood | kaalingwuud | kɑlɪŋwʊd |
 | collins | kaalinz | kɑlɪnz |
-| collins' | kaalinz | kɑlɪnz |
+| collins' | kaalinz' | kɑlɪnz |
 | collins's | kaalin's | kɑlɪnz |
 | collinson | kaalinsun | kɑlɪnsʌn |
 | collinsworth | kulinswyrth | kʌlɪnswɝθ |
@@ -21892,7 +21892,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | columbines | kaalumbienz | kɑlʌmbaɪnz |
 | columbo | koelumboe | koʊlʌmboʊ |
 | columbus | kulumbus | kʌlʌmbʌs |
-| columbus' | kulumbus | kʌlʌmbʌs |
+| columbus' | kulumbus' | kʌlʌmbʌs |
 | columbus's | kulumbusi's | kʌlʌmbʌsɪz |
 | column | kaalum | kɑlʌm |
 | columned | kaalumd | kɑlʌmd |
@@ -22010,7 +22010,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | comically | kaamikulee | kɑmɪkʌliː |
 | comicopia | kaamikoepeeu | kɑmɪkoʊpiːʌ |
 | comics | kaamiks | kɑmɪks |
-| comin' | kumin | kʌmɪn |
+| comin' | kumin' | kʌmɪn |
 | cominco | koemingkoe | koʊmɪŋkoʊ |
 | coming | kuming | kʌmɪŋ |
 | comings | kumingz | kʌmɪŋz |
@@ -22128,7 +22128,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | committee's | kumitee's | kʌmɪtiːz |
 | committeeman | kumiteemun | kʌmɪtiːmʌn |
 | committees | kumiteez | kʌmɪtiːz |
-| committees' | kumiteez | kʌmɪtiːz |
+| committees' | kumiteez' | kʌmɪtiːz |
 | committing | kumiting | kʌmɪtɪŋ |
 | commode | kumoed | kʌmoʊd |
 | commodious | kumoedeeus | kʌmoʊdiːʌs |
@@ -22161,7 +22161,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | communication | kumuenukaeshun | kʌmjuːnʌkeɪʃʌn |
 | communication's | kumuenikaeshun's | kʌmjuːnɪkeɪʃʌnz |
 | communications | kumuenukaeshunz | kʌmjuːnʌkeɪʃʌnz |
-| communications' | kumuenukaeshunz | kʌmjuːnʌkeɪʃʌnz |
+| communications' | kumuenukaeshunz' | kʌmjuːnʌkeɪʃʌnz |
 | communicative | kumuenukutiv | kʌmjuːnʌkʌtɪv |
 | communicator | kumuenukaetyr | kʌmjuːnʌkeɪtɝ |
 | communicators | kumuenukaetyrz | kʌmjuːnʌkeɪtɝz |
@@ -22174,7 +22174,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | communist | kaamyunust | kɑmjʌnʌst |
 | communist's | kaamyunust's | kɑmjʌnʌsts |
 | communists | kaamyunusts | kɑmjʌnʌsts |
-| communists' | kaamuenists | kɑmjuːnɪsts |
+| communists' | kaamuenists' | kɑmjuːnɪsts |
 | communities | kumueniteez | kʌmjuːnɪtiːz |
 | community | kumuenitee | kʌmjuːnɪtiː |
 | community's | kumuenitee's | kʌmjuːnɪtiːz |
@@ -22202,7 +22202,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | companhia | kumpanheeaa | kʌmpænhiːɑ |
 | compania | kumpaeneeaa | kʌmpeɪniːɑ |
 | companies | kumpuneez | kʌmpʌniːz |
-| companies' | kumpuneez | kʌmpʌniːz |
+| companies' | kumpuneez' | kʌmpʌniːz |
 | companies's | kumpuneezi's | kʌmpʌniːzɪz |
 | companion | kumpanyun | kʌmpænjʌn |
 | companions | kumpanyunz | kʌmpænjʌnz |
@@ -22276,7 +22276,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | competitor | kumpetityr | kʌmpɛtɪtɝ |
 | competitor's | kumpetutyr's | kʌmpɛtʌtɝz |
 | competitors | kumpetityrz | kʌmpɛtɪtɝz |
-| competitors' | kumpetityrz | kʌmpɛtɪtɝz |
+| competitors' | kumpetityrz' | kʌmpɛtɪtɝz |
 | compher | kaamfyr | kɑmfɝ |
 | compilation | kaampulaeshun | kɑmpʌleɪʃʌn |
 | compilations | kaampulaeshunz | kɑmpʌleɪʃʌnz |
@@ -22440,7 +22440,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | computerland's | kumpuetyrland's | kʌmpjuːtɝlændz |
 | computerlike | kumpuetyrliek | kʌmpjuːtɝlaɪk |
 | computers | kumpuetyrz | kʌmpjuːtɝz |
-| computers' | kumpuetyrz | kʌmpjuːtɝz |
+| computers' | kumpuetyrz' | kʌmpjuːtɝz |
 | computervision | kumpuetyrvizjun | kʌmpjuːtɝvɪʒʌn |
 | computerworld | kumpuetyrwyrld | kʌmpjuːtɝwɝld |
 | computes | kumpuets | kʌmpjuːts |
@@ -22522,7 +22522,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | concerned | kunsyrnd | kʌnsɝnd |
 | concerning | kunsyrning | kʌnsɝnɪŋ |
 | concerns | kunsyrnz | kʌnsɝnz |
-| concerns' | kunsyrnz | kʌnsɝnz |
+| concerns' | kunsyrnz' | kʌnsɝnz |
 | concert | kunsyrt | kʌnsɝt |
 | concerted | kunsyrtud | kʌnsɝtʌd |
 | concerti | kunchertee | kʌntʃɛɹtiː |
@@ -22818,7 +22818,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | congregational | kaanggrugaeshunul | kɑŋɡɹʌɡeɪʃʌnʌl |
 | congregations | kaanggrugaeshunz | kɑŋɡɹʌɡeɪʃʌnz |
 | congress | kaanggrus | kɑŋɡɹʌs |
-| congress' | kaangrusiz | kɑnɡɹʌsɪz |
+| congress' | kaangrusiz' | kɑnɡɹʌsɪz |
 | congress's | kaanggrusi's | kɑŋɡɹʌsɪz |
 | congresses | kaanggrusiz | kɑŋɡɹʌsɪz |
 | congressional | kungreshunul | kʌnɡɹɛʃʌnʌl |
@@ -23017,7 +23017,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | conservative | kunsyrvutiv | kʌnsɝvʌtɪv |
 | conservatively | kunsyrvutivlee | kʌnsɝvʌtɪvliː |
 | conservatives | kunsyrvutivz | kʌnsɝvʌtɪvz |
-| conservatives' | kunsyrvutivz | kʌnsɝvʌtɪvz |
+| conservatives' | kunsyrvutivz' | kʌnsɝvʌtɪvz |
 | conservativism | kunsyrvutivizum | kʌnsɝvʌtɪvɪzʌm |
 | conservator | kunsyrvutyr | kʌnsɝvʌtɝ |
 | conservatories | kunsyrvutoreez | kʌnsɝvʌtɔːɹiːz |
@@ -23124,7 +23124,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | constituency | kunstichoounsee | kʌnstɪtʃuːʌnsiː |
 | constituent | kunstichoount | kʌnstɪtʃuːʌnt |
 | constituents | kunstichoounts | kʌnstɪtʃuːʌnts |
-| constituents' | kunstichoounts | kʌnstɪtʃuːʌnts |
+| constituents' | kunstichoounts' | kʌnstɪtʃuːʌnts |
 | constitute | kaanstutoot | kɑnstʌtuːt |
 | constituted | kaanstutootud | kɑnstʌtuːtʌd |
 | constitutes | kaanstutoots | kɑnstʌtuːts |
@@ -23177,7 +23177,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | consultant | kunsultunt | kʌnsʌltʌnt |
 | consultant's | kunsultunt's | kʌnsʌltʌnts |
 | consultants | kunsultunts | kʌnsʌltʌnts |
-| consultants' | kunsultunts | kʌnsʌltʌnts |
+| consultants' | kunsultunts' | kʌnsʌltʌnts |
 | consultation | kaansultaeshun | kɑnsʌlteɪʃʌn |
 | consultations | kaansultaeshunz | kɑnsʌlteɪʃʌnz |
 | consultative | kunsultutiv | kʌnsʌltʌtɪv |
@@ -23193,7 +23193,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | consumerist | kunsoomyrist | kʌnsuːmɝɪst |
 | consumerists | kunsoomyrists | kʌnsuːmɝɪsts |
 | consumers | kunsoomyrz | kʌnsuːmɝz |
-| consumers' | kunsoomyrz | kʌnsuːmɝz |
+| consumers' | kunsoomyrz' | kʌnsuːmɝz |
 | consumes | kunsoomz | kʌnsuːmz |
 | consuming | kunsooming | kʌnsuːmɪŋ |
 | consummate | kaansumut | kɑnsʌmʌt |
@@ -23220,7 +23220,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | containerize | kuntaenyriez | kʌnteɪnɝaɪz |
 | containerized | kuntaenyriezd | kʌnteɪnɝaɪzd |
 | containers | kuntaenyrz | kʌnteɪnɝz |
-| containers' | kuntaenyrz | kʌnteɪnɝz |
+| containers' | kuntaenyrz' | kʌnteɪnɝz |
 | containing | kuntaening | kʌnteɪnɪŋ |
 | containment | kuntaenmunt | kʌnteɪnmʌnt |
 | contains | kuntaenz | kʌnteɪnz |
@@ -23335,7 +23335,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | contractor | kaantraktyr | kɑntɹæktɝ |
 | contractor's | kaantraktyr's | kɑntɹæktɝz |
 | contractors | kaantraktyrz | kɑntɹæktɝz |
-| contractors' | kuntraktyrz | kʌntɹæktɝz |
+| contractors' | kuntraktyrz' | kʌntɹæktɝz |
 | contracts | kuntrakts | kʌntɹækts |
 | contractual | kuntrakchooul | kʌntɹæktʃuːʌl |
 | contractually | kuntrakchooulee | kʌntɹæktʃuːʌliː |
@@ -23357,7 +23357,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | contrariness | kaantrereenus | kɑntɹɛɹiːnʌs |
 | contrary | kuntreree | kʌntɹɛɹiː |
 | contras | kontruz | kɔːntɹʌz |
-| contras' | kaantruz | kɑntɹʌz |
+| contras' | kaantruz' | kɑntɹʌz |
 | contrast | kuntrast | kʌntɹæst |
 | contrasted | kuntrastud | kʌntɹæstʌd |
 | contrasting | kuntrasting | kʌntɹæstɪŋ |
@@ -23389,10 +23389,10 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | controller | kuntroelyr | kʌntɹoʊlɝ |
 | controller's | kuntroelyr's | kʌntɹoʊlɝz |
 | controllers | kuntroelyrz | kʌntɹoʊlɝz |
-| controllers' | kuntraalyrz | kʌntɹɑlɝz |
+| controllers' | kuntraalyrz' | kʌntɹɑlɝz |
 | controlling | kuntroeling | kʌntɹoʊlɪŋ |
 | controls | kuntroelz | kʌntɹoʊlz |
-| controls' | kaantraalz | kɑntɹɑlz |
+| controls' | kaantraalz' | kɑntɹɑlz |
 | controversial | kaantruvyrshul | kɑntɹʌvɝʃʌl |
 | controversies | kaantruvyrseez | kɑntɹʌvɝsiːz |
 | controversy | kaantruvyrsee | kɑntɹʌvɝsiː |
@@ -23510,7 +23510,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | cookers | kuukyrz | kʊkɝz |
 | cookie | kuukee | kʊkiː |
 | cookies | kuukeez | kʊkiːz |
-| cookin' | kuukin | kʊkɪn |
+| cookin' | kuukin' | kʊkɪn |
 | cooking | kuuking | kʊkɪŋ |
 | cookingham | kuukingham | kʊkɪŋhæm |
 | cookman | kuukmun | kʊkmʌn |
@@ -23656,7 +23656,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | copperfield | kaapyrfeeld | kɑpɝfiːld |
 | copperfield's | kaapyrfeeld's | kɑpɝfiːldz |
 | copperfields | kaapyrfeeldz | kɑpɝfiːldz |
-| copperfields' | kaapyrfeeldz | kɑpɝfiːldz |
+| copperfields' | kaapyrfeeldz' | kɑpɝfiːldz |
 | copperhead | kaapyrhed | kɑpɝhɛd |
 | copperheads | kaapyrhedz | kɑpɝhɛdz |
 | copperman | kaapyrmun | kɑpɝmʌn |
@@ -23786,7 +23786,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | corespondent | koruspaandunt | kɔːɹʌspɑndʌnt |
 | corestate | korstaet | kɔːɹsteɪt |
 | corestates | korstaets | kɔːɹsteɪts |
-| corestates' | korustaets | kɔːɹʌsteɪts |
+| corestates' | korustaets' | kɔːɹʌsteɪts |
 | coretech | kortek | kɔːɹtɛk |
 | coretta | koretu | kɔːɹɛtʌ |
 | corette | koret | kɔːɹɛt |
@@ -23939,11 +23939,11 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | corporation | korpyraeshun | kɔːɹpɝeɪʃʌn |
 | corporation's | korpyraeshun's | kɔːɹpɝeɪʃʌnz |
 | corporations | korpyraeshunz | kɔːɹpɝeɪʃʌnz |
-| corporations' | korpyraeshunz | kɔːɹpɝeɪʃʌnz |
+| corporations' | korpyraeshunz' | kɔːɹpɝeɪʃʌnz |
 | corporatism | korpyrutizum | kɔːɹpɝʌtɪzʌm |
 | corporatist | korpyrutist | kɔːɹpɝʌtɪst |
 | corps | kor | kɔːɹ |
-| corps' | korz | kɔːɹz |
+| corps' | korz' | kɔːɹz |
 | corpse | korps | kɔːɹps |
 | corpses | korpsuz | kɔːɹpsʌz |
 | corpsman | kormun | kɔːɹmʌn |
@@ -23990,7 +23990,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | correspondence | koruspaanduns | kɔːɹʌspɑndʌns |
 | correspondent | koruspaandunt | kɔːɹʌspɑndʌnt |
 | correspondents | koruspaandunts | kɔːɹʌspɑndʌnts |
-| correspondents' | koruspaandunts | kɔːɹʌspɑndʌnts |
+| correspondents' | koruspaandunts' | kɔːɹʌspɑndʌnts |
 | corresponding | koruspaanding | kɔːɹʌspɑndɪŋ |
 | correspondingly | koruspaandinglee | kɔːɹʌspɑndɪŋliː |
 | corresponds | koruspaandz | kɔːɹʌspɑndz |
@@ -24059,7 +24059,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | cortelyou | kortelue | kɔːɹtɛljuː |
 | corten | korten | kɔːɹtɛn |
 | cortens | kortenz | kɔːɹtɛnz |
-| cortens' | kortenz | kɔːɹtɛnz |
+| cortens' | kortenz' | kɔːɹtɛnz |
 | corter | kortyr | kɔːɹtɝ |
 | cortes | kortez | kɔːɹtɛz |
 | cortese | kyrtaezee | kɝteɪziː |
@@ -24133,7 +24133,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | cosmology | kozmolujee | kɔːzmɔːlʌdʒiː |
 | cosmonaut | kozmunot | kɔːzmʌnɔːt |
 | cosmonauts | kozmunots | kɔːzmʌnɔːts |
-| cosmonauts' | kozmunots | kɔːzmʌnɔːts |
+| cosmonauts' | kozmunots' | kɔːzmʌnɔːts |
 | cosmopolitan | kaazmupaalutun | kɑzmʌpɑlʌtʌn |
 | cosmopulos | kozmupueloes | kɔːzmʌpjuːloʊs |
 | cosmos | kaazmoes | kɑzmoʊs |
@@ -24401,7 +24401,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | counting | kounting | kaʊntɪŋ |
 | countless | kountlus | kaʊntlʌs |
 | countries | kuntreez | kʌntɹiːz |
-| countries' | kuntreez | kʌntɹiːz |
+| countries' | kuntreez' | kʌntɹiːz |
 | country | kuntree | kʌntɹiː |
 | country's | kuntree's | kʌntɹiːz |
 | countryfolk | kuntreefoek | kʌntɹiːfoʊk |
@@ -24481,7 +24481,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | courtroom | kortroom | kɔːɹtɹuːm |
 | courtrooms | kortroomz | kɔːɹtɹuːmz |
 | courts | korts | kɔːɹts |
-| courts' | korts | kɔːɹts |
+| courts' | korts' | kɔːɹts |
 | courtship | korchip | kɔːɹtʃɪp |
 | courtwright | kortriet | kɔːɹtɹaɪt |
 | courtyard | kortyaard | kɔːɹtjɑɹd |
@@ -24581,7 +24581,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | cowboy | kouboi | kaʊbɔɪ |
 | cowboy's | kouboi's | kaʊbɔɪz |
 | cowboys | kouboiz | kaʊbɔɪz |
-| cowboys' | kouboiz | kaʊbɔɪz |
+| cowboys' | kouboiz' | kaʊbɔɪz |
 | cowden | koudun | kaʊdʌn |
 | cowdery | koudyree | kaʊdɝiː |
 | cowdrey | koudree | kaʊdɹiː |
@@ -24609,7 +24609,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | cowling | kouling | kaʊlɪŋ |
 | cowling's | kouling's | kaʊlɪŋz |
 | cowlings | koulingz | kaʊlɪŋz |
-| cowlings' | koulingz | kaʊlɪŋz |
+| cowlings' | koulingz' | kaʊlɪŋz |
 | cowlings's | koulingzi's | kaʊlɪŋzɪz |
 | cowman | koumun | kaʊmʌn |
 | coworker | koewyrkyr | koʊwɝkɝ |
@@ -24927,7 +24927,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | credito | kredeetoe | kɹɛdiːtoʊ |
 | creditor | kredityr | kɹɛdɪtɝ |
 | creditors | kredityrz | kɹɛdɪtɝz |
-| creditors' | kredityrz | kɹɛdɪtɝz |
+| creditors' | kredityrz' | kɹɛdɪtɝz |
 | credits | kredits | kɹɛdɪts |
 | creditwatch | kreditwaach | kɹɛdɪtwɑtʃ |
 | creditworthiness | kreditwyrtheenus | kɹɛdɪtwɝðiːnʌs |
@@ -25091,7 +25091,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | criminalizing | krimunuliezing | kɹɪmʌnʌlaɪzɪŋ |
 | criminally | krimunulee | kɹɪmʌnʌliː |
 | criminals | krimunulz | kɹɪmʌnʌlz |
-| criminals' | krimunulz | kɹɪmʌnʌlz |
+| criminals' | krimunulz' | kɹɪmʌnʌlz |
 | criminologist | kriminaalujist | kɹɪmɪnɑlʌdʒɪst |
 | criminologists | kriminaalujists | kɹɪmɪnɑlʌdʒɪsts |
 | criminology | kriminaalujee | kɹɪmɪnɑlʌdʒiː |
@@ -25190,7 +25190,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | criticizes | kritisieziz | kɹɪtɪsaɪzɪz |
 | criticizing | kritisiezing | kɹɪtɪsaɪzɪŋ |
 | critics | kritiks | kɹɪtɪks |
-| critics' | kritiks | kɹɪtɪks |
+| critics' | kritiks' | kɹɪtɪks |
 | critique | kriteek | kɹɪtiːk |
 | critiqued | kriteekt | kɹɪtiːkt |
 | critiques | kriteeks | kɹɪtiːks |
@@ -25219,7 +25219,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | croatian | kroeaeshun | kɹoʊeɪʃʌn |
 | croatian's | kroeaeshun's | kɹoʊeɪʃʌnz |
 | croatians | kroeaeshunz | kɹoʊeɪʃʌnz |
-| croatians' | kroeaeshunz | kɹoʊeɪʃʌnz |
+| croatians' | kroeaeshunz' | kɹoʊeɪʃʌnz |
 | croats | kroeaats | kɹoʊɑts |
 | croc | kraak | kɹɑk |
 | crocco | kraakoe | kɹɑkoʊ |
@@ -25613,7 +25613,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | cubist | kuebist | kjuːbɪst |
 | cubit | kuebit | kjuːbɪt |
 | cubs | kubz | kʌbz |
-| cubs' | kubz | kʌbz |
+| cubs' | kubz' | kʌbz |
 | cuccaro | kookaaroe | kuːkɑɹoʊ |
 | cucchi | kookee | kuːkiː |
 | cucchiara | kookeeaaru | kuːkiːɑɹʌ |
@@ -25893,7 +25893,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | curren | kyrun | kɝʌn |
 | currence | kyruns | kɝʌns |
 | currencies | kyrunseez | kɝʌnsiːz |
-| currencies' | kyrenseez | kɝɛnsiːz |
+| currencies' | kyrenseez' | kɝɛnsiːz |
 | currency | kyrunsee | kɝʌnsiː |
 | currency's | kyrunsee's | kɝʌnsiːz |
 | currencywatch | kyrunseewaach | kɝʌnsiːwɑtʃ |
@@ -25939,7 +25939,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | curtice | kuurtis | kʊɹtɪs |
 | curtin | kyrtin | kɝtɪn |
 | curtis | kyrtis | kɝtɪs |
-| curtis' | kyrtis | kɝtɪs |
+| curtis' | kyrtis' | kɝtɪs |
 | curtiss | kyrtis | kɝtɪs |
 | curtly | kyrtlee | kɝtliː |
 | curtner | kyrtnyr | kɝtnɝ |
@@ -25998,7 +25998,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | customer | kustumyr | kʌstʌmɝ |
 | customer's | kustumyr's | kʌstʌmɝz |
 | customers | kustumyrz | kʌstʌmɝz |
-| customers' | kustumyrz | kʌstʌmɝz |
+| customers' | kustumyrz' | kʌstʌmɝz |
 | customizable | kustumiezubul | kʌstʌmaɪzʌbʌl |
 | customize | kustumiez | kʌstʌmaɪz |
 | customized | kustumiezd | kʌstʌmaɪzd |
@@ -26474,7 +26474,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dallaire | daaler | dɑlɛɹ |
 | dallara | dalaaru | dælɑɹʌ |
 | dallas | dalus | dælʌs |
-| dallas' | dalus | dælʌs |
+| dallas' | dalus' | dælʌs |
 | dallas's | dalusi's | dælʌsɪz |
 | dalley | dalee | dæliː |
 | dallhold | dolhoeld | dɔːlhoʊld |
@@ -26600,10 +26600,10 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dancer | dansyr | dænsɝ |
 | dancer's | dansyr's | dænsɝz |
 | dancers | dansyrz | dænsɝz |
-| dancers' | dansyrz | dænsɝz |
+| dancers' | dansyrz' | dænsɝz |
 | dances | dansuz | dænsʌz |
 | dancey | dansee | dænsiː |
-| dancin' | dansin | dænsɪn |
+| dancin' | dansin' | dænsɪn |
 | dancing | dansing | dænsɪŋ |
 | dancsak | danksak | dænksæk |
 | dancy | dansee | dænsiː |
@@ -26919,7 +26919,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | datapoints | datupoints | dætʌpɔɪnts |
 | datapower | datupour | dætʌpaʊɹ |
 | dataproducts | daetupraadukts | deɪtʌpɹɑdʌkts |
-| dataproducts' | datuprodukts | dætʌpɹɔːdʌkts |
+| dataproducts' | datuprodukts' | dætʌpɹɔːdʌkts |
 | dataquest | datukwest | dætʌkwɛst |
 | dataquest's | datukwest's | dætʌkwɛsts |
 | dataram | datyram | dætɝæm |
@@ -26969,7 +26969,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | daughter's | dotyr's | dɔːtɝz |
 | daughter-in-law | daatyrinlaa | dɑtɝɪnlɑ |
 | daughters | dotyrz | dɔːtɝz |
-| daughters' | dotyrz | dɔːtɝz |
+| daughters' | dotyrz' | dɔːtɝz |
 | daughters-in-law | daatyrzinlaa | dɑtɝzɪnlɑ |
 | daughtery | dotyree | dɔːtɝiː |
 | daughton | dotun | dɔːtʌn |
@@ -27033,7 +27033,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | davio's | daveeoe's | dæviːoʊz |
 | davir | duvir | dʌvɪɹ |
 | davis | daevis | deɪvɪs |
-| davis' | daevus | deɪvʌs |
+| davis' | daevus' | deɪvʌs |
 | davis's | daevisi's | deɪvɪsɪz |
 | davison | daevisun | deɪvɪsʌn |
 | davisson | davisun | dævɪsʌn |
@@ -27063,7 +27063,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dawson | daasun | dɑsʌn |
 | dawson's | daasun's | dɑsʌnz |
 | dax | daks | dæks |
-| dax' | daks | dæks |
+| dax' | daks' | dæks |
 | dax's | daksi's | dæksɪz |
 | daxor | daksyr | dæksɝ |
 | day | dae | deɪ |
@@ -27092,7 +27092,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | daynard | daenyrd | deɪnɝd |
 | dayne | daen | deɪn |
 | days | daez | deɪz |
-| days' | daez | deɪz |
+| days' | daez' | deɪz |
 | daytime | daetiem | deɪtaɪm |
 | daytimes | daetiemz | deɪtaɪmz |
 | dayton | daetun | deɪtʌn |
@@ -27162,7 +27162,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dealer's | deelyr's | diːlɝz |
 | dealerline | deelyrlien | diːlɝlaɪn |
 | dealers | deelyrz | diːlɝz |
-| dealers' | deelyrz | diːlɝz |
+| dealers' | deelyrz' | diːlɝz |
 | dealership | deelyrship | diːlɝʃɪp |
 | dealership's | deelyrship's | diːlɝʃɪps |
 | dealerships | deelyrships | diːlɝʃɪps |
@@ -27271,7 +27271,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | debenedictis | debinudiktis | dɛbɪnʌdɪktɪs |
 | debenture | dubenchyr | dʌbɛntʃɝ |
 | debentures | dubenchyrz | dʌbɛntʃɝz |
-| debentures' | dibenchyrz | dɪbɛntʃɝz |
+| debentures' | dibenchyrz' | dɪbɛntʃɝz |
 | debernardi | dibyrnaardee | dɪbɝnɑɹdiː |
 | deberry | deeberee | diːbɛɹiː |
 | debes | deebz | diːbz |
@@ -27334,7 +27334,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | debtor | detyr | dɛtɝ |
 | debtor's | detyr's | dɛtɝz |
 | debtors | detyrz | dɛtɝz |
-| debtors' | detyrz | dɛtɝz |
+| debtors' | detyrz' | dɛtɝz |
 | debts | dets | dɛts |
 | debug | deebug | diːbʌɡ |
 | debugging | deebuging | diːbʌɡɪŋ |
@@ -27712,7 +27712,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | defendant | difendunt | dɪfɛndʌnt |
 | defendant's | difendunt's | dɪfɛndʌnts |
 | defendants | difendunts | dɪfɛndʌnts |
-| defendants' | difendunts | dɪfɛndʌnts |
+| defendants' | difendunts' | dɪfɛndʌnts |
 | defended | difendud | dɪfɛndʌd |
 | defender | difendyr | dɪfɛndɝ |
 | defender's | difendyr's | dɪfɛndɝz |
@@ -28080,7 +28080,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | delegate's | deligut's | dɛlɪɡʌts |
 | delegated | delugaetud | dɛlʌɡeɪtʌd |
 | delegates | delugaets | dɛlʌɡeɪts |
-| delegates' | delugaets | dɛlʌɡeɪts |
+| delegates' | delugaets' | dɛlʌɡeɪts |
 | delegating | delugaeting | dɛlʌɡeɪtɪŋ |
 | delegation | delugaeshun | dɛlʌɡeɪʃʌn |
 | delegation's | delugaeshun's | dɛlʌɡeɪʃʌnz |
@@ -28452,7 +28452,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | democratizes | dimaakrutieziz | dɪmɑkɹʌtaɪzɪz |
 | democratizing | dimaakrutiezing | dɪmɑkɹʌtaɪzɪŋ |
 | democrats | demukrats | dɛmʌkɹæts |
-| democrats' | demukrats | dɛmʌkɹæts |
+| democrats' | demukrats' | dɛmʌkɹæts |
 | demodulate | deemaajulaet | diːmɑdʒʌleɪt |
 | demodulated | deemaajulaetud | diːmɑdʒʌleɪtʌd |
 | demodulates | deemaajulaets | diːmɑdʒʌleɪts |
@@ -28674,7 +28674,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dentist's | dentist's | dɛntɪsts |
 | dentistry | dentistree | dɛntɪstɹiː |
 | dentists | dentists | dɛntɪsts |
-| dentists' | dentists | dɛntɪsts |
+| dentists' | dentists' | dɛntɪsts |
 | dentition | dentishun | dɛntɪʃʌn |
 | dentler | dentlyr | dɛntlɝ |
 | denton | dentun | dɛntʌn |
@@ -28819,7 +28819,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | depositor | dupaazityr | dʌpɑzɪtɝ |
 | depositor's | dupaazityr's | dʌpɑzɪtɝz |
 | depositors | dupaazityrz | dʌpɑzɪtɝz |
-| depositors' | dipaazityrz | dɪpɑzɪtɝz |
+| depositors' | dipaazityrz' | dɪpɑzɪtɝz |
 | depository | dipaazutoree | dɪpɑzʌtɔːɹiː |
 | deposits | dupaazits | dʌpɑzɪts |
 | depot | deepoe | diːpoʊ |
@@ -29123,7 +29123,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | designer | dizienyr | dɪzaɪnɝ |
 | designer's | dizienyr's | dɪzaɪnɝz |
 | designers | dizienyrz | dɪzaɪnɝz |
-| designers' | dizienyrz | dɪzaɪnɝz |
+| designers' | dizienyrz' | dɪzaɪnɝz |
 | designing | diziening | dɪzaɪnɪŋ |
 | designor | disignyr | dɪsɪɡnɝ |
 | designs | dizienz | dɪzaɪnz |
@@ -29421,7 +29421,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | developer | divelupyr | dɪvɛlʌpɝ |
 | developer's | divelupyr's | dɪvɛlʌpɝz |
 | developers | divelupyrz | dɪvɛlʌpɝz |
-| developers' | divelupyrz | dɪvɛlʌpɝz |
+| developers' | divelupyrz' | dɪvɛlʌpɝz |
 | developing | diveluping | dɪvɛlʌpɪŋ |
 | development | divelupmunt | dɪvɛlʌpmʌnt |
 | development's | divelupmunt's | dɪvɛlʌpmʌnts |
@@ -29469,7 +29469,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | devillier | duvilyyr | dʌvɪljɝ |
 | devillier's | duvilyyr's | dʌvɪljɝs |
 | devils | devulz | dɛvʌlz |
-| devils' | devulz | dɛvʌlz |
+| devils' | devulz' | dɛvʌlz |
 | devilwood | devulwuud | dɛvʌlwʊd |
 | devin | devin | dɛvɪn |
 | devincent | daeveensunt | deɪviːnsʌnt |
@@ -29766,7 +29766,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dickel | dikul | dɪkʌl |
 | dicken | dikun | dɪkʌn |
 | dickens | dikunz | dɪkʌnz |
-| dickens' | dikunz | dɪkʌnz |
+| dickens' | dikunz' | dɪkʌnz |
 | dickens's | dikunzi's | dɪkʌnzɪz |
 | dickensheets | dikunsheets | dɪkʌnʃiːts |
 | dickensian | dikenzeeun | dɪkɛnziːʌn |
@@ -30165,7 +30165,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dimitri | dimeetree | dɪmiːtɹiː |
 | dimitrios | dimeetreeoes | dɪmiːtɹiːoʊs |
 | dimitrius | dimeetreeus | dɪmiːtɹiːʌs |
-| dimitrius' | dimeetreeus | dɪmiːtɹiːʌs |
+| dimitrius' | dimeetreeus' | dɪmiːtɹiːʌs |
 | dimitrius's | dimeetreeusi's | dɪmiːtɹiːʌsɪs |
 | dimitroff | dimitrof | dɪmɪtɹɔːf |
 | dimitruk | dimeetruuk | dɪmiːtɹʊk |
@@ -30240,7 +30240,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dink | dingk | dɪŋk |
 | dinkel | dingkul | dɪŋkʌl |
 | dinkins | dingkinz | dɪŋkɪnz |
-| dinkins' | dingkinz | dɪŋkɪnz |
+| dinkins' | dingkinz' | dɪŋkɪnz |
 | dinky | dingkee | dɪŋkiː |
 | dinmukhamed | dinmookaamed | dɪnmuːkɑmɛd |
 | dinneen | dineen | dɪniːn |
@@ -30283,7 +30283,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | diorio | deeoreeoe | diːɔːɹiːoʊ |
 | diorite | dieyriet | daɪɝaɪt |
 | dios | deeoes | diːoʊs |
-| dios' | deeoes | diːoʊs |
+| dios' | deeoes' | diːoʊs |
 | dios's | deeoesi's | diːoʊsɪz |
 | dioxide | dieaaksied | daɪɑksaɪd |
 | dioxides | dieaaksiedz | daɪɑksaɪdz |
@@ -30312,7 +30312,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | diplomatic | diplumatik | dɪplʌmætɪk |
 | diplomatically | diplumatiklee | dɪplʌmætɪkliː |
 | diplomats | diplumats | dɪplʌmæts |
-| diplomats' | diplumats | dɪplʌmæts |
+| diplomats' | diplumats' | dɪplʌmæts |
 | dipole | diepoel | daɪpoʊl |
 | dipped | dipt | dɪpt |
 | dippel | dipul | dɪpʌl |
@@ -30347,7 +30347,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | directorial | direktoreeul | dɪɹɛktɔːɹiːʌl |
 | directories | direktyreez | dɪɹɛktɝiːz |
 | directors | direktyrz | dɪɹɛktɝz |
-| directors' | direktyrz | dɪɹɛktɝz |
+| directors' | direktyrz' | dɪɹɛktɝz |
 | directorship | direktyrship | dɪɹɛktɝʃɪp |
 | directorships | direktyrships | dɪɹɛktɝʃɪps |
 | directory | direktyree | dɪɹɛktɝiː |
@@ -30908,7 +30908,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dissidence | disuduns | dɪsʌdʌns |
 | dissident | disudunt | dɪsʌdʌnt |
 | dissidents | disudunts | dɪsʌdʌnts |
-| dissidents' | disudunts | dɪsʌdʌnts |
+| dissidents' | disudunts' | dɪsʌdʌnts |
 | dissimilar | disimulyr | dɪsɪmʌlɝ |
 | dissimilarity | disimularutee | dɪsɪmʌlæɹʌtiː |
 | dissing | dising | dɪsɪŋ |
@@ -30960,7 +30960,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | distiller's | distilyr's | dɪstɪlɝz |
 | distilleries | distilyreez | dɪstɪlɝiːz |
 | distillers | distilyrz | dɪstɪlɝz |
-| distillers' | distilyrz | dɪstɪlɝz |
+| distillers' | distilyrz' | dɪstɪlɝz |
 | distillers's | distilyrzi's | dɪstɪlɝzɪz |
 | distillery | distilyree | dɪstɪlɝiː |
 | distilling | distiling | dɪstɪlɪŋ |
@@ -31006,7 +31006,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | distributor | distribyutyr | dɪstɹɪbjʌtɝ |
 | distributor's | distribuetyr's | dɪstɹɪbjuːtɝz |
 | distributors | distribyutyrz | dɪstɹɪbjʌtɝz |
-| distributors' | distribyutyrz | dɪstɹɪbjʌtɝz |
+| distributors' | distribyutyrz' | dɪstɹɪbjʌtɝz |
 | distributorship | distribuetyrship | dɪstɹɪbjuːtɝʃɪp |
 | distributorships | distribuetyrships | dɪstɹɪbjuːtɝʃɪps |
 | district | distrikt | dɪstɹɪkt |
@@ -31144,7 +31144,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | division's | divizjun's | dɪvɪʒʌnz |
 | divisional | divizjunul | dɪvɪʒʌnʌl |
 | divisions | divizjunz | dɪvɪʒʌnz |
-| divisions' | divizjunz | dɪvɪʒʌnz |
+| divisions' | divizjunz' | dɪvɪʒʌnz |
 | divisive | diviesiv | dɪvaɪsɪv |
 | divisiveness | diviesivnus | dɪvaɪsɪvnʌs |
 | divison | divisun | dɪvɪsʌn |
@@ -31284,7 +31284,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | doctored | daaktyrd | dɑktɝd |
 | doctoring | daaktyring | dɑktɝɪŋ |
 | doctors | daaktyrz | dɑktɝz |
-| doctors' | daaktyrz | dɑktɝz |
+| doctors' | daaktyrz' | dɑktɝz |
 | doctrinaire | daaktruner | dɑktɹʌnɛɹ |
 | doctrinal | daaktrunul | dɑktɹʌnʌl |
 | doctrine | doktyrin | dɔːktɝɪn |
@@ -31313,7 +31313,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dodger | daajyr | dɑdʒɝ |
 | dodger's | daajyr's | dɑdʒɝz |
 | dodgers | daajyrz | dɑdʒɝz |
-| dodgers' | daajyrz | dɑdʒɝz |
+| dodgers' | daajyrz' | dɑdʒɝz |
 | dodges | daajiz | dɑdʒɪz |
 | dodging | daajing | dɑdʒɪŋ |
 | dodi | doedee | doʊdiː |
@@ -31383,7 +31383,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dogmatically | daagmatiklee | dɑɡmætɪkliː |
 | dogmatism | daagmutizum | dɑɡmʌtɪzʌm |
 | dogs | dogz | dɔːɡz |
-| dogs' | dogz | dɔːɡz |
+| dogs' | dogz' | dɔːɡz |
 | dogwood | dogwuud | dɔːɡwʊd |
 | dogwoods | dogwuudz | dɔːɡwʊdz |
 | doh | doe | doʊ |
@@ -31406,7 +31406,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | doig | doig | dɔɪɡ |
 | doilies | doileez | dɔɪliːz |
 | doily | doilee | dɔɪliː |
-| doin' | dooin | duːɪn |
+| doin' | dooin' | duːɪn |
 | doing | dooing | duːɪŋ |
 | doings | dooingz | duːɪŋz |
 | doiron | doiron | dɔɪɹɔːn |
@@ -31457,7 +31457,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dollard | daalyrd | dɑlɝd |
 | dollarhide | daalyrhied | dɑlɝhaɪd |
 | dollars | dolyrz | dɔːlɝz |
-| dollars' | daalyrz | dɑlɝz |
+| dollars' | daalyrz' | dɑlɝz |
 | dolle | daal | dɑl |
 | dolled | daald | dɑld |
 | dollens | daalunz | dɑlʌnz |
@@ -31485,7 +31485,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dolph | doelf | doʊlf |
 | dolphin | daalfun | dɑlfʌn |
 | dolphins | daalfunz | dɑlfʌnz |
-| dolphins' | daalfunz | dɑlfʌnz |
+| dolphins' | daalfunz' | dɑlfʌnz |
 | dols | daalz | dɑlz |
 | dolson | doelsun | doʊlsʌn |
 | dolton | doeltun | doʊltʌn |
@@ -31686,14 +31686,14 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | donor | doenyr | doʊnɝ |
 | donor's | doenyr's | doʊnɝz |
 | donors | doenyrz | doʊnɝz |
-| donors' | doenyrz | doʊnɝz |
+| donors' | doenyrz' | doʊnɝz |
 | donovan | daanuvun | dɑnʌvʌn |
 | donovan's | daanuvun's | dɑnʌvʌnz |
 | dons | daanz | dɑnz |
 | donsbach | daanzbaak | dɑnzbɑk |
 | donut | doenut | doʊnʌt |
 | donuts | doenuts | doʊnʌts |
-| donuts' | doenuts | doʊnʌts |
+| donuts' | doenuts' | doʊnʌts |
 | donvan | daanvun | dɑnvʌn |
 | donvan's | daanvun's | dɑnvʌnz |
 | donze | daanz | dɑnz |
@@ -31879,7 +31879,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dosing | doesing | doʊsɪŋ |
 | doskocil | doskusil | dɔːskʌsɪl |
 | dospasos | doespasoes | doʊspæsoʊs |
-| dospasos' | doespasoes | doʊspæsoʊs |
+| dospasos' | doespasoes' | doʊspæsoʊs |
 | doss | dos | dɔːs |
 | dossantos | doesaantoez | doʊsɑntoʊz |
 | dossett | daasit | dɑsɪt |
@@ -31970,7 +31970,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dougie's | doogee's | duːɡiːz |
 | dougl | doogul | duːɡʌl |
 | douglas | duglus | dʌɡlʌs |
-| douglas' | duglus | dʌɡlʌs |
+| douglas' | duglus' | dʌɡlʌs |
 | douglas's | duglusi's | dʌɡlʌsɪz |
 | douglass | duglus | dʌɡlʌs |
 | doukas | doukuz | daʊkʌz |
@@ -32282,7 +32282,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dreams | dreemz | dɹiːmz |
 | dreamt | dremt | dɹɛmt |
 | dreamworks | dreemwyrks | dɹiːmwɝks |
-| dreamworks' | dreemwyrks | dɹiːmwɝks |
+| dreamworks' | dreemwyrks' | dɹiːmwɝks |
 | dreamworld | dreemwyrld | dɹiːmwɝld |
 | dreamy | dreemee | dɹiːmiː |
 | dreariness | dreereenus | dɹiːɹiːnʌs |
@@ -32427,7 +32427,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | driver's | drievyr's | dɹaɪvɝz |
 | driverless | drievyrlis | dɹaɪvɝlɪs |
 | drivers | drievyrz | dɹaɪvɝz |
-| drivers' | drievyrz | dɹaɪvɝz |
+| drivers' | drievyrz' | dɹaɪvɝz |
 | drives | drievz | dɹaɪvz |
 | driveway | drievwae | dɹaɪvweɪ |
 | driveways | drievwaez | dɹaɪvweɪz |
@@ -32539,7 +32539,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | drugmaker | drugmaekyr | dɹʌɡmeɪkɝ |
 | drugmakers | drugmaekyrz | dɹʌɡmeɪkɝz |
 | drugs | drugz | dɹʌɡz |
-| drugs' | drugz | dɹʌɡz |
+| drugs' | drugz' | dɹʌɡz |
 | drugstore | drugstor | dɹʌɡstɔːɹ |
 | drugstores | drugstorz | dɹʌɡstɔːɹz |
 | druid | drooid | dɹuːɪd |
@@ -32693,7 +32693,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | duckling | dukling | dʌklɪŋ |
 | ducklings | duklingz | dʌklɪŋz |
 | ducks | duks | dʌks |
-| ducks' | duks | dʌks |
+| ducks' | duks' | dʌks |
 | ducksworth | dukswyrth | dʌkswɝθ |
 | duckwall | dukwol | dʌkwɔːl |
 | duckweed | dukweed | dʌkwiːd |
@@ -32820,7 +32820,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | duitsman | dootsmun | duːtsmʌn |
 | duk | duk | dʌk |
 | dukakis | dookaakis | duːkɑkɪs |
-| dukakis' | dookaakis | duːkɑkɪs |
+| dukakis' | dookaakis' | duːkɑkɪs |
 | dukakis's | dookaakisi's | duːkɑkɪsɪz |
 | dukakises | dookaakisiz | duːkɑkɪsɪz |
 | dukart | dukaart | dʌkɑɹt |
@@ -32964,7 +32964,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dunker | dungkyr | dʌŋkɝ |
 | dunkerley | dungkyrlee | dʌŋkɝliː |
 | dunkin | dungkin | dʌŋkɪn |
-| dunkin' | dungkin | dʌŋkɪn |
+| dunkin' | dungkin' | dʌŋkɪn |
 | dunkirk | dunkyrk | dʌnkɝk |
 | dunkle | dungkul | dʌŋkʌl |
 | dunkleberger | dungkulbyrgyr | dʌŋkʌlbɝɡɝ |
@@ -33284,7 +33284,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | dynamic | dienamik | daɪnæmɪk |
 | dynamically | dienamiklee | daɪnæmɪkliː |
 | dynamics | dienamiks | daɪnæmɪks |
-| dynamics' | dinamiks | dɪnæmɪks |
+| dynamics' | dinamiks' | dɪnæmɪks |
 | dynamics's | dienamiksi's | daɪnæmɪksɪz |
 | dynamism | dienumizum | daɪnʌmɪzʌm |
 | dynamite | dienumiet | daɪnʌmaɪt |
@@ -33350,7 +33350,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | eades | eedz | iːdz |
 | eadie | edee | ɛdiː |
 | eads | eedz | iːdz |
-| eads' | eedz | iːdz |
+| eads' | eedz' | iːdz |
 | eady | eedee | iːdiː |
 | eagan | eegun | iːɡʌn |
 | eagar | eegyr | iːɡɝ |
@@ -33426,7 +33426,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | earnheart | yrnhaart | ɝnhɑɹt |
 | earning | yrning | ɝnɪŋ |
 | earnings | yrningz | ɝnɪŋz |
-| earnings' | yrningz | ɝnɪŋz |
+| earnings' | yrningz' | ɝnɪŋz |
 | earns | yrnz | ɝnz |
 | earnshaw | yrnshaa | ɝnʃɑ |
 | earp | yrp | ɝp |
@@ -33713,7 +33713,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | economist | ikaanumist | ɪkɑnʌmɪst |
 | economist's | ikaanumist's | ɪkɑnʌmɪsts |
 | economists | ikaanumists | ɪkɑnʌmɪsts |
-| economists' | ikaanumists | ɪkɑnʌmɪsts |
+| economists' | ikaanumists' | ɪkɑnʌmɪsts |
 | economize | ikaanumiez | ɪkɑnʌmaɪz |
 | economizes | ikaanumiezuz | ɪkɑnʌmaɪzʌz |
 | economizing | ikaanumiezing | ɪkɑnʌmaɪzɪŋ |
@@ -33848,7 +33848,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | editorially | edutoreeulee | ɛdʌtɔːɹiːʌliː |
 | editorials | edutoreeulz | ɛdʌtɔːɹiːʌlz |
 | editors | edityrz | ɛdɪtɝz |
-| editors' | edityrz | ɛdɪtɝz |
+| editors' | edityrz' | ɛdɪtɝz |
 | editorship | edutyrship | ɛdʌtɝʃɪp |
 | edits | edits | ɛdɪts |
 | ediva | edeevu | ɛdiːvʌ |
@@ -33920,7 +33920,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | edwardian | edwordeeun | ɛdwɔːɹdiːʌn |
 | edwardine | idwordien | ɪdwɔːɹdaɪn |
 | edwards | edwyrdz | ɛdwɝdz |
-| edwards' | edwyrdz | ɛdwɝdz |
+| edwards' | edwyrdz' | ɛdwɝdz |
 | edwards's | edwyrdzi's | ɛdwɝdzɪz |
 | edwardson | edwordsun | ɛdwɔːɹdsʌn |
 | edwin | edwin | ɛdwɪn |
@@ -34336,7 +34336,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | elderly's | eldyrlee's | ɛldɝliːz |
 | elderman | eldyrmun | ɛldɝmʌn |
 | elders | eldyrz | ɛldɝz |
-| elders' | eldyrz | ɛldɝz |
+| elders' | eldyrz' | ɛldɝz |
 | elders's | eldyrzi's | ɛldɝzɪz |
 | eldest | eldust | ɛldʌst |
 | eldin | eldin | ɛldɪn |
@@ -34386,7 +34386,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | electricar | ilektrikaar | ɪlɛktɹɪkɑɹ |
 | electrician | ilektrishun | ɪlɛktɹɪʃʌn |
 | electricians | ilektrishunz | ɪlɛktɹɪʃʌnz |
-| electricians' | ilektrishunz | ɪlɛktɹɪʃʌnz |
+| electricians' | ilektrishunz' | ɪlɛktɹɪʃʌnz |
 | electricite | ulektrisitae | ʌlɛktɹɪsɪteɪ |
 | electricity | ilektrisutee | ɪlɛktɹɪsʌtiː |
 | electrics | ilektriks | ɪlɛktɹɪks |
@@ -34426,7 +34426,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | electronic | ilektraanik | ɪlɛktɹɑnɪk |
 | electronically | ilektraanikulee | ɪlɛktɹɑnɪkʌliː |
 | electronics | ilektraaniks | ɪlɛktɹɑnɪks |
-| electronics' | ilektraaniks | ɪlɛktɹɑnɪks |
+| electronics' | ilektraaniks' | ɪlɛktɹɑnɪks |
 | electrons | ilektraanz | ɪlɛktɹɑnz |
 | electrophoresis | ilektroeforisis | ɪlɛktɹoʊfɔːɹɪsɪs |
 | electrophoretogram | ilektraafuretugram | ɪlɛktɹɑfʌɹɛtʌɡɹæm |
@@ -34466,7 +34466,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | elephantiasis | elifuntieusis | ɛlɪfʌntaɪʌsɪs |
 | elephantine | elufanteen | ɛlʌfæntiːn |
 | elephants | elufunts | ɛlʌfʌnts |
-| elephants' | elufunts | ɛlʌfʌnts |
+| elephants' | elufunts' | ɛlʌfʌnts |
 | eletr | elutyr | ɛlʌtɝ |
 | eleuthera | iloothyru | ɪluːθɝʌ |
 | elevate | eluvaet | ɛlʌveɪt |
@@ -34757,7 +34757,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | elvira | elvieru | ɛlvaɪɹʌ |
 | elvire | elvier | ɛlvaɪɹ |
 | elvis | elvis | ɛlvɪs |
-| elvis' | elvis | ɛlvɪs |
+| elvis' | elvis' | ɛlvɪs |
 | elvis's | elvisi's | ɛlvɪsɪz |
 | elvy | elvee | ɛlviː |
 | elway | elwae | ɛlweɪ |
@@ -34971,7 +34971,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | emir | imir | ɪmɪɹ |
 | emirate | emyrut | ɛmɝʌt |
 | emirates | emyruts | ɛmɝʌts |
-| emirates' | emyruts | ɛmɝʌts |
+| emirates' | emyruts' | ɛmɝʌts |
 | emison | emisun | ɛmɪsʌn |
 | emissaries | emusereez | ɛmʌsɛɹiːz |
 | emissary | emuseree | ɛmʌsɛɹiː |
@@ -35065,11 +35065,11 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | employee | emploiee | ɛmplɔɪiː |
 | employee's | emploiee's | ɛmplɔɪiːz |
 | employees | emploieez | ɛmplɔɪiːz |
-| employees' | emploieez | ɛmplɔɪiːz |
+| employees' | emploieez' | ɛmplɔɪiːz |
 | employer | emploiyr | ɛmplɔɪɝ |
 | employer's | emploiyr's | ɛmplɔɪɝz |
 | employers | emploiyrz | ɛmplɔɪɝz |
-| employers' | emploiyrz | ɛmplɔɪɝz |
+| employers' | emploiyrz' | ɛmplɔɪɝz |
 | employing | emploiing | ɛmplɔɪɪŋ |
 | employment | emploimunt | ɛmplɔɪmʌnt |
 | employments | emploimunts | ɛmplɔɪmʌnts |
@@ -35292,7 +35292,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | endothelial | endoetheeleeul | ɛndoʊθiːliːʌl |
 | endothermic | endoethyrmik | ɛndoʊθɝmɪk |
 | endotronics | endoetraaniks | ɛndoʊtɹɑnɪks |
-| endotronics' | endutraaniks | ɛndʌtɹɑnɪks |
+| endotronics' | endutraaniks' | ɛndʌtɹɑnɪks |
 | endotronics's | endoetraaniksi's | ɛndoʊtɹɑnɪksɪz |
 | endow | endou | ɛndaʊ |
 | endowed | endoud | ɛndaʊd |
@@ -35325,7 +35325,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | enema | enumu | ɛnʌmʌ |
 | enemas | enumuz | ɛnʌmʌz |
 | enemies | enumeez | ɛnʌmiːz |
-| enemies' | enumeez | ɛnʌmiːz |
+| enemies' | enumeez' | ɛnʌmiːz |
 | enemy | enumee | ɛnʌmiː |
 | enemy's | enumee's | ɛnʌmiːz |
 | energas | enyrgas | ɛnɝɡæs |
@@ -35411,9 +35411,9 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | engineered | enjuneerd | ɛndʒʌniːɹd |
 | engineering | enjuniring | ɛndʒʌnɪɹɪŋ |
 | engineers | enjunirz | ɛndʒʌnɪɹz |
-| engineers' | enjunirz | ɛndʒʌnɪɹz |
+| engineers' | enjunirz' | ɛndʒʌnɪɹz |
 | engines | enjunz | ɛndʒʌnz |
-| engines' | enggeenz | ɛŋɡiːnz |
+| engines' | enggeenz' | ɛŋɡiːnz |
 | england | ingglund | ɪŋɡlʌnd |
 | england's | ingglund's | ɪŋɡlʌndz |
 | englander | ingglundyr | ɪŋɡlʌndɝ |
@@ -35647,7 +35647,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | enterprise | entyrpriez | ɛntɝpɹaɪz |
 | enterprise's | entyrpriezu's | ɛntɝpɹaɪzʌz |
 | enterprises | entyrprieziz | ɛntɝpɹaɪzɪz |
-| enterprises' | entyrprieziz | ɛntɝpɹaɪzɪz |
+| enterprises' | entyrprieziz' | ɛntɝpɹaɪzɪz |
 | enterprising | entyrpriezing | ɛntɝpɹaɪzɪŋ |
 | enterra | enteru | ɛntɛɹʌ |
 | enters | entyrz | ɛntɝz |
@@ -35682,7 +35682,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | entirely | intieyrlee | ɪntaɪɝliː |
 | entirety | intieyrtee | ɪntaɪɝtiː |
 | entities | entiteez | ɛntɪtiːz |
-| entities' | entiteez | ɛntɪtiːz |
+| entities' | entiteez' | ɛntɪtiːz |
 | entitle | entietul | ɛntaɪtʌl |
 | entitled | entietuld | ɛntaɪtʌld |
 | entitlement | entietulmunt | ɛntaɪtʌlmʌnt |
@@ -35774,7 +35774,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | environmentalism | envierunmentulizum | ɛnvaɪɹʌnmɛntʌlɪzʌm |
 | environmentalist | invierunmentulist | ɪnvaɪɹʌnmɛntʌlɪst |
 | environmentalists | envierunmentulists | ɛnvaɪɹʌnmɛntʌlɪsts |
-| environmentalists' | invierunmentulists | ɪnvaɪɹʌnmɛntʌlɪsts |
+| environmentalists' | invierunmentulists' | ɪnvaɪɹʌnmɛntʌlɪsts |
 | environmentally | invierunmentulee | ɪnvaɪɹʌnmɛntʌliː |
 | environments | invierunmunts | ɪnvaɪɹʌnmʌnts |
 | environs | invierunz | ɪnvaɪɹʌnz |
@@ -35963,7 +35963,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | equitex | ekwuteks | ɛkwʌtɛks |
 | equiticorp | ekwiteekorp | ɛkwɪtiːkɔːɹp |
 | equities | ekwuteez | ɛkwʌtiːz |
-| equities' | ekwuteez | ɛkwʌtiːz |
+| equities' | ekwuteez' | ɛkwʌtiːz |
 | equity | ekwutee | ɛkwʌtiː |
 | equity's | ekwutee's | ɛkwʌtiːz |
 | equivalence | ikwivuluns | ɪkwɪvʌlʌns |
@@ -36631,7 +36631,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | europe's | yuurup's | jʊɹʌps |
 | european | yuurupeeun | jʊɹʌpiːʌn |
 | europeans | yuurupeeunz | jʊɹʌpiːʌnz |
-| europeans' | yuurupeeunz | jʊɹʌpiːʌnz |
+| europeans' | yuurupeeunz' | jʊɹʌpiːʌnz |
 | europeenne | ueroepeen | juːɹoʊpiːn |
 | europewide | yuurupwied | jʊɹʌpwaɪd |
 | europhile | yuuroefiel | jʊɹoʊfaɪl |
@@ -36702,7 +36702,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | evanoff | evunof | ɛvʌnɔːf |
 | evanov | evunov | ɛvʌnɔːv |
 | evans | evunz | ɛvʌnz |
-| evans' | evunz | ɛvʌnz |
+| evans' | evunz' | ɛvʌnz |
 | evans's | evunzi's | ɛvʌnzɪz |
 | evanson | evunsun | ɛvʌnsʌn |
 | evanston | evunstun | ɛvʌnstʌn |
@@ -36760,7 +36760,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | everetts | evyruts | ɛvɝʌts |
 | everex | evyruks | ɛvɝʌks |
 | everglades | evyrglaedz | ɛvɝɡleɪdz |
-| everglades' | evyrglaedz | ɛvɝɡleɪdz |
+| everglades' | evyrglaedz' | ɛvɝɡleɪdz |
 | evergood | evyrguud | ɛvɝɡʊd |
 | evergreen | evyrgreen | ɛvɝɡɹiːn |
 | evergreens | evyrgreenz | ɛvɝɡɹiːnz |
@@ -36779,7 +36779,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | everman | evyrmun | ɛvɝmʌn |
 | evermore | evyrmor | ɛvɝmɔːɹ |
 | evers | evyrz | ɛvɝz |
-| evers' | evyrz | ɛvɝz |
+| evers' | evyrz' | ɛvɝz |
 | eversman | evyrsmun | ɛvɝsmʌn |
 | eversole | evyrsoel | ɛvɝsoʊl |
 | everson | evyrsun | ɛvɝsʌn |
@@ -36918,7 +36918,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | examiner | igzamunyr | ɪɡzæmʌnɝ |
 | examiner's | egzamunyr's | ɛɡzæmʌnɝz |
 | examiners | igzaminyrz | ɪɡzæmɪnɝz |
-| examiners' | igzaminyrz | ɪɡzæmɪnɝz |
+| examiners' | igzaminyrz' | ɪɡzæmɪnɝz |
 | examines | igzamunz | ɪɡzæmʌnz |
 | examining | igzamining | ɪɡzæmɪnɪŋ |
 | example | igzampul | ɪɡzæmpʌl |
@@ -36980,7 +36980,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | exchanger | ikschaenjyr | ɪkstʃeɪndʒɝ |
 | exchangers | ikschaenjyrz | ɪkstʃeɪndʒɝz |
 | exchanges | ikschaenjuz | ɪkstʃeɪndʒʌz |
-| exchanges' | ekschaenjiz | ɛkstʃeɪndʒɪz |
+| exchanges' | ekschaenjiz' | ɛkstʃeɪndʒɪz |
 | exchanging | ikschaenjing | ɪkstʃeɪndʒɪŋ |
 | exchequer | ekschekyr | ɛkstʃɛkɝ |
 | excimer | eksimyr | ɛksɪmɝ |
@@ -37056,7 +37056,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | executive | igzekyutiv | ɪɡzɛkjʌtɪv |
 | executive's | egzekyutiv's | ɛɡzɛkjʌtɪvz |
 | executives | igzekyutivz | ɪɡzɛkjʌtɪvz |
-| executives' | egzekyutivz | ɛɡzɛkjʌtɪvz |
+| executives' | egzekyutivz' | ɛɡzɛkjʌtɪvz |
 | executone | egzekuetoen | ɛɡzɛkjuːtoʊn |
 | executor | igzekyutyr | ɪɡzɛkjʌtɝ |
 | executors | igzekyutyrz | ɪɡzɛkjʌtɝz |
@@ -37245,7 +37245,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | expertise | ekspyrteez | ɛkspɝtiːz |
 | expertly | ekspyrtlee | ɛkspɝtliː |
 | experts | ekspyrts | ɛkspɝts |
-| experts' | ekspyrts | ɛkspɝts |
+| experts' | ekspyrts' | ɛkspɝts |
 | expiate | ekspeeaet | ɛkspiːeɪt |
 | expiration | ekspyraeshun | ɛkspɝeɪʃʌn |
 | expirations | ekspyraeshunz | ɛkspɝeɪʃʌnz |
@@ -37309,7 +37309,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | exported | iksportud | ɪkspɔːɹtʌd |
 | exporter | iksportyr | ɪkspɔːɹtɝ |
 | exporters | iksportyrz | ɪkspɔːɹtɝz |
-| exporters' | eksportyrz | ɛkspɔːɹtɝz |
+| exporters' | eksportyrz' | ɛkspɔːɹtɝz |
 | exporting | iksporting | ɪkspɔːɹtɪŋ |
 | exports | eksports | ɛkspɔːɹts |
 | expos | ekspoez | ɛkspoʊz |
@@ -37327,7 +37327,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | expounding | ikspounding | ɪkspaʊndɪŋ |
 | expounds | ikspoundz | ɪkspaʊndz |
 | express | ikspres | ɪkspɹɛs |
-| express' | ikspres | ɪkspɹɛs |
+| express' | ikspres' | ɪkspɹɛs |
 | express's | ikspresi's | ɪkspɹɛsɪz |
 | expressed | iksprest | ɪkspɹɛst |
 | expresses | ikspresuz | ɪkspɹɛsʌz |
@@ -37515,7 +37515,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | eyerly | eeyrlee | iːɝliː |
 | eyerman | eeyrmun | iːɝmʌn |
 | eyes | iez | aɪz |
-| eyes' | iez | aɪz |
+| eyes' | iez' | aɪz |
 | eyeshade | ieshaed | aɪʃeɪd |
 | eyeshadow | ieshadoe | aɪʃædoʊ |
 | eyesight | iesiet | aɪsaɪt |
@@ -37654,7 +37654,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | factories | faktyreez | fæktɝiːz |
 | factoring | faktyring | fæktɝɪŋ |
 | factors | faktyrz | fæktɝz |
-| factors' | faktyrz | fæktɝz |
+| factors' | faktyrz' | fæktɝz |
 | factory | faktyree | fæktɝiː |
 | factory's | faktyree's | fæktɝiːz |
 | facts | fakts | fækts |
@@ -37911,7 +37911,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | familiarize | fumilyyriez | fʌmɪljɝaɪz |
 | familiarized | fumilyyriezd | fʌmɪljɝaɪzd |
 | families | famuleez | fæmʌliːz |
-| families' | famuleez | fæmʌliːz |
+| families' | famuleez' | fæmʌliːz |
 | family | famulee | fæmʌliː |
 | family's | famulee's | fæmʌliːz |
 | famine | famun | fæmʌn |
@@ -37964,7 +37964,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | fannon | fanun | fænʌn |
 | fanny | fanee | fæniː |
 | fans | fanz | fænz |
-| fans' | fanz | fænz |
+| fans' | fanz' | fænz |
 | fansler | fansulyr | fænsʌlɝ |
 | fant | fant | fænt |
 | fanta | faantu | fɑntʌ |
@@ -38062,7 +38062,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | farmer | faarmyr | fɑɹmɝ |
 | farmer's | faarmyr's | fɑɹmɝz |
 | farmers | faarmyrz | fɑɹmɝz |
-| farmers' | faarmyrz | fɑɹmɝz |
+| farmers' | faarmyrz' | fɑɹmɝz |
 | farmers's | faarmyrzi's | fɑɹmɝzɪz |
 | farmhand | faarmhand | fɑɹmhænd |
 | farmhands | faarmhandz | fɑɹmhændz |
@@ -38075,7 +38075,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | farmland | faarmland | fɑɹmlænd |
 | farmlands | faarmlandz | fɑɹmlændz |
 | farms | faarmz | fɑɹmz |
-| farms' | faarmz | fɑɹmz |
+| farms' | faarmz' | fɑɹmz |
 | farmstead | faarmsted | fɑɹmstɛd |
 | farmworker | faarmwyrkyr | fɑɹmwɝkɝ |
 | farmworkers | faarmwyrkyrz | fɑɹmwɝkɝz |
@@ -38227,7 +38227,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | fatherless | faathyrlus | fɑðɝlʌs |
 | fatherly | faathyrlee | fɑðɝliː |
 | fathers | faathyrz | fɑðɝz |
-| fathers' | fathyrz | fæθɝz |
+| fathers' | fathyrz' | fæθɝz |
 | fathi | fathee | fæθiː |
 | fathom | fathum | fæðʌm |
 | fathomable | fathumubul | fæðʌmʌbʌl |
@@ -38513,7 +38513,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | feeler | feelyr | fiːlɝ |
 | feelers | feelyrz | fiːlɝz |
 | feeley | feelee | fiːliː |
-| feelin' | feelin | fiːlɪn |
+| feelin' | feelin' | fiːlɪn |
 | feeling | feeling | fiːlɪŋ |
 | feelings | feelingz | fiːlɪŋz |
 | feels | feelz | fiːlz |
@@ -39159,7 +39159,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | fieldhouse | feeldhous | fiːldhaʊs |
 | fielding | feelding | fiːldɪŋ |
 | fields | feeldz | fiːldz |
-| fields' | feeldz | fiːldz |
+| fields' | feeldz' | fiːldz |
 | fieldwork | feeldwyrk | fiːldwɝk |
 | fiend | feend | fiːnd |
 | fiendish | feendish | fiːndɪʃ |
@@ -39216,8 +39216,8 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | fighter | fietyr | faɪtɝ |
 | fighter's | fietyr's | faɪtɝz |
 | fighters | fietyrz | faɪtɝz |
-| fighters' | fietyrz | faɪtɝz |
-| fightin' | fietin | faɪtɪn |
+| fighters' | fietyrz' | faɪtɝz |
+| fightin' | fietin' | faɪtɪn |
 | fighting | fieting | faɪtɪŋ |
 | fighting's | fieting's | faɪtɪŋz |
 | fightings | fietingz | faɪtɪŋz |
@@ -39638,7 +39638,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | firmly | fyrmlee | fɝmliː |
 | firmness | fyrmnus | fɝmnʌs |
 | firms | fyrmz | fɝmz |
-| firms' | fyrmz | fɝmz |
+| firms' | fyrmz' | fɝmz |
 | firmware | fyrmwer | fɝmwɛɹ |
 | firpo | firpoe | fɪɹpoʊ |
 | firs | fyrz | fɝz |
@@ -40058,7 +40058,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | fleisher | flieshyr | flaɪʃɝ |
 | fleishman | flieshmun | flaɪʃmʌn |
 | fleiss | flies | flaɪs |
-| fleiss' | fliesh | flaɪʃ |
+| fleiss' | flies' | flaɪs |
 | fleiss's | fliesi's | flaɪsɪz |
 | fleissner | fliesnyr | flaɪsnɝ |
 | fleitas | flietus | flaɪtʌs |
@@ -40304,7 +40304,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | flowering | flouyring | flaʊɝɪŋ |
 | flowerpot | flouyrpaat | flaʊɝpɑt |
 | flowers | flouyrz | flaʊɝz |
-| flowers' | flouyrz | flaʊɝz |
+| flowers' | flouyrz' | flaʊɝz |
 | flowery | flouyree | flaʊɝiː |
 | flowing | floeing | floʊɪŋ |
 | flown | floen | floʊn |
@@ -40522,7 +40522,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | folkman | foekmun | foʊkmʌn |
 | folkrock | foekraak | foʊkɹɑk |
 | folks | foeks | foʊks |
-| folks' | foeks | foʊks |
+| folks' | foeks' | foʊks |
 | folkstone | foekstoen | foʊkstoʊn |
 | folkstone's | foekstoen's | foʊkstoʊnz |
 | folksy | foeksee | foʊksiː |
@@ -40620,7 +40620,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | foodmaker's | foodmaekyr's | fuːdmeɪkɝz |
 | foodmakers | foodmaekyrz | fuːdmeɪkɝz |
 | foods | foodz | fuːdz |
-| foods' | foodz | fuːdz |
+| foods' | foodz' | fuːdz |
 | foodservice | foodsyrvis | fuːdsɝvɪs |
 | foodstuff | foodstuf | fuːdstʌf |
 | foodstuffs | foodstufs | fuːdstʌfs |
@@ -40700,7 +40700,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | forbade | fyrbaed | fɝbeɪd |
 | forbearance | forberuns | fɔːɹbɛɹʌns |
 | forbes | forbz | fɔːɹbz |
-| forbes' | forbz | fɔːɹbz |
+| forbes' | forbz' | fɔːɹbz |
 | forbes's | forbzi's | fɔːɹbzɪz |
 | forbeses | forbziz | fɔːɹbzɪz |
 | forbess | forbes | fɔːɹbɛs |
@@ -40719,7 +40719,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | forcefulness | forsfulnus | fɔːɹsfʌlnʌs |
 | forceps | forseps | fɔːɹsɛps |
 | forces | forsiz | fɔːɹsɪz |
-| forces' | forsiz | fɔːɹsɪz |
+| forces' | forsiz' | fɔːɹsɪz |
 | forcible | forsubul | fɔːɹsʌbʌl |
 | forcibly | forsublee | fɔːɹsʌbliː |
 | forcier | forkeeyr | fɔːɹkiːɝ |
@@ -40771,7 +40771,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | foreign | forun | fɔːɹʌn |
 | foreigner | forunyr | fɔːɹʌnɝ |
 | foreigners | forunyrz | fɔːɹʌnɝz |
-| foreigners' | forunyrz | fɔːɹʌnɝz |
+| foreigners' | forunyrz' | fɔːɹʌnɝz |
 | forelimb | forlim | fɔːɹlɪm |
 | forelimbs | forlimz | fɔːɹlɪmz |
 | foreman | formun | fɔːɹmʌn |
@@ -41118,7 +41118,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | foundered | foundyrd | faʊndɝd |
 | foundering | foundyring | faʊndɝɪŋ |
 | founders | foundyrz | faʊndɝz |
-| founders' | foundyrz | faʊndɝz |
+| founders' | foundyrz' | faʊndɝz |
 | founding | founding | faʊndɪŋ |
 | foundling | foundling | faʊndlɪŋ |
 | foundries | foundreez | faʊndɹiːz |
@@ -41253,7 +41253,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | framed | fraemd | fɹeɪmd |
 | framer | fraemyr | fɹeɪmɝ |
 | framers | fraemyrz | fɹeɪmɝz |
-| framers' | framyrz | fɹæmɝz |
+| framers' | framyrz' | fɹæmɝz |
 | frames | fraemz | fɹeɪmz |
 | framework | fraemwyrk | fɹeɪmwɝk |
 | frameworks | fraemwyrks | fɹeɪmwɝks |
@@ -41290,7 +41290,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | franchised | franchiezd | fɹæntʃaɪzd |
 | franchisee | franchiezee | fɹæntʃaɪziː |
 | franchisees | franchiezeez | fɹæntʃaɪziːz |
-| franchisees' | franchiezeez | fɹæntʃaɪziːz |
+| franchisees' | franchiezeez' | fɹæntʃaɪziːz |
 | franchiser | franchiezyr | fɹæntʃaɪzɝ |
 | franchisers | franchiezyrz | fɹæntʃaɪzɝz |
 | franchises | franchieziz | fɹæntʃaɪzɪz |
@@ -41303,7 +41303,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | francine's | franseen's | fɹænsiːnz |
 | francines | franseenz | fɹænsiːnz |
 | francis | fransis | fɹænsɪs |
-| francis' | fransis | fɹænsɪs |
+| francis' | fransis' | fɹænsɪs |
 | franciscan | fransiskun | fɹænsɪskʌn |
 | franciscans | fransiskunz | fɹænsɪskʌnz |
 | francisco | fransiskoe | fɹænsɪskoʊ |
@@ -41800,7 +41800,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | friendly | frendlee | fɹɛndliː |
 | friendly's | frendlee's | fɹɛndliːz |
 | friends | frendz | fɹɛndz |
-| friends' | frendz | fɹɛndz |
+| friends' | frendz' | fɹɛndz |
 | friendship | frendship | fɹɛndʃɪp |
 | friendships | frendships | fɹɛndʃɪps |
 | frier | frieyr | fɹaɪɝ |
@@ -42252,7 +42252,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | fundraisers | fundraezyrz | fʌndɹeɪzɝz |
 | fundraising | fundraesing | fʌndɹeɪsɪŋ |
 | funds | fundz | fʌndz |
-| funds' | fundz | fʌndz |
+| funds' | fundz' | fʌndz |
 | funeral | fuenyrul | fjuːnɝʌl |
 | funerals | fuenyrulz | fjuːnɝʌlz |
 | funerary | fuenyreree | fjuːnɝɛɹiː |
@@ -42412,7 +42412,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | future | fuechyr | fjuːtʃɝ |
 | future's | fuechyr's | fjuːtʃɝz |
 | futures | fuechyrz | fjuːtʃɝz |
-| futures' | fuechyrz | fjuːtʃɝz |
+| futures' | fuechyrz' | fjuːtʃɝz |
 | futurism | fuechyrizum | fjuːtʃɝɪzʌm |
 | futurist | fuechyrist | fjuːtʃɝɪst |
 | futuristic | fuechyristik | fjuːtʃɝɪstɪk |
@@ -42837,7 +42837,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | gamer | gaemyr | ɡeɪmɝ |
 | gamers | gaemyrz | ɡeɪmɝz |
 | games | gaemz | ɡeɪmz |
-| games' | gaemz | ɡeɪmz |
+| games' | gaemz' | ɡeɪmz |
 | gameshow | gaemshoe | ɡeɪmʃoʊ |
 | gameshows | gaemshoez | ɡeɪmʃoʊz |
 | gamesman | gaemzman | ɡeɪmzmæn |
@@ -43294,7 +43294,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | gateley | gatilee | ɡætɪliː |
 | gately | gaetlee | ɡeɪtliː |
 | gates | gaets | ɡeɪts |
-| gates' | gaets | ɡeɪts |
+| gates' | gaets' | ɡeɪts |
 | gates's | gaet's | ɡeɪts |
 | gateway | gaetwae | ɡeɪtweɪ |
 | gateway's | gaetwae's | ɡeɪtweɪz |
@@ -43967,7 +43967,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | gerda | gyrdu | ɡɝdʌ |
 | gerdeman | gyrdmun | ɡɝdmʌn |
 | gerdes | zjyrdz | ʒɝdz |
-| gerdes' | zjyrdz | ʒɝdz |
+| gerdes' | zjyrdz' | ʒɝdz |
 | gerding | gerting | ɡɛɹtɪŋ |
 | gerdts | gyrdts | ɡɝdts |
 | gere | gir | ɡɪɹ |
@@ -44018,7 +44018,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | germann | gyrmun | ɡɝmʌn |
 | germano | jyrmaanoe | dʒɝmɑnoʊ |
 | germans | jyrmunz | dʒɝmʌnz |
-| germans' | jyrmunz | dʒɝmʌnz |
+| germans' | jyrmunz' | dʒɝmʌnz |
 | germantown | jyrmuntoun | dʒɝmʌntaʊn |
 | germany | jyrmunee | dʒɝmʌniː |
 | germany's | jyrmunee's | dʒɝmʌniːz |
@@ -44140,7 +44140,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | gettel | getul | ɡɛtʌl |
 | getter | getyr | ɡɛtɝ |
 | getters | getyrz | ɡɛtɝz |
-| gettin' | gitun | ɡɪtʌn |
+| gettin' | gitun' | ɡɪtʌn |
 | getting | geting | ɡɛtɪŋ |
 | gettinger | getingyr | ɡɛtɪŋɝ |
 | gettings | getingz | ɡɛtɪŋz |
@@ -44270,7 +44270,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | giant | jieunt | dʒaɪʌnt |
 | giant's | jieunt's | dʒaɪʌnts |
 | giants | jieunts | dʒaɪʌnts |
-| giants' | jieunts | dʒaɪʌnts |
+| giants' | jieunts' | dʒaɪʌnts |
 | giap | jyap | dʒjæp |
 | giaquinto | jaakweentoe | dʒɑkwiːntoʊ |
 | giard | jaard | dʒɑɹd |
@@ -44648,7 +44648,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | girlish | gyrlish | ɡɝlɪʃ |
 | girlishly | gyrlishlee | ɡɝlɪʃliː |
 | girls | gyrlz | ɡɝlz |
-| girls' | gyrlz | ɡɝlz |
+| girls' | gyrlz' | ɡɝlz |
 | girobank | giroebangk | ɡɪɹoʊbæŋk |
 | girod | zjyraad | ʒɝɑd |
 | giroir | zjierwaar | ʒaɪɹwɑɹ |
@@ -44733,7 +44733,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | gives | givz | ɡɪvz |
 | giveth | giveth | ɡɪvɛθ |
 | givhan | givhun | ɡɪvhʌn |
-| givin' | givin | ɡɪvɪn |
+| givin' | givin' | ɡɪvɪn |
 | giving | giving | ɡɪvɪŋ |
 | giving-feast | givingfeest | ɡɪvɪŋfiːst |
 | givins | givinz | ɡɪvɪnz |
@@ -44788,7 +44788,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | gladwell | gladwel | ɡlædwɛl |
 | gladwin | gladwin | ɡlædwɪn |
 | gladys | gladis | ɡlædɪs |
-| gladys' | gladis | ɡlædɪs |
+| gladys' | gladis' | ɡlædɪs |
 | glaeser | glaezyr | ɡleɪzɝ |
 | glahn | glan | ɡlæn |
 | glam | glam | ɡlæm |
@@ -45353,7 +45353,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | gohn | gaan | ɡɑn |
 | gohr | gaar | ɡɑɹ |
 | goin | goin | ɡɔɪn |
-| goin' | goeun | ɡoʊʌn |
+| goin' | goeun' | ɡoʊʌn |
 | goines | goinz | ɡɔɪnz |
 | going | goeing | ɡoʊɪŋ |
 | goings | goeingz | ɡoʊɪŋz |
@@ -45933,11 +45933,11 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | governmental | guvyrnmentul | ɡʌvɝnmɛntʌl |
 | governmentally | guvyrmentulee | ɡʌvɝmɛntʌliː |
 | governments | guvyrnmunts | ɡʌvɝnmʌnts |
-| governments' | guvyrnmunts | ɡʌvɝnmʌnts |
+| governments' | guvyrnmunts' | ɡʌvɝnmʌnts |
 | governor | guvyrnyr | ɡʌvɝnɝ |
 | governor's | guvyrnyr's | ɡʌvɝnɝz |
 | governors | guvyrnyrz | ɡʌvɝnɝz |
-| governors' | guvyrnyrz | ɡʌvɝnɝz |
+| governors' | guvyrnyrz' | ɡʌvɝnɝz |
 | governorship | guvyrnyrship | ɡʌvɝnɝʃɪp |
 | governorships | guvyrnyrships | ɡʌvɝnɝʃɪps |
 | governs | guvyrnz | ɡʌvɝnz |
@@ -46202,7 +46202,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | grandpa's | granpaa's | ɡɹænpɑz |
 | grandparent | grandperunt | ɡɹændpɛɹʌnt |
 | grandparents | grandperunts | ɡɹændpɛɹʌnts |
-| grandparents' | grandperunts | ɡɹændpɛɹʌnts |
+| grandparents' | grandperunts' | ɡɹændpɛɹʌnts |
 | grandpas | grandpaaz | ɡɹændpɑz |
 | grandpre | grandprae | ɡɹændpɹeɪ |
 | grands | grandz | ɡɹændz |
@@ -46280,7 +46280,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | graphical | grafikul | ɡɹæfɪkʌl |
 | graphically | grafiklee | ɡɹæfɪkliː |
 | graphics | grafiks | ɡɹæfɪks |
-| graphics' | grafiks | ɡɹæfɪks |
+| graphics' | grafiks' | ɡɹæfɪks |
 | graphite | grafiet | ɡɹæfaɪt |
 | graphology | grufaalujee | ɡɹʌfɑlʌdʒiː |
 | graphs | grafs | ɡɹæfs |
@@ -46529,7 +46529,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | greenpeace | greenpees | ɡɹiːnpiːs |
 | greenpeace's | greenpeesi's | ɡɹiːnpiːsɪz |
 | greens | greenz | ɡɹiːnz |
-| greens' | greenz | ɡɹiːnz |
+| greens' | greenz' | ɡɹiːnz |
 | greensboro | greenzbyrroe | ɡɹiːnzbɝɹoʊ |
 | greensburg | greenzbyrg | ɡɹiːnzbɝɡ |
 | greenshield | greensheeld | ɡɹiːnʃiːld |
@@ -47030,7 +47030,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | grouping | grooping | ɡɹuːpɪŋ |
 | groupings | groopingz | ɡɹuːpɪŋz |
 | groups | groops | ɡɹuːps |
-| groups' | groops | ɡɹuːps |
+| groups' | groops' | ɡɹuːps |
 | groupware | groopwer | ɡɹuːpwɛɹ |
 | grouse | grous | ɡɹaʊs |
 | groused | groust | ɡɹaʊst |
@@ -47052,7 +47052,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | growe | groe | ɡɹoʊ |
 | grower | groeyr | ɡɹoʊɝ |
 | growers | groeyrz | ɡɹoʊɝz |
-| growers' | groeyrz | ɡɹoʊɝz |
+| growers' | groeyrz' | ɡɹoʊɝz |
 | growing | groeing | ɡɹoʊɪŋ |
 | growl | groul | ɡɹaʊl |
 | growled | grould | ɡɹaʊld |
@@ -47316,7 +47316,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | guerriero | gyriroe | ɡɝɪɹoʊ |
 | guerrilla | gyrilu | ɡɝɪlʌ |
 | guerrillas | gyriluz | ɡɝɪlʌz |
-| guerrillas' | gyriluz | ɡɝɪlʌz |
+| guerrillas' | gyriluz' | ɡɝɪlʌz |
 | guerrini | gyreenee | ɡɝiːniː |
 | guerry | gyree | ɡɝiː |
 | guertin | gerteen | ɡɛɹtiːn |
@@ -47335,7 +47335,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | guesthouse | gesthous | ɡɛsthaʊs |
 | guesthouses | gesthousiz | ɡɛsthaʊsɪz |
 | guests | gests | ɡɛsts |
-| guests' | gests | ɡɛsts |
+| guests' | gests' | ɡɛsts |
 | guettler | getulyr | ɡɛtʌlɝ |
 | guevara | gaevaaru | ɡeɪvɑɹʌ |
 | guevara's | gaevaaru's | ɡeɪvɑɹʌz |
@@ -47745,7 +47745,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | guyon | gieun | ɡaɪʌn |
 | guyot | gieut | ɡaɪʌt |
 | guys | giez | ɡaɪz |
-| guys' | giez | ɡaɪz |
+| guys' | giez' | ɡaɪz |
 | guyton | gietun | ɡaɪtʌn |
 | guza | guezu | ɡjuːzʌ |
 | guzek | goozek | ɡuːzɛk |
@@ -48014,7 +48014,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | haft's | haft's | hæfts |
 | hafta | haftu | hæftʌ |
 | hafts | hafts | hæfts |
-| hafts' | hafts | hæfts |
+| hafts' | hafts' | hæfts |
 | hag | hag | hæɡ |
 | haga | haagu | hɑɡʌ |
 | hagadorn | hagudorn | hæɡʌdɔːɹn |
@@ -48386,7 +48386,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | hamann | haamun | hɑmʌn |
 | hamar | humaar | hʌmɑɹ |
 | hamas | haamaas | hɑmɑs |
-| hamas' | haamaas | hɑmɑs |
+| hamas' | haamaas' | hɑmɑs |
 | hamasaki | haamaasaakee | hɑmɑsɑkiː |
 | hambelton | humbeltun | hʌmbɛltʌn |
 | hamberg | hambyrg | hæmbɝɡ |
@@ -48445,7 +48445,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | hammann | hamun | hæmʌn |
 | hammar | hamyr | hæmɝ |
 | hammas | humaas | hʌmɑs |
-| hammas' | humaas | hʌmɑs |
+| hammas' | humaas' | hʌmɑs |
 | hammas's | humaasi's | hʌmɑsɪs |
 | hamme | ham | hæm |
 | hammel | hamul | hæmʌl |
@@ -48661,7 +48661,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | hangen | hangun | hæŋʌn |
 | hanger | hangyr | hæŋɝ |
 | hangers | hangyrz | hæŋɝz |
-| hangin' | hanggin | hæŋɡɪn |
+| hangin' | hanggin' | hæŋɡɪn |
 | hanging | hanging | hæŋɪŋ |
 | hangings | hanggingz | hæŋɡɪŋz |
 | hangman | hangmun | hæŋmʌn |
@@ -49150,7 +49150,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | harrington | heringtun | hɛɹɪŋtʌn |
 | harriott | hareeut | hæɹiːʌt |
 | harris | heris | hɛɹɪs |
-| harris' | heris | hɛɹɪs |
+| harris' | heris' | hɛɹɪs |
 | harris's | herisi's | hɛɹɪsɪz |
 | harrisburg | harisbyrg | hæɹɪsbɝɡ |
 | harrisburg's | harisbyrg's | hæɹɪsbɝɡz |
@@ -49560,7 +49560,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | haviland | haeveelund | heɪviːlʌnd |
 | havill | haaveel | hɑviːl |
 | havilland | havulund | hævʌlʌnd |
-| havin' | havin | hævɪn |
+| havin' | havin' | hævɪn |
 | having | having | hævɪŋ |
 | havington | havingtun | hævɪŋtʌn |
 | havington's | havingtun's | hævɪŋtʌnz |
@@ -49601,7 +49601,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | hawkiness | haaknus | hɑknʌs |
 | hawking | haaking | hɑkɪŋ |
 | hawkins | haakinz | hɑkɪnz |
-| hawkins' | haakinz | hɑkɪnz |
+| hawkins' | haakinz' | hɑkɪnz |
 | hawkinson | haakinsun | hɑkɪnsʌn |
 | hawkish | haakish | hɑkɪʃ |
 | hawks | haaks | hɑks |
@@ -50381,7 +50381,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | helmke | helmk | hɛlmk |
 | helmont | helmaant | hɛlmɑnt |
 | helms | helmz | hɛlmz |
-| helms' | helmz | hɛlmz |
+| helms' | helmz' | hɛlmz |
 | helms's | helmzi's | hɛlmzɪz |
 | helmsburton | helmzbyrtun | hɛlmzbɝtʌn |
 | helmsley | helmzlee | hɛlmzliː |
@@ -50687,7 +50687,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | herbalist | hyrbulust | hɝbʌlʌst |
 | herbalist's | hyrbulust's | hɝbʌlʌsts |
 | herbalists | hyrbulusts | hɝbʌlʌsts |
-| herbalists' | hyrbulusts | hɝbʌlʌsts |
+| herbalists' | hyrbulusts' | hɝbʌlʌsts |
 | herbarium | hyrbereeum | hɝbɛɹiːʌm |
 | herbariums | hyrbereeumz | hɝbɛɹiːʌmz |
 | herbeck | hyrbek | hɝbɛk |
@@ -51345,7 +51345,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | hillmer | hilmyr | hɪlmɝ |
 | hillock | hiluk | hɪlʌk |
 | hills | hilz | hɪlz |
-| hills' | hilz | hɪlz |
+| hills' | hilz' | hɪlz |
 | hillsboro | hilzbyroe | hɪlzbɝoʊ |
 | hillsborough | hilzbyroe | hɪlzbɝoʊ |
 | hillsdale | hilzdael | hɪlzdeɪl |
@@ -52003,12 +52003,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | holderman | hoeldyrmun | hoʊldɝmʌn |
 | holderness | hoeldyrnus | hoʊldɝnʌs |
 | holders | hoeldyrz | hoʊldɝz |
-| holders' | hoeldyrz | hoʊldɝz |
+| holders' | hoeldyrz' | hoʊldɝz |
 | holdfast | hoelfast | hoʊlfæst |
 | holding | hoelding | hoʊldɪŋ |
 | holding's | hoelding's | hoʊldɪŋz |
 | holdings | hoeldingz | hoʊldɪŋz |
-| holdings' | hoeldingz | hoʊldɪŋz |
+| holdings' | hoeldingz' | hoʊldɪŋz |
 | holdman | hoeldmun | hoʊldmʌn |
 | holdorf | hoeldorf | hoʊldɔːɹf |
 | holdout | hoeldout | hoʊldaʊt |
@@ -52206,7 +52206,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | holven | holven | hɔːlvɛn |
 | holverson | haalvyrsun | hɑlvɝsʌn |
 | holvis | hoelvus | hoʊlvʌs |
-| holvis' | hoelvus | hoʊlvʌs |
+| holvis' | hoelvus' | hoʊlvʌs |
 | holvis's | hoelvusi's | hoʊlvʌsɪz |
 | holway | haalwae | hɑlweɪ |
 | holweger | hoelwigyr | hoʊlwɪɡɝ |
@@ -52281,7 +52281,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | homeowner | hoemoenyr | hoʊmoʊnɝ |
 | homeowner's | hoemoenyr's | hoʊmoʊnɝz |
 | homeowners | hoemoenyrz | hoʊmoʊnɝz |
-| homeowners' | hoemoenyrz | hoʊmoʊnɝz |
+| homeowners' | hoemoenyrz' | hoʊmoʊnɝz |
 | homeownership | hoemoenyrship | hoʊmoʊnɝʃɪp |
 | homepage | hoempaej | hoʊmpeɪdʒ |
 | homeporting | hoemporting | hoʊmpɔːɹtɪŋ |
@@ -52292,7 +52292,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | homerun | hoemrun | hoʊmɹʌn |
 | homeruns | hoemrunz | hoʊmɹʌnz |
 | homes | hoemz | hoʊmz |
-| homes' | hoemz | hoʊmz |
+| homes' | hoemz' | hoʊmz |
 | homesick | hoemsik | hoʊmsɪk |
 | homesickness | hoemsiknus | hoʊmsɪknʌs |
 | homesley | hoemzlee | hoʊmzliː |
@@ -52544,7 +52544,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | hopkin | haapkin | hɑpkɪn |
 | hopkin's | haapkin's | hɑpkɪnz |
 | hopkins | haapkinz | hɑpkɪnz |
-| hopkins' | haapkinz | hɑpkɪnz |
+| hopkins' | haapkinz' | hɑpkɪnz |
 | hopkinson | haapkinsun | hɑpkɪnsʌn |
 | hopkinton | haapkintun | hɑpkɪntʌn |
 | hopkyns | haapkinz | hɑpkɪnz |
@@ -52695,7 +52695,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | horsepower | horspouyr | hɔːɹspaʊɝ |
 | horseradish | horsradish | hɔːɹsɹædɪʃ |
 | horses | horsuz | hɔːɹsʌz |
-| horses' | horsiz | hɔːɹsɪz |
+| horses' | horsiz' | hɔːɹsɪz |
 | horseshit | horsshit | hɔːɹsʃɪt |
 | horseshoe | horsshoo | hɔːɹsʃuː |
 | horseshoes | horsshooz | hɔːɹsʃuːz |
@@ -52773,7 +52773,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | hospitalize | hospituliez | hɔːspɪtʌlaɪz |
 | hospitalized | haaspituliezd | hɑspɪtʌlaɪzd |
 | hospitals | haaspitulz | hɑspɪtʌlz |
-| hospitals' | hospitulz | hɔːspɪtʌlz |
+| hospitals' | hospitulz' | hɔːspɪtʌlz |
 | hoss | haas | hɑs |
 | hossack | haasuk | hɑsʌk |
 | hossain | husaen | hʌseɪn |
@@ -52784,7 +52784,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | host's | hoest's | hoʊsts |
 | hostage | haastij | hɑstɪdʒ |
 | hostages | haastujuz | hɑstʌdʒʌz |
-| hostages' | hostijiz | hɔːstɪdʒɪz |
+| hostages' | hostijiz' | hɔːstɪdʒɪz |
 | hosted | hoestid | hoʊstɪd |
 | hostel | haastul | hɑstʌl |
 | hostels | haastulz | hɑstʌlz |
@@ -52825,7 +52825,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | hotelier | hoetelyyr | hoʊtɛljɝ |
 | hoteliers | hoetelyyrz | hoʊtɛljɝz |
 | hotels | hoetelz | hoʊtɛlz |
-| hotels' | hoetelz | hoʊtɛlz |
+| hotels' | hoetelz' | hoʊtɛlz |
 | hoten | hoetun | hoʊtʌn |
 | hoth | haath | hɑθ |
 | hothouse | haathous | hɑthaʊs |
@@ -52899,7 +52899,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | hourlong | ourlong | aʊɹlɔːŋ |
 | hourly | ourlee | aʊɹliː |
 | hours | ourz | aʊɹz |
-| hours' | ourz | aʊɹz |
+| hours' | ourz' | aʊɹz |
 | housand | housund | haʊsʌnd |
 | housden | housdun | haʊsdʌn |
 | house | hous | haʊs |
@@ -52929,7 +52929,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | houser | houzyr | haʊzɝ |
 | houseraising | housraezing | haʊsɹeɪzɪŋ |
 | houses | housuz | haʊsʌz |
-| houses' | housiz | haʊsɪz |
+| houses' | housiz' | haʊsɪz |
 | houseware | houswer | haʊswɛɹ |
 | housewares | houswerz | haʊswɛɹz |
 | housewarming | houswaaming | haʊswɑmɪŋ |
@@ -53251,7 +53251,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | hughbanks | hubungks | hʌbʌŋks |
 | hughen | hueun | hjuːʌn |
 | hughes | huez | hjuːz |
-| hughes' | huez | hjuːz |
+| hughes' | huez' | hjuːz |
 | hughes's | huezi's | hjuːzɪz |
 | hughett | hueit | hjuːɪt |
 | hughette | hueet | hjuːɛt |
@@ -53523,7 +53523,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | huntoon | huntoon | hʌntuːn |
 | huntress | huntris | hʌntɹɪs |
 | hunts | hunts | hʌnts |
-| hunts' | hunts | hʌnts |
+| hunts' | hunts' | hʌnts |
 | huntsinger | huntsinjyr | hʌntsɪndʒɝ |
 | huntsman | huntsmun | hʌntsmʌn |
 | huntsville | huntsvil | hʌntsvɪl |
@@ -53599,7 +53599,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | husband's | huzbund's | hʌzbʌndz |
 | husbandry | huzbundree | hʌzbʌndɹiː |
 | husbands | huzbundz | hʌzbʌndz |
-| husbands' | husbundz | hʌsbʌndz |
+| husbands' | husbundz' | hʌsbʌndz |
 | husby | husbee | hʌsbiː |
 | huschka | hushku | hʌʃkʌ |
 | huse | huez | hjuːz |
@@ -54024,7 +54024,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | icily | iesilee | aɪsɪliː |
 | icing | iesing | aɪsɪŋ |
 | ickes | ieks | aɪks |
-| ickes' | ikus | ɪkʌs |
+| ickes' | ikus' | ɪkʌs |
 | icloud | iekloud | aɪklaʊd |
 | icon | iekaan | aɪkɑn |
 | iconic | iekaanik | aɪkɑnɪk |
@@ -54216,7 +54216,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | il | il | ɪl |
 | ila | eelu | iːlʌ |
 | ilalis | ilalus | ɪlælʌs |
-| ilalis' | ilalus | ɪlælʌs |
+| ilalis' | ilalus' | ɪlælʌs |
 | ilalis's | ilalusi's | ɪlælʌsɪs |
 | ilan | eelaan | iːlɑn |
 | ilana | ilaanu | ɪlɑnʌ |
@@ -54256,7 +54256,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | illina | ileenu | ɪliːnʌ |
 | illingworth | ilingwyrth | ɪlɪŋwɝθ |
 | illinois | ilunoi | ɪlʌnɔɪ |
-| illinois' | ilinoiz | ɪlɪnɔɪz |
+| illinois' | ilinoiz' | ɪlɪnɔɪz |
 | illinois's | ilinoi's | ɪlɪnɔɪz |
 | illiquid | ilikwid | ɪlɪkwɪd |
 | illiquidity | ilikwiditee | ɪlɪkwɪdɪtiː |
@@ -54329,7 +54329,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | imari | eemaaree | iːmɑɹiː |
 | imasco | imasoe | ɪmæsoʊ |
 | imax | iemaks | aɪmæks |
-| imax' | iemaks | aɪmæks |
+| imax' | iemaks' | aɪmæks |
 | imax's | iemaksi's | aɪmæksɪz |
 | imbalance | imbaluns | ɪmbælʌns |
 | imbalances | imbalunsiz | ɪmbælʌnsɪz |
@@ -54392,7 +54392,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | immigrant | imugrunt | ɪmʌɡɹʌnt |
 | immigrant's | imugrunt's | ɪmʌɡɹʌnts |
 | immigrants | imugrunts | ɪmʌɡɹʌnts |
-| immigrants' | imigrunts | ɪmɪɡɹʌnts |
+| immigrants' | imigrunts' | ɪmɪɡɹʌnts |
 | immigrate | imugraet | ɪmʌɡɹeɪt |
 | immigrated | imugraetid | ɪmʌɡɹeɪtɪd |
 | immigration | imugraeshun | ɪmʌɡɹeɪʃʌn |
@@ -54596,10 +54596,10 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | imported | importid | ɪmpɔːɹtɪd |
 | importer | importyr | ɪmpɔːɹtɝ |
 | importers | importyrz | ɪmpɔːɹtɝz |
-| importers' | importyrz | ɪmpɔːɹtɝz |
+| importers' | importyrz' | ɪmpɔːɹtɝz |
 | importing | importing | ɪmpɔːɹtɪŋ |
 | imports | imports | ɪmpɔːɹts |
-| imports' | imports | ɪmpɔːɹts |
+| imports' | imports' | ɪmpɔːɹts |
 | impose | impoez | ɪmpoʊz |
 | imposed | impoezd | ɪmpoʊzd |
 | imposes | impoezuz | ɪmpoʊzʌz |
@@ -54819,7 +54819,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | inched | incht | ɪntʃt |
 | incheon | inchon | ɪntʃɔːn |
 | inches | inchuz | ɪntʃʌz |
-| inches' | inchuz | ɪntʃʌz |
+| inches' | inchuz' | ɪntʃʌz |
 | inching | inching | ɪntʃɪŋ |
 | inchoate | inkoeut | ɪnkoʊʌt |
 | inchon | inchon | ɪntʃɔːn |
@@ -55028,7 +55028,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | indianians | indeeaneeunz | ɪndiːæniːʌnz |
 | indianola | indeeunoelu | ɪndiːʌnoʊlʌ |
 | indians | indeeunz | ɪndiːʌnz |
-| indians' | indeeunz | ɪndiːʌnz |
+| indians' | indeeunz' | ɪndiːʌnz |
 | indic | indik | ɪndɪk |
 | indica | iduku | ɪdʌkʌ |
 | indicate | indukaet | ɪndʌkeɪt |
@@ -55092,7 +55092,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | individualized | indivijuliezd | ɪndɪvɪdʒʌlaɪzd |
 | individually | indivijulee | ɪndɪvɪdʒʌliː |
 | individuals | induvijuwulz | ɪndʌvɪdʒʌwʌlz |
-| individuals' | indivijuwulz | ɪndɪvɪdʒʌwʌlz |
+| individuals' | indivijuwulz' | ɪndɪvɪdʒʌwʌlz |
 | indivisible | indivisibul | ɪndɪvɪsɪbʌl |
 | indo | indoe | ɪndoʊ |
 | indo-european | indoeyuurupeeun | ɪndoʊjʊɹʌpiːʌn |
@@ -55150,12 +55150,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | industrializing | industreeuliezing | ɪndʌstɹiːʌlaɪzɪŋ |
 | industrially | industreeulee | ɪndʌstɹiːʌliː |
 | industrials | industreeulz | ɪndʌstɹiːʌlz |
-| industrials' | industreeulz | ɪndʌstɹiːʌlz |
+| industrials' | industreeulz' | ɪndʌstɹiːʌlz |
 | industrie | industree | ɪndʌstɹiː |
 | industrielle | industreeule | ɪndʌstɹiːʌlɛ |
 | industrier | industreeyr | ɪndʌstɹiːɝ |
 | industries | industreez | ɪndʌstɹiːz |
-| industries' | industreez | ɪndʌstɹiːz |
+| industries' | industreez' | ɪndʌstɹiːz |
 | industrious | industreeus | ɪndʌstɹiːʌs |
 | industrivaerden | industreeverdun | ɪndʌstɹiːvɛɹdʌn |
 | industry | industree | ɪndʌstɹiː |
@@ -55231,7 +55231,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | infantryman | infantreemun | ɪnfæntɹiːmʌn |
 | infantrymen | infantreemun | ɪnfæntɹiːmʌn |
 | infants | infunts | ɪnfʌnts |
-| infants' | infunts | ɪnfʌnts |
+| infants' | infunts' | ɪnfʌnts |
 | infarction | infaarkshun | ɪnfɑɹkʃʌn |
 | infatuate | infachooaet | ɪnfætʃuːeɪt |
 | infatuated | infachooaetid | ɪnfætʃuːeɪtɪd |
@@ -55607,7 +55607,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | innovator | inuvaetyr | ɪnʌveɪtɝ |
 | innovators | inuvaetyrz | ɪnʌveɪtɝz |
 | inns | inz | ɪnz |
-| inns' | inz | ɪnz |
+| inns' | inz' | ɪnz |
 | innuendo | inueendoe | ɪnjuːɛndoʊ |
 | innuendoes | inueendoez | ɪnjuːɛndoʊz |
 | innuendos | inueendoez | ɪnjuːɛndoʊz |
@@ -55690,7 +55690,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | insider | insiedyr | ɪnsaɪdɝ |
 | insider's | insiedyr's | ɪnsaɪdɝz |
 | insiders | insiedyrz | ɪnsaɪdɝz |
-| insiders' | insiedyrz | ɪnsaɪdɝz |
+| insiders' | insiedyrz' | ɪnsaɪdɝz |
 | insides | insiedz | ɪnsaɪdz |
 | insidious | insideeus | ɪnsɪdiːʌs |
 | insight | insiet | ɪnsaɪt |
@@ -55741,7 +55741,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | inspector's | inspektyr's | ɪnspɛktɝz |
 | inspectorate | inspektyrut | ɪnspɛktɝʌt |
 | inspectors | inspektyrz | ɪnspɛktɝz |
-| inspectors' | inspektyrz | ɪnspɛktɝz |
+| inspectors' | inspektyrz' | ɪnspɛktɝz |
 | inspects | inspekts | ɪnspɛkts |
 | inspeech | inspeech | ɪnspiːtʃ |
 | inspiration | inspyraeshun | ɪnspɝeɪʃʌn |
@@ -55798,7 +55798,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | institute's | institoot's | ɪnstɪtuːts |
 | instituted | instutootid | ɪnstʌtuːtɪd |
 | institutes | instutoots | ɪnstʌtuːts |
-| institutes' | institoots | ɪnstɪtuːts |
+| institutes' | institoots' | ɪnstɪtuːts |
 | instituting | institooting | ɪnstɪtuːtɪŋ |
 | institution | institooshun | ɪnstɪtuːʃʌn |
 | institution's | institooshun's | ɪnstɪtuːʃʌnz |
@@ -55812,7 +55812,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | institutionalizing | institooshunuliezing | ɪnstɪtuːʃʌnʌlaɪzɪŋ |
 | institutionally | institooshnulee | ɪnstɪtuːʃnʌliː |
 | institutions | institooshunz | ɪnstɪtuːʃʌnz |
-| institutions' | institooshunz | ɪnstɪtuːʃʌnz |
+| institutions' | institooshunz' | ɪnstɪtuːʃʌnz |
 | instituto | institootoe | ɪnstɪtuːtoʊ |
 | instone | instoen | ɪnstoʊn |
 | instruct | instrukt | ɪnstɹʌkt |
@@ -55834,7 +55834,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | instrumentals | instrumentulz | ɪnstɹʌmɛntʌlz |
 | instrumentation | instrumentaeshun | ɪnstɹʌmɛnteɪʃʌn |
 | instruments | instrumunts | ɪnstɹʌmʌnts |
-| instruments' | instrumunts | ɪnstɹʌmʌnts |
+| instruments' | instrumunts' | ɪnstɹʌmʌnts |
 | insubordinate | insubordunaet | ɪnsʌbɔːɹdʌneɪt |
 | insubordination | insubordunaeshun | ɪnsʌbɔːɹdʌneɪʃʌn |
 | insubstantial | insubstanshul | ɪnsʌbstænʃʌl |
@@ -55866,13 +55866,13 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | insurer | inshuuryr | ɪnʃʊɹɝ |
 | insurer's | inshuuryr's | ɪnʃʊɹɝz |
 | insurers | inshuuryrz | ɪnʃʊɹɝz |
-| insurers' | inshuuryrz | ɪnʃʊɹɝz |
+| insurers' | inshuuryrz' | ɪnʃʊɹɝz |
 | insures | inshuurz | ɪnʃʊɹz |
 | insurgencies | insyrjunseez | ɪnsɝdʒʌnsiːz |
 | insurgency | insyrjunsee | ɪnsɝdʒʌnsiː |
 | insurgent | insyrjunt | ɪnsɝdʒʌnt |
 | insurgents | insyrjunts | ɪnsɝdʒʌnts |
-| insurgents' | insyrjunts | ɪnsɝdʒʌnts |
+| insurgents' | insyrjunts' | ɪnsɝdʒʌnts |
 | insuring | inshuuring | ɪnʃʊɹɪŋ |
 | insurmountable | insyrmountubul | ɪnsɝmaʊntʌbʌl |
 | insurrection | insyrekshun | ɪnsɝɛkʃʌn |
@@ -56404,7 +56404,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | investigator | investugaetyr | ɪnvɛstʌɡeɪtɝ |
 | investigator's | investugaetyr's | ɪnvɛstʌɡeɪtɝz |
 | investigators | investugaetyrz | ɪnvɛstʌɡeɪtɝz |
-| investigators' | investugaetyrz | ɪnvɛstʌɡeɪtɝz |
+| investigators' | investugaetyrz' | ɪnvɛstʌɡeɪtɝz |
 | investigatory | investugutoree | ɪnvɛstʌɡʌtɔːɹiː |
 | investimento | investimentoe | ɪnvɛstɪmɛntoʊ |
 | investing | investing | ɪnvɛstɪŋ |
@@ -56413,12 +56413,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | investment | investmunt | ɪnvɛstmʌnt |
 | investment's | investmunt's | ɪnvɛstmʌnts |
 | investments | investmunts | ɪnvɛstmʌnts |
-| investments' | investmunts | ɪnvɛstmʌnts |
+| investments' | investmunts' | ɪnvɛstmʌnts |
 | investnet | investnet | ɪnvɛstnɛt |
 | investor | investyr | ɪnvɛstɝ |
 | investor's | investyr's | ɪnvɛstɝz |
 | investors | investyrz | ɪnvɛstɝz |
-| investors' | investyrz | ɪnvɛstɝz |
+| investors' | investyrz' | ɪnvɛstɝz |
 | invests | invests | ɪnvɛsts |
 | inveterate | invetyrut | ɪnvɛtɝʌt |
 | invidious | invideeus | ɪnvɪdiːʌs |
@@ -56535,7 +56535,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | irani | iraanee | ɪɹɑniː |
 | iranian | iraaneeun | ɪɹɑniːʌn |
 | iranians | iraaneeunz | ɪɹɑniːʌnz |
-| iranians' | ieraeneeunz | aɪɹeɪniːʌnz |
+| iranians' | ieraeneeunz' | aɪɹeɪniːʌnz |
 | iranscam | ieranskam | aɪɹænskæm |
 | iraq | iraak | ɪɹɑk |
 | iraq's | iraak's | ɪɹɑks |
@@ -56753,7 +56753,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | islanders | ielundyrz | aɪlʌndɝz |
 | islandia | ielandeeu | aɪlændiːʌ |
 | islands | ielundz | aɪlʌndz |
-| islands' | ieslundz | aɪslʌndz |
+| islands' | ieslundz' | aɪslʌndz |
 | islas | ieluz | aɪlʌz |
 | isle | iel | aɪl |
 | isleen | ieleen | aɪliːn |
@@ -56807,7 +56807,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | israeli | izraelee | ɪzɹeɪliː |
 | israeli's | izraelee's | ɪzɹeɪliːz |
 | israelis | izraeleez | ɪzɹeɪliːz |
-| israelis' | izraeleez | ɪzɹeɪliːz |
+| israelis' | izraeleez' | ɪzɹeɪliːz |
 | israelite | izruliet | ɪzɹʌlaɪt |
 | israelites | izruliets | ɪzɹʌlaɪts |
 | israeloff | israelof | ɪsɹeɪlɔːf |
@@ -56831,9 +56831,9 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | issuer | ishooyr | ɪʃuːɝ |
 | issuer's | ishooyr's | ɪʃuːɝz |
 | issuers | ishooyrz | ɪʃuːɝz |
-| issuers' | isoorz | ɪsuːɹz |
+| issuers' | isoorz' | ɪsuːɹz |
 | issues | ishooz | ɪʃuːz |
-| issues' | isooz | ɪsuːz |
+| issues' | isooz' | ɪsuːz |
 | issuing | ishooing | ɪʃuːɪŋ |
 | issy | isee | ɪsiː |
 | istanbul | istaanbool | ɪstɑnbuːl |
@@ -57066,7 +57066,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | jacoboski | jakoeboskee | dʒækoʊbɔːskiː |
 | jacobowitz | yukaabuwits | jʌkɑbʌwɪts |
 | jacobs | jaekubz | dʒeɪkʌbz |
-| jacobs' | jaekubz | dʒeɪkʌbz |
+| jacobs' | jaekubz' | dʒeɪkʌbz |
 | jacobs's | jaekubzi's | dʒeɪkʌbzɪz |
 | jacobsen | jaekubsun | dʒeɪkʌbsʌn |
 | jacobson | jaekubsun | dʒeɪkʌbsʌn |
@@ -57081,7 +57081,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | jacqueline | jakwulin | dʒækwʌlɪn |
 | jacquelyn | jakwilin | dʒækwɪlɪn |
 | jacques | jak | dʒæk |
-| jacques' | jaks | dʒæks |
+| jacques' | jaks' | dʒæks |
 | jacquet | jaket | dʒækɛt |
 | jacquetta | jaaketu | dʒɑkɛtʌ |
 | jacquez | yaakwez | jɑkwɛz |
@@ -57193,7 +57193,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | jamerson | jamyrsun | dʒæmɝsʌn |
 | jamerson's | jamyrsun's | dʒæmɝsʌnz |
 | james | jaemz | dʒeɪmz |
-| james' | jaemz | dʒeɪmz |
+| james' | jaemz' | dʒeɪmz |
 | james's | jaemzi's | dʒeɪmzɪz |
 | jameson | jaemsun | dʒeɪmsʌn |
 | jamestown | jaemztoun | dʒeɪmztaʊn |
@@ -57537,7 +57537,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | jeffer | jefyr | dʒɛfɝ |
 | jefferey | jefyree | dʒɛfɝiː |
 | jefferies | jefreez | dʒɛfɹiːz |
-| jefferies' | jefyreez | dʒɛfɝiːz |
+| jefferies' | jefyreez' | dʒɛfɝiːz |
 | jefferies's | jefreezi's | dʒɛfɹiːzɪz |
 | jefferis | jefyris | dʒɛfɝɪs |
 | jeffers | jefyrz | dʒɛfɝz |
@@ -57734,7 +57734,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | jesuits | jezjooits | dʒɛʒuːɪts |
 | jesup | jesup | dʒɛsʌp |
 | jesus | jeezus | dʒiːzʌs |
-| jesus' | jeezus | dʒiːzʌs |
+| jesus' | jeezus' | dʒiːzʌs |
 | jesus's | jeezusi's | dʒiːzʌsɪz |
 | jet | jet | dʒɛt |
 | jet's | jet's | dʒɛts |
@@ -57746,7 +57746,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | jetliners | jetlienyrz | dʒɛtlaɪnɝz |
 | jetro | jetroe | dʒɛtɹoʊ |
 | jets | jets | dʒɛts |
-| jets' | jets | dʒɛts |
+| jets' | jets' | dʒɛts |
 | jetson | jetsun | dʒɛtsʌn |
 | jetsons | jetsunz | dʒɛtsʌnz |
 | jetstream | jetstreem | dʒɛtstɹiːm |
@@ -57788,7 +57788,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | jewkes | jooks | dʒuːks |
 | jewry | jooree | dʒuːɹiː |
 | jews | jooz | dʒuːz |
-| jews' | jooz | dʒuːz |
+| jews' | jooz' | dʒuːz |
 | jex | jeks | dʒɛks |
 | jeyaretnam | jaeyretnum | dʒeɪɝɛtnʌm |
 | jezek | yezek | jɛzɛk |
@@ -57909,7 +57909,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | jobless | jaablus | dʒɑblʌs |
 | joblessness | jaablusnus | dʒɑblʌsnʌs |
 | jobs | jaabz | dʒɑbz |
-| jobs' | jaabz | dʒɑbz |
+| jobs' | jaabz' | dʒɑbz |
 | jobs's | jaabzi's | dʒɑbzɪz |
 | jobson | jaabsun | dʒɑbsʌn |
 | jobst | jaabst | dʒɑbst |
@@ -58078,7 +58078,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | joncas | jaangkuz | dʒɑŋkʌz |
 | jone | joen | dʒoʊn |
 | jones | joenz | dʒoʊnz |
-| jones' | joenz | dʒoʊnz |
+| jones' | joenz' | dʒoʊnz |
 | jones's | joenzi's | dʒoʊnzɪz |
 | jonesboro | joenzburoe | dʒoʊnzbʌɹoʊ |
 | joneses | joenziz | dʒoʊnzɪz |
@@ -58185,7 +58185,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | journalistic | jyrnulistik | dʒɝnʌlɪstɪk |
 | journalistically | jyrnulistikulee | dʒɝnʌlɪstɪkʌliː |
 | journalists | jyrnulists | dʒɝnʌlɪsts |
-| journalists' | jyrnulists | dʒɝnʌlɪsts |
+| journalists' | jyrnulists' | dʒɝnʌlɪsts |
 | journals | jyrnulz | dʒɝnʌlz |
 | journey | jyrnee | dʒɝniː |
 | journeyed | jyrneed | dʒɝniːd |
@@ -58266,7 +58266,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | judgemental | jujmentul | dʒʌdʒmɛntʌl |
 | judgements | jujmunts | dʒʌdʒmʌnts |
 | judges | jujiz | dʒʌdʒɪz |
-| judges' | jujiz | dʒʌdʒɪz |
+| judges' | jujiz' | dʒʌdʒɪz |
 | judgeship | jujship | dʒʌdʒʃɪp |
 | judgeships | jujships | dʒʌdʒʃɪps |
 | judging | jujing | dʒʌdʒɪŋ |
@@ -58467,7 +58467,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | jurica | juuriku | dʒʊɹɪkʌ |
 | jurich | juurik | dʒʊɹɪk |
 | juries | juureez | dʒʊɹiːz |
-| juries' | juureez | dʒʊɹiːz |
+| juries' | juureez' | dʒʊɹiːz |
 | juris | juuris | dʒʊɹɪs |
 | jurisdiction | juurisdikshun | dʒʊɹɪsdɪkʃʌn |
 | jurisdictional | juurusdikshunul | dʒʊɹʌsdɪkʃʌnʌl |
@@ -58483,7 +58483,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | juror | juuryr | dʒʊɹɝ |
 | juror's | juuryr's | dʒʊɹɝz |
 | jurors | juuryrz | dʒʊɹɝz |
-| jurors' | juuryrz | dʒʊɹɝz |
+| jurors' | juuryrz' | dʒʊɹɝz |
 | jurs | jyrz | dʒɝz |
 | jury | juuree | dʒʊɹiː |
 | jury's | juuree's | dʒʊɹiːz |
@@ -58498,7 +58498,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | justice | justis | dʒʌstɪs |
 | justice's | justisi's | dʒʌstɪsɪz |
 | justices | justisiz | dʒʌstɪsɪz |
-| justices' | justisiz | dʒʌstɪsɪz |
+| justices' | justisiz' | dʒʌstɪsɪz |
 | justifiable | justufieubul | dʒʌstʌfaɪʌbʌl |
 | justifiably | justufieublee | dʒʌstʌfaɪʌbliː |
 | justification | justufukaeshun | dʒʌstʌfʌkeɪʃʌn |
@@ -58860,9 +58860,9 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | kansan | kanzun | kænzʌn |
 | kansan's | kanzun's | kænzʌnz |
 | kansans | kanzunz | kænzʌnz |
-| kansans' | kanzunz | kænzʌnz |
+| kansans' | kanzunz' | kænzʌnz |
 | kansas | kanzus | kænzʌs |
-| kansas' | kanzus | kænzʌs |
+| kansas' | kanzus' | kænzʌs |
 | kansas's | kanzusi's | kænzʌsɪz |
 | kansas-city | kanzusitee | kænzʌsɪtiː |
 | kansian | kanzeeun | kænziːʌn |
@@ -59636,7 +59636,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | kennedy | kenudee | kɛnʌdiː |
 | kennedy's | kenudee's | kɛnʌdiːz |
 | kennedys | kenudeez | kɛnʌdiːz |
-| kennedys' | kenudeez | kɛnʌdiːz |
+| kennedys' | kenudeez' | kɛnʌdiːz |
 | kennel | kenul | kɛnʌl |
 | kennell | kenul | kɛnʌl |
 | kennelly | kenulee | kɛnʌliː |
@@ -59894,7 +59894,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | keye | kie | kaɪ |
 | keyed | keed | kiːd |
 | keyes | keez | kiːz |
-| keyes' | keez | kiːz |
+| keyes' | keez' | kiːz |
 | keyhole | keehoel | kiːhoʊl |
 | keyholes | keehoelz | kiːhoʊlz |
 | keying | keeing | kiːɪŋ |
@@ -60029,7 +60029,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | kidneys | kidneez | kɪdniːz |
 | kido | keedoe | kiːdoʊ |
 | kids | kidz | kɪdz |
-| kids' | kidz | kɪdz |
+| kids' | kidz' | kɪdz |
 | kidstock | kidstaak | kɪdstɑk |
 | kidwa | kidwu | kɪdwʌ |
 | kidwell | kidwel | kɪdwɛl |
@@ -60334,7 +60334,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | kingrey | kinggree | kɪŋɡɹiː |
 | kingry | kinggyree | kɪŋɡɝiː |
 | kings | kingz | kɪŋz |
-| kings' | kingz | kɪŋz |
+| kings' | kingz' | kɪŋz |
 | kingsborough | kingzbyroe | kɪŋzbɝoʊ |
 | kingsbridge | kingzbrij | kɪŋzbɹɪdʒ |
 | kingsbury | kingzberee | kɪŋzbɛɹiː |
@@ -60964,7 +60964,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | knickknack | niknak | nɪknæk |
 | knickknacks | niknaks | nɪknæks |
 | knicks | niks | nɪks |
-| knicks' | niks | nɪks |
+| knicks' | niks' | nɪks |
 | knief | neef | niːf |
 | kniep | neep | niːp |
 | knieriem | neereem | niːɹiːm |
@@ -61478,7 +61478,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | koppenhaver | kaapinhuvyr | kɑpɪnhʌvɝ |
 | kopper | kaapyr | kɑpɝ |
 | koppers | kaapyrz | kɑpɝz |
-| koppers' | kaapyrz | kɑpɝz |
+| koppers' | kaapyrz' | kɑpɝz |
 | koppes | kaaps | kɑps |
 | kopple | kaapul | kɑpʌl |
 | kopplin | kaaplin | kɑplɪn |
@@ -61507,7 +61507,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | korean | koreeun | kɔːɹiːʌn |
 | korean's | kreeun's | kɹiːʌnz |
 | koreans | koreeunz | kɔːɹiːʌnz |
-| koreans' | koreeunz | kɔːɹiːʌnz |
+| koreans' | koreeunz' | kɔːɹiːʌnz |
 | koreas | koreeuz | kɔːɹiːʌz |
 | koreatown | kyreeutoun | kɝiːʌtaʊn |
 | korell | korel | kɔːɹɛl |
@@ -61654,7 +61654,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | koto | koetoe | koʊtoʊ |
 | kotowski | kutofskee | kʌtɔːfskiː |
 | kotsonis | katsoenus | kætsoʊnʌs |
-| kotsonis' | katsoenus | kætsoʊnʌs |
+| kotsonis' | katsoenus' | kætsoʊnʌs |
 | kotsonis's | katsoenusi's | kætsoʊnʌsɪz |
 | kott | kaat | kɑt |
 | kotter | kaatyr | kɑtɝ |
@@ -62608,7 +62608,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | labor's | laebyr's | leɪbɝz |
 | laboratoires | luborutwaaz | lʌbɔːɹʌtwɑz |
 | laboratories | labrutoreez | læbɹʌtɔːɹiːz |
-| laboratories' | labrutoreez | læbɹʌtɔːɹiːz |
+| laboratories' | labrutoreez' | læbɹʌtɔːɹiːz |
 | laboratory | labrutoree | læbɹʌtɔːɹiː |
 | laboratory's | labrutoree's | læbɹʌtɔːɹiːz |
 | laborde | lubord | lʌbɔːɹd |
@@ -62640,7 +62640,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | labriola | laabreeoelu | lɑbɹiːoʊlʌ |
 | labrosse | laabroesee | lɑbɹoʊsiː |
 | labs | labz | læbz |
-| labs' | labz | læbz |
+| labs' | labz' | læbz |
 | labuda | lubuedu | lʌbjuːdʌ |
 | labus | labis | læbɪs |
 | labyrinth | labyrinth | læbɝɪnθ |
@@ -62746,7 +62746,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lader | laedyr | leɪdɝ |
 | ladewig | ladooig | læduːɪɡ |
 | ladies | laedeez | leɪdiːz |
-| ladies' | laedeez | leɪdiːz |
+| ladies' | laedeez' | leɪdiːz |
 | lading | laeding | leɪdɪŋ |
 | ladino | ludeenoe | lʌdiːnoʊ |
 | ladish | laadish | lɑdɪʃ |
@@ -62918,7 +62918,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | laker | laekyr | leɪkɝ |
 | lakers | laekyrz | leɪkɝz |
 | lakes | laeks | leɪks |
-| lakes' | laeks | leɪks |
+| lakes' | laeks' | leɪks |
 | lakeshore | laekshor | leɪkʃɔːɹ |
 | lakeside | laeksied | leɪksaɪd |
 | lakeview | laekvue | leɪkvjuː |
@@ -62928,7 +62928,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lakins | lakinz | lækɪnz |
 | lakota | lukoetu | lʌkoʊtʌ |
 | lakotas | lukoetuz | lʌkoʊtʌz |
-| lakotas' | lukoetuz | lʌkoʊtʌz |
+| lakotas' | lukoetuz' | lʌkoʊtʌz |
 | lakshamanan | lakshumaanun | lækʃʌmɑnʌn |
 | lakshamanan's | lakshumaanun's | lækʃʌmɑnʌnz |
 | lal | lal | læl |
@@ -63009,7 +63009,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lambro | lambroe | læmbɹoʊ |
 | lambros | lambroez | læmbɹoʊz |
 | lambs | lamz | læmz |
-| lambs' | lamz | læmz |
+| lambs' | lamz' | læmz |
 | lambsdorff | lamzdorf | læmzdɔːɹf |
 | lambson | lamsun | læmsʌn |
 | lamby | lambee | læmbiː |
@@ -63229,7 +63229,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | landry | landree | lændɹiː |
 | landry's | landree's | lændɹiːz |
 | lands | landz | lændz |
-| lands' | landz | lændz |
+| lands' | landz' | lændz |
 | landsat | landsat | lændsæt |
 | landsberg | landzbyrg | lændzbɝɡ |
 | landsberger | landzbyrgyr | lændzbɝɡɝ |
@@ -63983,7 +63983,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lawmaker | laamaekyr | lɑmeɪkɝ |
 | lawmaker's | laamaekyr's | lɑmeɪkɝz |
 | lawmakers | laamaekyrz | lɑmeɪkɝz |
-| lawmakers' | laamaekyrz | lɑmeɪkɝz |
+| lawmakers' | laamaekyrz' | lɑmeɪkɝz |
 | lawmaking | laamaeking | lɑmeɪkɪŋ |
 | lawman | laamun | lɑmʌn |
 | lawmen | laamen | lɑmɛn |
@@ -64022,7 +64022,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lawyering | laayyring | lɑjɝɪŋ |
 | lawyerly | laayyrlee | lɑjɝliː |
 | lawyers | laayyrz | lɑjɝz |
-| lawyers' | laayyrz | lɑjɝz |
+| lawyers' | laayyrz' | lɑjɝz |
 | lax | laks | læks |
 | laxalt | laksaalt | læksɑlt |
 | laxative | laksutiv | læksʌtɪv |
@@ -64120,7 +64120,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | leaderboards | leedyrbordz | liːdɝbɔːɹdz |
 | leaderless | leedyrlus | liːdɝlʌs |
 | leaders | leedyrz | liːdɝz |
-| leaders' | leedyrz | liːdɝz |
+| leaders' | leedyrz' | liːdɝz |
 | leadership | leedyrship | liːdɝʃɪp |
 | leadership's | leedyrship's | liːdɝʃɪps |
 | leaderships | leedyrships | liːdɝʃɪps |
@@ -64146,7 +64146,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | leaguer | leegyr | liːɡɝ |
 | leaguers | leegyrz | liːɡɝz |
 | leagues | leegz | liːɡz |
-| leagues' | leegz | liːɡz |
+| leagues' | leegz' | liːɡz |
 | leah | leeu | liːʌ |
 | leahey | laehee | leɪhiː |
 | leahy | laehee | leɪhiː |
@@ -64527,7 +64527,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | legislatively | lejislaetivlee | lɛdʒɪsleɪtɪvliː |
 | legislator | lejuslaetyr | lɛdʒʌsleɪtɝ |
 | legislators | lejuslaetyrz | lɛdʒʌsleɪtɝz |
-| legislators' | lejislaetyrz | lɛdʒɪsleɪtɝz |
+| legislators' | lejislaetyrz' | lɛdʒɪsleɪtɝz |
 | legislature | lejuslaechyr | lɛdʒʌsleɪtʃɝ |
 | legislature's | lejuslaechyr's | lɛdʒʌsleɪtʃɝz |
 | legislatures | lejislaechyrz | lɛdʒɪsleɪtʃɝz |
@@ -64769,7 +64769,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lender's | lendyr's | lɛndɝz |
 | lenderman | lendyrmun | lɛndɝmʌn |
 | lenders | lendyrz | lɛndɝz |
-| lenders' | lendyrz | lɛndɝz |
+| lenders' | lendyrz' | lɛndɝz |
 | lending | lending | lɛndɪŋ |
 | lendings | lendingz | lɛndɪŋz |
 | lendl | lendul | lɛndʌl |
@@ -65211,7 +65211,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lewinsohn | looinsun | luːɪnsʌn |
 | lewinton | loointun | luːɪntʌn |
 | lewis | loois | luːɪs |
-| lewis' | loois | luːɪs |
+| lewis' | loois' | luːɪs |
 | lewis's | looisi's | luːɪsɪz |
 | lewisburg | looisbyrg | luːɪsbɝɡ |
 | lewiston | looustun | luːʌstʌn |
@@ -65300,7 +65300,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | liberalizing | libyruliezing | lɪbɝʌlaɪzɪŋ |
 | liberally | libyrulee | lɪbɝʌliː |
 | liberals | libyrulz | lɪbɝʌlz |
-| liberals' | libyrulz | lɪbɝʌlz |
+| liberals' | libyrulz' | lɪbɝʌlz |
 | liberate | libyraet | lɪbɝeɪt |
 | liberated | libyraetid | lɪbɝeɪtɪd |
 | liberati | leebyraatee | liːbɝɑtiː |
@@ -65812,9 +65812,9 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | liner's | lienyr's | laɪnɝz |
 | linerboard | lienyrbord | laɪnɝbɔːɹd |
 | liners | lienyrz | laɪnɝz |
-| liners' | lienyrz | laɪnɝz |
+| liners' | lienyrz' | laɪnɝz |
 | lines | lienz | laɪnz |
-| lines' | lienz | laɪnz |
+| lines' | lienz' | laɪnz |
 | linette | linet | lɪnɛt |
 | lineup | lienup | laɪnʌp |
 | lineups | lienups | laɪnʌps |
@@ -65925,7 +65925,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lionize | lieuniez | laɪʌnaɪz |
 | lionized | lieuniezd | laɪʌnaɪzd |
 | lions | lieunz | laɪʌnz |
-| lions' | lieunz | laɪʌnz |
+| lions' | lieunz' | laɪʌnz |
 | liotier | leeoeteeyr | liːoʊtiːɝ |
 | liotta | leeoetu | liːoʊtʌ |
 | liou | leeoo | liːuː |
@@ -65970,7 +65970,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lipps | lips | lɪps |
 | lippy | lipee | lɪpiː |
 | lips | lips | lɪps |
-| lips' | lips | lɪps |
+| lips' | lips' | lɪps |
 | lipschitz | lipshits | lɪpʃɪts |
 | lipschultz | lipshults | lɪpʃʌlts |
 | lipschutz | lipshuts | lɪpʃʌts |
@@ -66211,7 +66211,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | liverworts | livyrwyrts | lɪvɝwɝts |
 | livery | livyree | lɪvɝiː |
 | lives | livz | lɪvz |
-| lives' | lievz | laɪvz |
+| lives' | lievz' | laɪvz |
 | livesay | livisae | lɪvɪseɪ |
 | livesey | livisee | lɪvɪsiː |
 | livestock | lievstaak | laɪvstɑk |
@@ -66219,7 +66219,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | livia | liveeu | lɪviːʌ |
 | livid | livid | lɪvɪd |
 | lividity | lividitee | lɪvɪdɪtiː |
-| livin' | livin | lɪvɪn |
+| livin' | livin' | lɪvɪn |
 | living | living | lɪvɪŋ |
 | livingood | livinguud | lɪvɪnɡʊd |
 | livingroom | livingroom | lɪvɪŋɹuːm |
@@ -66271,7 +66271,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lloyd | loid | lɔɪd |
 | lloyd's | loid's | lɔɪdz |
 | lloyds | loidz | lɔɪdz |
-| lloyds' | loidz | lɔɪdz |
+| lloyds' | loidz' | lɔɪdz |
 | ln | laen | leɪn |
 | lo | loe | loʊ |
 | lo's | loe's | loʊz |
@@ -66298,7 +66298,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | loaning | loening | loʊnɪŋ |
 | loanloss | loenlos | loʊnlɔːs |
 | loans | loenz | loʊnz |
-| loans' | loenz | loʊnz |
+| loans' | loenz' | loʊnz |
 | loar | lor | lɔːɹ |
 | loath | loeth | loʊθ |
 | loathe | loeth | loʊð |
@@ -66321,7 +66321,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lobbying | laabeeing | lɑbiːɪŋ |
 | lobbyist | laabeeust | lɑbiːʌst |
 | lobbyists | laabeeists | lɑbiːɪsts |
-| lobbyists' | laabeeists | lɑbiːɪsts |
+| lobbyists' | laabeeists' | lɑbiːɪsts |
 | lobdell | laabdul | lɑbdʌl |
 | lobe | loeb | loʊb |
 | lobed | loebd | loʊbd |
@@ -66746,7 +66746,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | looked | luukt | lʊkt |
 | looker | luukyr | lʊkɝ |
 | lookers | luukyrz | lʊkɝz |
-| lookin' | luukin | lʊkɪn |
+| lookin' | luukin' | lʊkɪn |
 | looking | luuking | lʊkɪŋ |
 | lookingbill | luukingbil | lʊkɪŋbɪl |
 | lookit | luukit | lʊkɪt |
@@ -66925,7 +66925,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | loseke | laasik | lɑsɪk |
 | loser | loozyr | luːzɝ |
 | losers | loozyrz | luːzɝz |
-| losers' | loezyrz | loʊzɝz |
+| losers' | loezyrz' | loʊzɝz |
 | loses | loozuz | luːzʌz |
 | losey | laasee | lɑsiː |
 | losh | laash | lɑʃ |
@@ -66967,7 +66967,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lotts | laats | lɑts |
 | lotty | laatee | lɑtiː |
 | lotus | loetus | loʊtʌs |
-| lotus' | loetus | loʊtʌs |
+| lotus' | loetus' | loʊtʌs |
 | lotus's | loetusi's | loʊtʌsɪz |
 | lotz | laats | lɑts |
 | lotze | loetz | loʊtz |
@@ -67011,7 +67011,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | louima | looeemu | luːiːmʌ |
 | louima's | looeemu's | luːiːmʌz |
 | louis | loois | luːɪs |
-| louis' | loois | luːɪs |
+| louis' | loois' | luːɪs |
 | louis's | looisi's | luːɪsɪz |
 | louisa | looeezu | luːiːzʌ |
 | louisan | looisun | luːɪsʌn |
@@ -67082,7 +67082,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lovering | luvyring | lʌvɝɪŋ |
 | lovern | luvyrn | lʌvɝn |
 | lovers | luvyrz | lʌvɝz |
-| lovers' | luvyrz | lʌvɝz |
+| lovers' | luvyrz' | lʌvɝz |
 | loves | luvz | lʌvz |
 | lovett | luvit | lʌvɪt |
 | lovette | luvet | lʌvɛt |
@@ -67236,7 +67236,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lucado | lookaadoe | luːkɑdoʊ |
 | lucarelli | lookaarelee | luːkɑɹɛliː |
 | lucas | lookus | luːkʌs |
-| lucas' | lookus | luːkʌs |
+| lucas' | lookus' | luːkʌs |
 | lucas's | lookusi's | luːkʌsɪz |
 | lucasfilm | lookasfilm | luːkæsfɪlm |
 | lucasville | lookusvil | luːkʌsvɪl |
@@ -67568,7 +67568,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | lunsford | lunsfyrd | lʌnsfɝd |
 | lunt | lunt | lʌnt |
 | luntz | lunts | lʌnts |
-| luntz' | lunts | lʌnts |
+| luntz' | lunts' | lʌnts |
 | luntz's | luntsi's | lʌntsɪz |
 | lunz | lunz | lʌnz |
 | luo | lwoe | lwoʊ |
@@ -67968,12 +67968,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | machineries | musheenyreez | mʌʃiːnɝiːz |
 | machinery | musheenyree | mʌʃiːnɝiː |
 | machines | musheenz | mʌʃiːnz |
-| machines' | mucheenz | mʌtʃiːnz |
+| machines' | mucheenz' | mʌtʃiːnz |
 | machinima | musheenimu | mʌʃiːnɪmʌ |
 | machining | musheening | mʌʃiːnɪŋ |
 | machinist | musheenust | mʌʃiːnʌst |
 | machinists | musheenists | mʌʃiːnɪsts |
-| machinists' | musheenists | mʌʃiːnɪsts |
+| machinists' | musheenists' | mʌʃiːnɪsts |
 | machismo | muchizmoe | mʌtʃɪzmoʊ |
 | machivelli | makuvelee | mækʌvɛliː |
 | machivellian | makuveleeun | mækʌvɛliːʌn |
@@ -68236,7 +68236,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | magaziner | maguzeenyr | mæɡʌziːnɝ |
 | magaziner's | maguzeenyr's | mæɡʌziːnɝz |
 | magazines | maguzeenz | mæɡʌziːnz |
-| magazines' | maguzeenz | mæɡʌziːnz |
+| magazines' | maguzeenz' | mæɡʌziːnz |
 | magby | magbee | mæɡbiː |
 | magda | magdu | mæɡdʌ |
 | magdala | maagdaalu | mɑɡdɑlʌ |
@@ -68445,7 +68445,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | maidens | maedunz | meɪdʌnz |
 | maidie | maedee | meɪdiː |
 | maids | maedz | meɪdz |
-| maids' | maedz | meɪdz |
+| maids' | maedz' | meɪdz |
 | maiello | mieeloe | maɪɛloʊ |
 | maier | maeyr | meɪɝ |
 | maiers | maeyrz | meɪɝz |
@@ -68572,7 +68572,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | majority's | mujorutee's | mʌdʒɔːɹʌtiːz |
 | majoros | maayoroez | mɑjɔːɹoʊz |
 | majors | maejyrz | meɪdʒɝz |
-| majors' | maejyrz | meɪdʒɝz |
+| majors' | maejyrz' | meɪdʒɝz |
 | majrooh | majroo | mædʒɹuː |
 | majure | maayuurae | mɑjʊɹeɪ |
 | mak | mak | mæk |
@@ -68594,14 +68594,14 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | maker | maekyr | meɪkɝ |
 | maker's | maekyr's | meɪkɝz |
 | makers | maekyrz | meɪkɝz |
-| makers' | maekyrz | meɪkɝz |
+| makers' | maekyrz' | meɪkɝz |
 | makes | maeks | meɪks |
 | makeshift | maekshift | meɪkʃɪft |
 | makeup | maekup | meɪkʌp |
 | makhoul | mukool | mʌkuːl |
 | maki | maakee | mɑkiː |
 | makin | makin | mækɪn |
-| makin' | maekin | meɪkɪn |
+| makin' | maekin' | meɪkɪn |
 | makinen | makinun | mækɪnʌn |
 | making | maeking | meɪkɪŋ |
 | makings | maekingz | meɪkɪŋz |
@@ -68880,12 +68880,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | management | manujmunt | mænʌdʒmʌnt |
 | management's | manijmunt's | mænɪdʒmʌnts |
 | managements | manijmunts | mænɪdʒmʌnts |
-| managements' | manijmunts | mænɪdʒmʌnts |
+| managements' | manijmunts' | mænɪdʒmʌnts |
 | manager | manujyr | mænʌdʒɝ |
 | manager's | manijyr's | mænɪdʒɝz |
 | managerial | manijireeul | mænɪdʒɪɹiːʌl |
 | managers | manujyrz | mænʌdʒɝz |
-| managers' | manujyrz | mænʌdʒɝz |
+| managers' | manujyrz' | mænʌdʒɝz |
 | manages | manijiz | mænɪdʒɪz |
 | managing | manujing | mænʌdʒɪŋ |
 | managua | munaagwu | mʌnɑɡwʌ |
@@ -69222,7 +69222,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | manufacturer | manyufakchyryr | mænjʌfæktʃɝɝ |
 | manufacturer's | manyufakchyryr's | mænjʌfæktʃɝɝz |
 | manufacturers | manyufakchyryrz | mænjʌfæktʃɝɝz |
-| manufacturers' | manufakchyryrz | mænʌfæktʃɝɝz |
+| manufacturers' | manufakchyryrz' | mænʌfæktʃɝɝz |
 | manufactures | manyufakchyrz | mænjʌfæktʃɝz |
 | manufacturing | manyufakchyring | mænjʌfæktʃɝɪŋ |
 | manufacturing's | manyufakchyring's | mænjʌfæktʃɝɪŋz |
@@ -69312,7 +69312,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | marasco | maaraaskoe | mɑɹɑskoʊ |
 | marasek | myraasek | mɝɑsɛk |
 | marash | maarush | mɑɹʌʃ |
-| marash' | maarush | mɑɹʌʃ |
+| marash' | maarush' | mɑɹʌʃ |
 | marash's | maarushi's | mɑɹʌʃɪs |
 | marathi | muraatee | mʌɹɑtiː |
 | marathon | meruthaan | mɛɹʌθɑn |
@@ -69424,10 +69424,10 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | marconi | maarkoenee | mɑɹkoʊniː |
 | marcor | maarkor | mɑɹkɔːɹ |
 | marcos | maarkoes | mɑɹkoʊs |
-| marcos' | maarkoes | mɑɹkoʊs |
+| marcos' | maarkoes' | mɑɹkoʊs |
 | marcos's | maarkusi's | mɑɹkʌsɪz |
 | marcoses | maarkoesiz | mɑɹkoʊsɪz |
-| marcoses' | maarkoesiz | mɑɹkoʊsɪz |
+| marcoses' | maarkoesiz' | mɑɹkoʊsɪz |
 | marcott | maarkaat | mɑɹkɑt |
 | marcotte | maarkot | mɑɹkɔːt |
 | marcou | maarkoo | mɑɹkuː |
@@ -69582,7 +69582,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | mariner | merunyr | mɛɹʌnɝ |
 | mariners | merunyrz | mɛɹʌnɝz |
 | marines | myreenz | mɝiːnz |
-| marines' | myreenz | mɝiːnz |
+| marines' | myreenz' | mɝiːnz |
 | marinez | maareenez | mɑɹiːnɛz |
 | maring | mering | mɛɹɪŋ |
 | marini | maareenee | mɑɹiːniː |
@@ -69650,7 +69650,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | marketer | maarkutyr | mɑɹkʌtɝ |
 | marketer's | maarkutyr's | mɑɹkʌtɝz |
 | marketers | maarkutyrz | mɑɹkʌtɝz |
-| marketers' | maarkutyrz | mɑɹkʌtɝz |
+| marketers' | maarkutyrz' | mɑɹkʌtɝz |
 | marketi | maarkutee | mɑɹkʌtiː |
 | marketing | maarkuting | mɑɹkʌtɪŋ |
 | marketing's | maarkuting's | mɑɹkʌtɪŋz |
@@ -69661,7 +69661,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | marketplace's | maarkutplaesi's | mɑɹkʌtpleɪsɪz |
 | marketplaces | maarkutplaesiz | mɑɹkʌtpleɪsɪz |
 | markets | maarkuts | mɑɹkʌts |
-| markets' | maarkits | mɑɹkɪts |
+| markets' | maarkits' | mɑɹkɪts |
 | marketscope | maarkutskoep | mɑɹkʌtskoʊp |
 | marketwide | maarkutwied | mɑɹkʌtwaɪd |
 | markey | maarkee | mɑɹkiː |
@@ -69732,7 +69732,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | marlin | maarlin | mɑɹlɪn |
 | marling | maarling | mɑɹlɪŋ |
 | marlins | maarlunz | mɑɹlʌnz |
-| marlins' | maarlunz | mɑɹlʌnz |
+| marlins' | maarlunz' | mɑɹlʌnz |
 | marlo | maarloe | mɑɹloʊ |
 | marlon | maarlun | mɑɹlʌn |
 | marlow | maarloe | mɑɹloʊ |
@@ -69828,7 +69828,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | marry | meree | mɛɹiː |
 | marrying | mereeing | mɛɹiːɪŋ |
 | mars | maarz | mɑɹz |
-| mars' | maarz | mɑɹz |
+| mars' | maarz' | mɑɹz |
 | mars's | maarzi's | mɑɹzɪz |
 | marsal | maarsul | mɑɹsʌl |
 | marsala | maarsaalu | mɑɹsɑlʌ |
@@ -70137,7 +70137,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | mass. | mas | mæs |
 | massa | masu | mæsʌ |
 | massachusetts | masuchoosuts | mæsʌtʃuːsʌts |
-| massachusetts' | masuchoosuts | mæsʌtʃuːsʌts |
+| massachusetts' | masuchoosuts' | mæsʌtʃuːsʌts |
 | massachussetts | masuchoosuts | mæsʌtʃuːsʌts |
 | massacre | masukyr | mæsʌkɝ |
 | massacred | masukyrd | mæsʌkɝd |
@@ -70221,7 +70221,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | masterpiece | mastyrpees | mæstɝpiːs |
 | masterpieces | mastyrpeesuz | mæstɝpiːsʌz |
 | masters | mastyrz | mæstɝz |
-| masters' | mastyrz | mæstɝz |
+| masters' | mastyrz' | mæstɝz |
 | masterson | mastyrsun | mæstɝsʌn |
 | masterstroke | mastyrstroek | mæstɝstɹoʊk |
 | masterwork | mastyrwyrk | mæstɝwɝk |
@@ -70312,7 +70312,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | materializing | mutireeuliezing | mʌtɪɹiːʌlaɪzɪŋ |
 | materially | mutireeulee | mʌtɪɹiːʌliː |
 | materials | mutireeulz | mʌtɪɹiːʌlz |
-| materials' | mutireeulz | mʌtɪɹiːʌlz |
+| materials' | mutireeulz' | mʌtɪɹiːʌlz |
 | materiel | mutireeel | mʌtɪɹiːɛl |
 | materiels | mutireeelz | mʌtɪɹiːɛlz |
 | matern | matyrn | mætɝn |
@@ -70615,7 +70615,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | mavrodi | mavroedee | mævɹoʊdiː |
 | mavroules | mavroolz | mævɹuːlz |
 | mavs | maavz | mɑvz |
-| mavs' | maavz | mɑvz |
+| mavs' | maavz' | mɑvz |
 | maw | maa | mɑ |
 | mawhinney | mawinee | mæwɪniː |
 | mawkish | maakish | mɑkɪʃ |
@@ -70731,7 +70731,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | mayotte | maeot | meɪɔːt |
 | mayr | maer | meɪɹ |
 | mays | maez | meɪz |
-| mays' | maez | meɪz |
+| mays' | maez' | meɪz |
 | mayse | maez | meɪz |
 | mayson | maezun | meɪzʌn |
 | maytag | maetag | meɪtæɡ |
@@ -71185,7 +71185,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | mcdougald | mukdooguld | mʌkduːɡʌld |
 | mcdougall | mukdoogul | mʌkduːɡʌl |
 | mcdougals | mukdoogulz | mʌkduːɡʌlz |
-| mcdougals' | mukdoogulz | mʌkduːɡʌlz |
+| mcdougals' | mukdoogulz' | mʌkduːɡʌlz |
 | mcdougle | mukdoogul | mʌkduːɡʌl |
 | mcdow | mukdou | mʌkdaʊ |
 | mcdowall | mukdouul | mʌkdaʊʌl |
@@ -71850,7 +71850,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | meanness | meennus | miːnnʌs |
 | meanor | meenyr | miːnɝ |
 | means | meenz | miːnz |
-| means' | meenz | miːnz |
+| means' | meenz' | miːnz |
 | meant | ment | mɛnt |
 | meantime | meentiem | miːntaɪm |
 | meanwhile | meenwiel | miːnwaɪl |
@@ -71900,7 +71900,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | mechanical | mukanikul | mʌkænɪkʌl |
 | mechanically | mukaniklee | mʌkænɪkliː |
 | mechanics | mukaniks | mʌkænɪks |
-| mechanics' | mukaniks | mʌkænɪks |
+| mechanics' | mukaniks' | mʌkænɪks |
 | mechanicsburg | mukaniksbyrg | mʌkænɪksbɝɡ |
 | mechanism | mekunizum | mɛkʌnɪzʌm |
 | mechanisms | mekunizumz | mɛkʌnɪzʌmz |
@@ -72399,7 +72399,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | member's | membyr's | mɛmbɝz |
 | membered | membyrd | mɛmbɝd |
 | members | membyrz | mɛmbɝz |
-| members' | membyrz | mɛmbɝz |
+| members' | membyrz' | mɛmbɝz |
 | membership | membyrship | mɛmbɝʃɪp |
 | memberships | membyrships | mɛmbɝʃɪps |
 | membrane | membraen | mɛmbɹeɪn |
@@ -72430,7 +72430,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | memorialized | mumoreeuliezd | mʌmɔːɹiːʌlaɪzd |
 | memorials | mumoreeulz | mʌmɔːɹiːʌlz |
 | memories | memyreez | mɛmɝiːz |
-| memories' | memyreez | mɛmɝiːz |
+| memories' | memyreez' | mɛmɝiːz |
 | memorize | memyriez | mɛmɝaɪz |
 | memorized | memyriezd | mɛmɝaɪzd |
 | memorizes | memyrieziz | mɛmɝaɪzɪz |
@@ -72634,7 +72634,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | merchant's | myrchunt's | mɝtʃʌnts |
 | merchantmen | myrchuntmin | mɝtʃʌntmɪn |
 | merchants | myrchunts | mɝtʃʌnts |
-| merchants' | myrchunts | mɝtʃʌnts |
+| merchants' | myrchunts' | mɝtʃʌnts |
 | merchantsbank | myrchuntsbangk | mɝtʃʌntsbæŋk |
 | merci | myrsee | mɝsiː |
 | mercier | myrseeyr | mɝsiːɝ |
@@ -72932,7 +72932,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | metallurgical | metulyrjikul | mɛtʌlɝdʒɪkʌl |
 | metallurgy | metulyrjee | mɛtʌlɝdʒiː |
 | metals | metulz | mɛtʌlz |
-| metals' | metulz | mɛtʌlz |
+| metals' | metulz' | mɛtʌlz |
 | metalwork | metulwyrk | mɛtʌlwɝk |
 | metalworker | metulwyrkyr | mɛtʌlwɝkɝ |
 | metalworkers | metulwyrkyrz | mɛtʌlwɝkɝz |
@@ -73048,7 +73048,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | metropolitans | metrupaalutunz | mɛtɹʌpɑlʌtʌnz |
 | metrosexual | metrusekshooul | mɛtɹʌsɛkʃuːʌl |
 | mets | mets | mɛts |
-| mets' | mets | mɛts |
+| mets' | mets' | mɛts |
 | metsker | metskyr | mɛtskɝ |
 | mette | met | mɛt |
 | metter | metyr | mɛtɝ |
@@ -73317,7 +73317,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | microsoft | miekroesoft | maɪkɹoʊsɔːft |
 | microsoft's | miekroesoft's | maɪkɹoʊsɔːfts |
 | microsystems | miekroesistumz | maɪkɹoʊsɪstʌmz |
-| microsystems' | miekroesistumz | maɪkɹoʊsɪstʌmz |
+| microsystems' | miekroesistumz' | maɪkɹoʊsɪstʌmz |
 | microtel | miekroetel | maɪkɹoʊtɛl |
 | microtubule | miekroetoobuel | maɪkɹoʊtuːbjuːl |
 | microtubules | miekroetoobuelz | maɪkɹoʊtuːbjuːlz |
@@ -73641,7 +73641,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | milken | milkun | mɪlkʌn |
 | milken's | milkun's | mɪlkʌnz |
 | milkens | milkunz | mɪlkʌnz |
-| milkens' | milkunz | mɪlkʌnz |
+| milkens' | milkunz' | mɪlkʌnz |
 | milking | milking | mɪlkɪŋ |
 | milkman | milkman | mɪlkmæn |
 | milko | milkoe | mɪlkoʊ |
@@ -73733,7 +73733,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | millon | milun | mɪlʌn |
 | milloy | miloi | mɪlɔɪ |
 | mills | milz | mɪlz |
-| mills' | milz | mɪlz |
+| mills' | milz' | mɪlz |
 | mills's | milzi's | mɪlzɪz |
 | millsap | milsap | mɪlsæp |
 | millsaps | milsaps | mɪlsæps |
@@ -73879,15 +73879,15 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | mineralogist | minyralujist | mɪnɝælʌdʒɪst |
 | mineralogy | minyraalujee | mɪnɝɑlʌdʒiː |
 | minerals | minyrulz | mɪnɝʌlz |
-| minerals' | minyrulz | mɪnɝʌlz |
+| minerals' | minyrulz' | mɪnɝʌlz |
 | minerd | minyrd | mɪnɝd |
 | minero | mineroe | mɪnɛɹoʊ |
 | miners | mienyrz | maɪnɝz |
-| miners' | mienyrz | maɪnɝz |
+| miners' | mienyrz' | maɪnɝz |
 | minerva | minyrvu | mɪnɝvʌ |
 | minervini | meenyrveenee | miːnɝviːniː |
 | mines | mienz | maɪnz |
-| mines' | mienz | maɪnz |
+| mines' | mienz' | maɪnz |
 | minestrone | minustroenee | mɪnʌstɹoʊniː |
 | minesweeper | miensweepyr | maɪnswiːpɝ |
 | minesweepers | miensweepyrz | maɪnswiːpɝz |
@@ -73962,7 +73962,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | ministerial | ministeereeul | mɪnɪstiːɹiːʌl |
 | ministering | ministring | mɪnɪstɹɪŋ |
 | ministers | ministyrz | mɪnɪstɝz |
-| ministers' | ministyrz | mɪnɪstɝz |
+| ministers' | ministyrz' | mɪnɪstɝz |
 | ministership | ministyrship | mɪnɪstɝʃɪp |
 | ministral | minustrul | mɪnʌstɹʌl |
 | ministration | minustraeshun | mɪnʌstɹeɪʃʌn |
@@ -74076,7 +74076,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | minuteman | minutman | mɪnʌtmæn |
 | minutemen | minutmen | mɪnʌtmɛn |
 | minutes | minuts | mɪnʌts |
-| minutes' | minuts | mɪnʌts |
+| minutes' | minuts' | mɪnʌts |
 | minutia | minoosheeu | mɪnuːʃiːʌ |
 | minutiae | minoosheeu | mɪnuːʃiːʌ |
 | minyard | minyaard | mɪnjɑɹd |
@@ -74400,7 +74400,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | missile | misul | mɪsʌl |
 | missile's | misul's | mɪsʌlz |
 | missiles | misulz | mɪsʌlz |
-| missiles' | misulz | mɪsʌlz |
+| missiles' | misulz' | mɪsʌlz |
 | missimer | misimyr | mɪsɪmɝ |
 | missing | mising | mɪsɪŋ |
 | mission | mishun | mɪʃʌn |
@@ -74710,7 +74710,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | modelling | maaduling | mɑdʌlɪŋ |
 | modelo | moedeloe | moʊdɛloʊ |
 | models | maadulz | mɑdʌlz |
-| models' | maadulz | mɑdʌlz |
+| models' | maadulz' | mɑdʌlz |
 | modem | moedum | moʊdʌm |
 | modems | moedumz | moʊdʌmz |
 | moden | moedun | moʊdʌn |
@@ -74983,7 +74983,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | molony | mulonee | mʌlɔːniː |
 | molotov | molutaaf | mɔːlʌtɑf |
 | molpus | molpus | mɔːlpʌs |
-| molpus' | molpus | mɔːlpʌs |
+| molpus' | molpus' | mɔːlpʌs |
 | molpus's | molpusi's | mɔːlpʌsɪs |
 | molson | moelsun | moʊlsʌn |
 | molstad | moelstud | moʊlstʌd |
@@ -75335,7 +75335,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | monthlong | munthlong | mʌnθlɔːŋ |
 | monthly | munthlee | mʌnθliː |
 | months | munths | mʌnθs |
-| months' | maanths | mɑnθs |
+| months' | maanths' | mɑnθs |
 | monti | maantee | mɑntiː |
 | monticciolo | maanteecheeoeloe | mɑntiːtʃiːoʊloʊ |
 | monticello | maantiseloe | mɑntɪsɛloʊ |
@@ -75679,7 +75679,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | morrill | moreel | mɔːɹiːl |
 | morrin | morin | mɔːɹɪn |
 | morris | moris | mɔːɹɪs |
-| morris' | morus | mɔːɹʌs |
+| morris' | morus' | mɔːɹʌs |
 | morris's | morisi's | mɔːɹɪsɪz |
 | morrisett | moruset | mɔːɹʌsɛt |
 | morrisette | moriset | mɔːɹɪsɛt |
@@ -75866,7 +75866,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | motherless | muthyrlis | mʌðɝlɪs |
 | motherly | muthyrlee | mʌðɝliː |
 | mothers | muthyrz | mʌðɝz |
-| mothers' | muthyrz | mʌθɝz |
+| mothers' | muthyrz' | mʌθɝz |
 | mothers-in-law | muthyrzinlaa | mʌðɝzɪnlɑ |
 | mothershead | muthyrzhed | mʌðɝzhɛd |
 | mothershed | muthyrshed | mʌðɝʃɛd |
@@ -75924,7 +75924,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | motorola | moetyroelu | moʊtɝoʊlʌ |
 | motorola's | moetyroelu's | moʊtɝoʊlʌz |
 | motors | moetyrz | moʊtɝz |
-| motors' | moetyrz | moʊtɝz |
+| motors' | moetyrz' | moʊtɝz |
 | motown | moetoun | moʊtaʊn |
 | motown's | moetoun's | moʊtaʊnz |
 | motrin | maatrin | mɑtɹɪn |
@@ -76355,7 +76355,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | multifaceted | multeefasutid | mʌltiːfæsʌtɪd |
 | multifamily | multiefamulee | mʌltaɪfæmʌliː |
 | multifoods | multeefoodz | mʌltiːfuːdz |
-| multifoods' | multeefoodz | mʌltiːfuːdz |
+| multifoods' | multeefoodz' | mʌltiːfuːdz |
 | multifunctional | multeefungkshunul | mʌltiːfʌŋkʃʌnʌl |
 | multilateral | multilatyrul | mʌltɪlætɝʌl |
 | multilateralism | multilatyrulizum | mʌltɪlætɝʌlɪzʌm |
@@ -76681,7 +76681,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | musician | muezishun | mjuːzɪʃʌn |
 | musician's | muezishun's | mjuːzɪʃʌnz |
 | musicians | muezishunz | mjuːzɪʃʌnz |
-| musicians' | muezishunz | mjuːzɪʃʌnz |
+| musicians' | muezishunz' | mjuːzɪʃʌnz |
 | musicianship | muezishunship | mjuːzɪʃʌnʃɪp |
 | musick | muesik | mjuːsɪk |
 | musicland | muezikland | mjuːzɪklænd |
@@ -77300,7 +77300,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | natasha's | nutashu's | nʌtæʃʌz |
 | natcher | nachyr | nætʃɝ |
 | natchez | nachez | nætʃɛz |
-| natchez' | nachez | nætʃɛz |
+| natchez' | nachez' | nætʃɛz |
 | natchez's | nachezi's | nætʃɛzɪz |
 | natchitoches | nakutosh | nækʌtɔːʃ |
 | nate | naet | neɪt |
@@ -77341,7 +77341,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | nationals | nashunulz | næʃʌnʌlz |
 | nationhood | naeshunhuud | neɪʃʌnhʊd |
 | nations | naeshunz | neɪʃʌnz |
-| nations' | naeshunz | neɪʃʌnz |
+| nations' | naeshunz' | neɪʃʌnz |
 | nationsbanc | naeshunzbangk | neɪʃʌnzbæŋk |
 | nationsbanc's | naeshunzbangk's | neɪʃʌnzbæŋks |
 | nationsbank | naeshunzbangk | neɪʃʌnzbæŋk |
@@ -77472,7 +77472,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | nazi's | naatsee's | nɑtsiːz |
 | nazionale | naatseeoenaalee | nɑtsiːoʊnɑliː |
 | nazis | naatseez | nɑtsiːz |
-| nazis' | naatseez | nɑtsiːz |
+| nazis' | naatseez' | nɑtsiːz |
 | nazism | nazizum | næzɪzʌm |
 | nazzaro | naatsaaroe | nɑtsɑɹoʊ |
 | nbc's | enbeesee's | ɛnbiːsiːz |
@@ -77664,7 +77664,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | negotiator | nugoesheeaetyr | nʌɡoʊʃiːeɪtɝ |
 | negotiator's | nigoesheeaetyr's | nɪɡoʊʃiːeɪtɝz |
 | negotiators | nigoesheeaetyrz | nɪɡoʊʃiːeɪtɝz |
-| negotiators' | nugoesheeaetyrz | nʌɡoʊʃiːeɪtɝz |
+| negotiators' | nugoesheeaetyrz' | nʌɡoʊʃiːeɪtɝz |
 | negrete | negreet | nɛɡɹiːt |
 | negri | negree | nɛɡɹiː |
 | negrin | negrin | nɛɡɹɪn |
@@ -77705,7 +77705,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | neighboring | naebyring | neɪbɝɪŋ |
 | neighborly | naebyrlee | neɪbɝliː |
 | neighbors | naebyrz | neɪbɝz |
-| neighbors' | naebyrz | neɪbɝz |
+| neighbors' | naebyrz' | neɪbɝz |
 | neighbour | naebyr | neɪbɝ |
 | neighbour's | naebyr's | neɪbɝz |
 | neighbourhood | naebyrhuud | neɪbɝhʊd |
@@ -77714,7 +77714,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | neighbouring | naebyring | neɪbɝɪŋ |
 | neighbourly | naebyrlee | neɪbɝliː |
 | neighbours | naebyrz | neɪbɝz |
-| neighbours' | naebyrz | neɪbɝz |
+| neighbours' | naebyrz' | neɪbɝz |
 | neighmond | naemund | neɪmʌnd |
 | neighmond's | naemund's | neɪmʌndz |
 | neikirk | neekyrk | niːkɝk |
@@ -77924,7 +77924,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | netherland | nethyrlund | nɛðɝlʌnd |
 | netherlandic | nethyrlandik | nɛðɝlændɪk |
 | netherlands | nethyrlundz | nɛðɝlʌndz |
-| netherlands' | nethyrlandz | nɛθɝlændz |
+| netherlands' | nethyrlandz' | nɛθɝlændz |
 | nethers | nethyrz | nɛðɝz |
 | netherton | nethyrtun | nɛðɝtʌn |
 | netherworld | nethyrwyrld | nɛðɝwɝld |
@@ -77960,7 +77960,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | networked | netwyrkt | nɛtwɝkt |
 | networking | netwyrking | nɛtwɝkɪŋ |
 | networks | netwyrks | nɛtwɝks |
-| networks' | netwyrks | nɛtwɝks |
+| networks' | netwyrks' | nɛtwɝks |
 | networth | netwyrth | nɛtwɝθ |
 | netz | nets | nɛts |
 | netzel | netzul | nɛtzʌl |
@@ -78195,7 +78195,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | newport-news | nooportnooz | nuːpɔːɹtnuːz |
 | newquist | nookwist | nuːkwɪst |
 | news | nooz | nuːz |
-| news' | nooz | nuːz |
+| news' | nooz' | nuːz |
 | news's | noozi's | nuːzɪz |
 | newscast | noozkast | nuːzkæst |
 | newscaster | noozkastyr | nuːzkæstɝ |
@@ -78232,7 +78232,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | newspaperman | noozpaepyrman | nuːzpeɪpɝmæn |
 | newspapermen | noozpapyrmun | nuːzpæpɝmʌn |
 | newspapers | noozpaepyrz | nuːzpeɪpɝz |
-| newspapers' | noozpaepyrz | nuːzpeɪpɝz |
+| newspapers' | noozpaepyrz' | nuːzpeɪpɝz |
 | newspeak | noospeek | nuːspiːk |
 | newspeople | noozpeepul | nuːzpiːpʌl |
 | newsperson | noozpyrsun | nuːzpɝsʌn |
@@ -78342,7 +78342,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | nichol | nikol | nɪkɔːl |
 | nichola | nihoelu | nɪhoʊlʌ |
 | nicholas | nikulus | nɪkʌlʌs |
-| nicholas' | nikulus | nɪkʌlʌs |
+| nicholas' | nikulus' | nɪkʌlʌs |
 | nicholas's | nikulusi's | nɪkʌlʌsɪz |
 | nichole | nikoel | nɪkoʊl |
 | nicholes | nikoelz | nɪkoʊlz |
@@ -78350,7 +78350,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | nicholl | nikul | nɪkʌl |
 | nicholls | nikulz | nɪkʌlz |
 | nichols | nikulz | nɪkʌlz |
-| nichols' | nikulz | nɪkʌlz |
+| nichols' | nikulz' | nɪkʌlz |
 | nichols's | nikulzi's | nɪkʌlzɪz |
 | nicholson | nikulsun | nɪkʌlsʌn |
 | nicholson's | nikulsun's | nɪkʌlsʌnz |
@@ -78539,7 +78539,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | nightmares | nietmerz | naɪtmɛɹz |
 | nightmarish | nietmerish | naɪtmɛɹɪʃ |
 | nights | niets | naɪts |
-| nights' | niets | naɪts |
+| nights' | niets' | naɪts |
 | nightshade | niechaed | naɪtʃeɪd |
 | nightshirt | niechyrt | naɪtʃɝt |
 | nightshirts | niechyrts | naɪtʃɝts |
@@ -78624,12 +78624,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | ninefold | ninfoeld | nɪnfoʊld |
 | niner | nienyr | naɪnɝ |
 | niners | nienyrz | naɪnɝz |
-| niners' | nienyrz | naɪnɝz |
+| niners' | nienyrz' | naɪnɝz |
 | nines | nienz | naɪnz |
 | nineteen | nienteen | naɪntiːn |
 | nineteenth | nienteenth | naɪntiːnθ |
 | nineties | nienteez | naɪntiːz |
-| nineties' | nienteez | naɪntiːz |
+| nineties' | nienteez' | naɪntiːz |
 | ninetieth | nienteeith | naɪntiːɪθ |
 | ninette | ninet | nɪnɛt |
 | ninety | nientee | naɪntiː |
@@ -79052,7 +79052,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | non-sequiturs | naansekwityrz | nɑnsɛkwɪtɝz |
 | non-smoker | naansmoekyr | nɑnsmoʊkɝ |
 | non-smokers | naansmoekyrz | nɑnsmoʊkɝz |
-| non-smokers' | naansmoekyrz | nɑnsmoʊkɝz |
+| non-smokers' | naansmoekyrz' | nɑnsmoʊkɝz |
 | non-smoking | naansmoeking | nɑnsmoʊkɪŋ |
 | non-specific | naanspusifik | nɑnspʌsɪfɪk |
 | non-sporting | naansporting | nɑnspɔːɹtɪŋ |
@@ -79222,7 +79222,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | nonsensical | naansensikul | nɑnsɛnsɪkʌl |
 | nonsmoker | naansmoekyr | nɑnsmoʊkɝ |
 | nonsmokers | naansmoekyrz | nɑnsmoʊkɝz |
-| nonsmokers' | naansmoekyrz | nɑnsmoʊkɝz |
+| nonsmokers' | naansmoekyrz' | nɑnsmoʊkɝz |
 | nonsmoking | naansmoeking | nɑnsmoʊkɪŋ |
 | nonspecific | naanspusifik | nɑnspʌsɪfɪk |
 | nonsporting | naansporting | nɑnspɔːɹtɪŋ |
@@ -79523,7 +79523,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | notepad | noetpad | noʊtpæd |
 | notepads | noetpadz | noʊtpædz |
 | notes | noets | noʊts |
-| notes' | noets | noʊts |
+| notes' | noets' | noʊts |
 | notestine | noetesteenee | noʊtɛstiːniː |
 | notetaker | noettaekyr | noʊtteɪkɝ |
 | notetakers | noettaekyrz | noʊtteɪkɝz |
@@ -79533,7 +79533,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | nothdurft | naathdyrft | nɑθdɝft |
 | nother | nuthyr | nʌðɝ |
 | nothin | naathin | nɑθɪn |
-| nothin' | nuthin | nʌθɪn |
+| nothin' | nuthin' | nʌθɪn |
 | nothing | nuthing | nʌθɪŋ |
 | nothing's | nuthing's | nʌθɪŋz |
 | nothingness | nuthingnus | nʌθɪŋnʌs |
@@ -79795,7 +79795,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | nuno | noonoe | nuːnoʊ |
 | nuno's | noonoe's | nuːnoʊz |
 | nuns | nunz | nʌnz |
-| nuns' | nunz | nʌnz |
+| nuns' | nunz' | nʌnz |
 | nunsense | nunsens | nʌnsɛns |
 | nunziata | noonzeeaatu | nuːnziːɑtʌ |
 | nunziato | noonzeeaatoe | nuːnziːɑtoʊ |
@@ -79821,7 +79821,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | nurseryman | nyrsyreeman | nɝsɝiːmæn |
 | nurserymen | nyrsyreemun | nɝsɝiːmʌn |
 | nurses | nyrsuz | nɝsʌz |
-| nurses' | nyrsuz | nɝsʌz |
+| nurses' | nyrsuz' | nɝsʌz |
 | nursing | nyrsing | nɝsɪŋ |
 | nurture | nyrchyr | nɝtʃɝ |
 | nurtured | nyrchyrd | nɝtʃɝd |
@@ -79929,7 +79929,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | nystrom | niestrum | naɪstɹʌm |
 | nyx | niks | nɪks |
 | o | oe | oʊ |
-| o' | oe | oʊ |
+| o' | oe' | oʊ |
 | o'banion | oebanyun | oʊbænjʌn |
 | o'bannon | oebanun | oʊbænʌn |
 | o'bara | oebaaru | oʊbɑɹʌ |
@@ -80056,7 +80056,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | o. | oe | oʊ |
 | o.'s | oe's | oʊz |
 | o.s | oez | oʊz |
-| o.s' | oez | oʊz |
+| o.s' | oez' | oʊz |
 | oahu | oeaahoo | oʊɑhuː |
 | oak | oek | oʊk |
 | oak's | oek's | oʊks |
@@ -80076,7 +80076,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | oakmont | oekmaant | oʊkmɑnt |
 | oakridge | oekrij | oʊkɹɪdʒ |
 | oaks | oeks | oʊks |
-| oaks' | oeks | oʊks |
+| oaks' | oeks' | oʊks |
 | oakville | oekvil | oʊkvɪl |
 | oakwood | oekwuud | oʊkwʊd |
 | oaky | oekee | oʊkiː |
@@ -80566,14 +80566,14 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | officer | ofisyr | ɔːfɪsɝ |
 | officer's | ofisyr's | ɔːfɪsɝz |
 | officers | ofisyrz | ɔːfɪsɝz |
-| officers' | ofisyrz | ɔːfɪsɝz |
+| officers' | ofisyrz' | ɔːfɪsɝz |
 | offices | ofusuz | ɔːfʌsʌz |
 | official | ufishul | ʌfɪʃʌl |
 | official's | ufishul's | ʌfɪʃʌlz |
 | officialdom | ufishuldum | ʌfɪʃʌldʌm |
 | officially | ufishulee | ʌfɪʃʌliː |
 | officials | ufishulz | ʌfɪʃʌlz |
-| officials' | ufishulz | ʌfɪʃʌlz |
+| officials' | ufishulz' | ʌfɪʃʌlz |
 | officiate | ufisheeaet | ʌfɪʃiːeɪt |
 | officiated | ufisheeaetud | ʌfɪʃiːeɪtʌd |
 | officiates | ufisheeaets | ʌfɪʃiːeɪts |
@@ -80772,7 +80772,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | okura | oekooru | oʊkuːɹʌ |
 | okurowski | oekyroeskee | oʊkɝoʊskiː |
 | okwu | okwoo | ɔːkwuː |
-| ol' | oel | oʊl |
+| ol' | oel' | oʊl |
 | ola | oelu | oʊlʌ |
 | olack | oelak | oʊlæk |
 | olaf | oelaaf | oʊlɑf |
@@ -80970,9 +80970,9 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | olympic | oelimpik | oʊlɪmpɪk |
 | olympic's | oelimpik's | oʊlɪmpɪks |
 | olympics | oelimpiks | oʊlɪmpɪks |
-| olympics' | oelimpiks | oʊlɪmpɪks |
+| olympics' | oelimpiks' | oʊlɪmpɪks |
 | olympus | oelimpus | oʊlɪmpʌs |
-| olympus' | oelimpus | oʊlɪmpʌs |
+| olympus' | oelimpus' | oʊlɪmpʌs |
 | om | om | ɔːm |
 | oma | oemu | oʊmʌ |
 | omaar | oemaar | oʊmɑɹ |
@@ -81034,7 +81034,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | onagers | aanujyrz | ɑnʌdʒɝz |
 | onan | oenun | oʊnʌn |
 | onassis | oenasis | oʊnæsɪs |
-| onassis' | oenasis | oʊnæsɪs |
+| onassis' | oenasis' | oʊnæsɪs |
 | onassis's | oenasisi's | oʊnæsɪsɪs |
 | onate | oenaet | oʊneɪt |
 | onawa | oenaawu | oʊnɑwʌ |
@@ -81079,7 +81079,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | oneok | oeneeaak | oʊniːɑk |
 | onerous | oenyrus | oʊnɝʌs |
 | ones | wunz | wʌnz |
-| ones' | wunz | wʌnz |
+| ones' | wunz' | wʌnz |
 | oneself | wunself | wʌnsɛlf |
 | onetime | wuntiem | wʌntaɪm |
 | onex | wuneks | wʌnɛks |
@@ -81200,13 +81200,13 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | operational | aapyraeshunul | ɑpɝeɪʃʌnʌl |
 | operationally | aapyraeshnulee | ɑpɝeɪʃnʌliː |
 | operations | aapyraeshunz | ɑpɝeɪʃʌnz |
-| operations' | aapyraeshunz | ɑpɝeɪʃʌnz |
+| operations' | aapyraeshunz' | ɑpɝeɪʃʌnz |
 | operative | aapyrutiv | ɑpɝʌtɪv |
 | operatives | aapyrutivz | ɑpɝʌtɪvz |
 | operator | aapyraetyr | ɑpɝeɪtɝ |
 | operator's | aapyraetyr's | ɑpɝeɪtɝz |
 | operators | opyraetyrz | ɔːpɝeɪtɝz |
-| operators' | opyraetyrz | ɔːpɝeɪtɝz |
+| operators' | opyraetyrz' | ɔːpɝeɪtɝz |
 | opere | oeper | oʊpɛɹ |
 | operetta | aapyretu | ɑpɝɛtʌ |
 | operettas | aapyretuz | ɑpɝɛtʌz |
@@ -81256,7 +81256,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | opponent | upoenunt | ʌpoʊnʌnt |
 | opponent's | upoenunt's | ʌpoʊnʌnts |
 | opponents | upoenunts | ʌpoʊnʌnts |
-| opponents' | upoenunts | ʌpoʊnʌnts |
+| opponents' | upoenunts' | ʌpoʊnʌnts |
 | opportune | aapyrtoon | ɑpɝtuːn |
 | opportunism | aapyrtoonizum | ɑpɝtuːnɪzʌm |
 | opportunist | aapyrtoonist | ɑpɝtuːnɪst |
@@ -81324,7 +81324,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | optioned | opshund | ɔːpʃʌnd |
 | optioning | opshuning | ɔːpʃʌnɪŋ |
 | options | opshunz | ɔːpʃʌnz |
-| options' | aapshunz | ɑpʃʌnz |
+| options' | aapshunz' | ɑpʃʌnz |
 | opto | aaptoe | ɑptoʊ |
 | optometric | aaptoemetrik | ɑptoʊmɛtɹɪk |
 | optometrist | aaptaamutrist | ɑptɑmʌtɹɪst |
@@ -81537,7 +81537,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | oriola | oreeoelu | ɔːɹiːoʊlʌ |
 | oriole | oreeoel | ɔːɹiːoʊl |
 | orioles | oreeoelz | ɔːɹiːoʊlz |
-| orioles' | oreeoelz | ɔːɹiːoʊlz |
+| orioles' | oreeoelz' | ɔːɹiːoʊlz |
 | orion | orieun | ɔːɹaɪʌn |
 | orion's | orieun's | ɔːɹaɪʌnz |
 | oriordan | orirdun | ɔːɹɪɹdʌn |
@@ -81561,7 +81561,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | orleanian | orleeuneeun | ɔːɹliːʌniːʌn |
 | orleanians | orleeuneeunz | ɔːɹliːʌniːʌnz |
 | orleans | orleenz | ɔːɹliːnz |
-| orleans' | orleeunz | ɔːɹliːʌnz |
+| orleans' | orleeunz' | ɔːɹliːʌnz |
 | orlena | orlinu | ɔːɹlɪnʌ |
 | orlene | orleen | ɔːɹliːn |
 | orlich | orlik | ɔːɹlɪk |
@@ -81908,7 +81908,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | other's | uthyr's | ʌðɝz |
 | otherness | uthyrnus | ʌðɝnʌs |
 | others | uthyrz | ʌðɝz |
-| others' | uthyrz | ʌðɝz |
+| others' | uthyrz' | ʌðɝz |
 | otherwise | uthyrwiez | ʌðɝwaɪz |
 | otherworldly | uthyrwyrldlee | ʌðɝwɝldliː |
 | othilia | oetheeleeu | oʊθiːliːʌ |
@@ -82182,7 +82182,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | outsider | outsiedyr | aʊtsaɪdɝ |
 | outsider's | outsiedyr's | aʊtsaɪdɝz |
 | outsiders | outsiedyrz | aʊtsaɪdɝz |
-| outsiders' | outsiedyrz | aʊtsaɪdɝz |
+| outsiders' | outsiedyrz' | aʊtsaɪdɝz |
 | outsides | outsiedz | aʊtsaɪdz |
 | outsize | outsiez | aʊtsaɪz |
 | outsized | outsiezd | aʊtsaɪzd |
@@ -82670,7 +82670,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | owner | oenyr | oʊnɝ |
 | owner's | oenyr's | oʊnɝz |
 | owners | oenyrz | oʊnɝz |
-| owners' | oenyrz | oʊnɝz |
+| owners' | oenyrz' | oʊnɝz |
 | ownership | oenyrship | oʊnɝʃɪp |
 | owning | oening | oʊnɪŋ |
 | owns | oenz | oʊnz |
@@ -83050,7 +83050,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | palestinian | palistineeun | pælɪstɪniːʌn |
 | palestinian's | palistineeun's | pælɪstɪniːʌnz |
 | palestinians | palistineeunz | pælɪstɪniːʌnz |
-| palestinians' | palustineeunz | pælʌstɪniːʌnz |
+| palestinians' | palustineeunz' | pælʌstɪniːʌnz |
 | palette | palut | pælʌt |
 | paley | paelee | peɪliː |
 | palfrey | palfree | pælfɹiː |
@@ -83229,7 +83229,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | panelized | panuliezd | pænʌlaɪzd |
 | panella | punelu | pʌnɛlʌ |
 | panels | panulz | pænʌlz |
-| panels' | panulz | pænʌlz |
+| panels' | panulz' | pænʌlz |
 | panem | paenum | peɪnʌm |
 | panepinto | paanepeentoe | pɑnɛpiːntoʊ |
 | panes | paenz | peɪnz |
@@ -83315,7 +83315,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | panther | panthyr | pænθɝ |
 | panther's | panthyr's | pænθɝz |
 | panthers | panthyrz | pænθɝz |
-| panthers' | panthyrz | pænθɝz |
+| panthers' | panthyrz' | pænθɝz |
 | panties | panteez | pæntiːz |
 | panting | panting | pæntɪŋ |
 | pantle | pantul | pæntʌl |
@@ -83389,7 +83389,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | papermate | paepyrmaet | peɪpɝmeɪt |
 | papernick | paepyrnik | peɪpɝnɪk |
 | papers | paepyrz | peɪpɝz |
-| papers' | paepyrz | peɪpɝz |
+| papers' | paepyrz' | peɪpɝz |
 | paperweight | paepyrwaet | peɪpɝweɪt |
 | paperwork | paepyrwyrk | peɪpɝwɝk |
 | paperworker | paepyrwyrkyr | peɪpɝwɝkɝ |
@@ -83566,7 +83566,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | parenti | paarentee | pɑɹɛntiː |
 | parenting | perunting | pɛɹʌntɪŋ |
 | parents | perunts | pɛɹʌnts |
-| parents' | perunts | pɛɹʌnts |
+| parents' | perunts' | pɛɹʌnts |
 | pares | perz | pɛɹz |
 | pareti | peretee | pɛɹɛtiː |
 | pareto | paaretoe | pɑɹɛtoʊ |
@@ -83589,7 +83589,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | parimutuel | perimuechooul | pɛɹɪmjuːtʃuːʌl |
 | paring | pering | pɛɹɪŋ |
 | paris | paris | pæɹɪs |
-| paris' | paris | pæɹɪs |
+| paris' | paris' | pæɹɪs |
 | paris's | perisi's | pɛɹɪsɪz |
 | parise | paariez | pɑɹaɪz |
 | pariseau | parisoe | pæɹɪsoʊ |
@@ -83632,7 +83632,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | parkland | paarkland | pɑɹklænd |
 | parkman | paarkmun | pɑɹkmʌn |
 | parks | paarks | pɑɹks |
-| parks' | paarks | pɑɹks |
+| parks' | paarks' | pɑɹks |
 | parkside | paarksied | pɑɹksaɪd |
 | parkway | paarkwae | pɑɹkweɪ |
 | parlance | paarluns | pɑɹlʌns |
@@ -83765,7 +83765,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | partially | paarshulee | pɑɹʃʌliː |
 | participant | paartisupunt | pɑɹtɪsʌpʌnt |
 | participants | paartisupunts | pɑɹtɪsʌpʌnts |
-| participants' | paartisupunts | pɑɹtɪsʌpʌnts |
+| participants' | paartisupunts' | pɑɹtɪsʌpʌnts |
 | participate | paartisupaet | pɑɹtɪsʌpeɪt |
 | participated | paartisupaetid | pɑɹtɪsʌpeɪtɪd |
 | participates | paartisupaets | pɑɹtɪsʌpeɪts |
@@ -83788,7 +83788,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | partido | paarteedoe | pɑɹtiːdoʊ |
 | partied | paarteed | pɑɹtiːd |
 | parties | paarteez | pɑɹtiːz |
-| parties' | paarteez | pɑɹtiːz |
+| parties' | paarteez' | pɑɹtiːz |
 | partin | paartin | pɑɹtɪn |
 | parting | paarting | pɑɹtɪŋ |
 | partington | paartingtun | pɑɹtɪŋtʌn |
@@ -83807,17 +83807,17 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | partnered | paartnyrd | pɑɹtnɝd |
 | partnering | paartnyring | pɑɹtnɝɪŋ |
 | partners | paartnyrz | pɑɹtnɝz |
-| partners' | paartnyrz | pɑɹtnɝz |
+| partners' | paartnyrz' | pɑɹtnɝz |
 | partnership | paartnyrship | pɑɹtnɝʃɪp |
 | partnership's | paartnyrship's | pɑɹtnɝʃɪps |
 | partnerships | paartnyrships | pɑɹtnɝʃɪps |
-| partnerships' | paartnyrships | pɑɹtnɝʃɪps |
+| partnerships' | paartnyrships' | pɑɹtnɝʃɪps |
 | partney | paartnee | pɑɹtniː |
 | parton | paartun | pɑɹtʌn |
 | partridge | paartrij | pɑɹtɹɪdʒ |
 | partridges | paartrijiz | pɑɹtɹɪdʒɪz |
 | parts | paarts | pɑɹts |
-| parts' | paarts | pɑɹts |
+| parts' | paarts' | pɑɹts |
 | parttime | paarttiem | pɑɹttaɪm |
 | partum | paartum | pɑɹtʌm |
 | party | paartee | pɑɹtiː |
@@ -83900,7 +83900,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | passenger | pasunjyr | pæsʌndʒɝ |
 | passenger's | pasunjyr's | pæsʌndʒɝz |
 | passengers | pasunjyrz | pæsʌndʒɝz |
-| passengers' | pasunjyrz | pæsʌndʒɝz |
+| passengers' | pasunjyrz' | pæsʌndʒɝz |
 | passer | pasyr | pæsɝ |
 | passerby | pasyrbee | pæsɝbiː |
 | passero | paaseroe | pɑsɛɹoʊ |
@@ -84049,7 +84049,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | patient's | paeshunt's | peɪʃʌnts |
 | patiently | paeshuntlee | peɪʃʌntliː |
 | patients | paeshunts | peɪʃʌnts |
-| patients' | paeshunts | peɪʃʌnts |
+| patients' | paeshunts' | peɪʃʌnts |
 | patillo | putiloe | pʌtɪloʊ |
 | patin | patin | pætɪn |
 | patina | puteenu | pʌtiːnʌ |
@@ -84287,10 +84287,10 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | payer | paeyr | peɪɝ |
 | payer's | paeyr's | peɪɝz |
 | payers | paeyrz | peɪɝz |
-| payers' | paeyrz | peɪɝz |
+| payers' | paeyrz' | peɪɝz |
 | payette | paeet | peɪɛt |
 | payeur | paeyr | peɪɝ |
-| payin' | paein | peɪɪn |
+| payin' | paein' | peɪɪn |
 | paying | paeing | peɪɪŋ |
 | payless | paeles | peɪlɛs |
 | payload | paeloed | peɪloʊd |
@@ -84358,10 +84358,10 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | peake | peek | piːk |
 | peaked | peekt | piːkt |
 | peakes | peeks | piːks |
-| peakes' | peeks | piːks |
+| peakes' | peeks' | piːks |
 | peaking | peeking | piːkɪŋ |
 | peaks | peeks | piːks |
-| peaks' | peeks | piːks |
+| peaks' | peeks' | piːks |
 | peal | peel | piːl |
 | peale | peel | piːl |
 | pealer | peelyr | piːlɝ |
@@ -84394,7 +84394,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | peasant | pezunt | pɛzʌnt |
 | peasantry | pezuntree | pɛzʌntɹiː |
 | peasants | pezunts | pɛzʌnts |
-| peasants' | pezunts | pɛzʌnts |
+| peasants' | pezunts' | pɛzʌnts |
 | pease | pees | piːs |
 | peasey | peezee | piːziː |
 | peasey's | peezee's | piːziːz |
@@ -84415,7 +84415,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | pebley | peblee | pɛbliː |
 | pecan | pikan | pɪkæn |
 | pecanins | pekuninz | pɛkʌnɪnz |
-| pecanins' | pekuninz | pɛkʌnɪnz |
+| pecanins' | pekuninz' | pɛkʌnɪnz |
 | pecans | pikanz | pɪkænz |
 | pecci | pechee | pɛtʃiː |
 | pech | pek | pɛk |
@@ -84821,7 +84821,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | penrose | penroez | pɛnɹoʊz |
 | penry | penree | pɛnɹiː |
 | pens | penz | pɛnz |
-| pens' | penz | pɛnz |
+| pens' | penz' | pɛnz |
 | pensacola | pensukoelu | pɛnsʌkoʊlʌ |
 | pense | pens | pɛns |
 | pensinger | pensinjyr | pɛnsɪndʒɝ |
@@ -84876,7 +84876,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | people's | peepul's | piːpʌlz |
 | peopled | peepuld | piːpʌld |
 | peoples | peepulz | piːpʌlz |
-| peoples' | peepulz | piːpʌlz |
+| peoples' | peepulz' | piːpʌlz |
 | peoria | peeoreeu | piːɔːɹiːʌ |
 | peoria's | peeoreeu's | piːɔːɹiːʌz |
 | pep | pep | pɛp |
@@ -84928,7 +84928,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | peralta | pyraaltu | pɝɑltʌ |
 | peras | perus | pɛɹʌs |
 | peratis | pyratis | pɝætɪs |
-| peratis' | pyratis | pɝætɪs |
+| peratis' | pyratis' | pɝætɪs |
 | peraza | pyraazu | pɝɑzʌ |
 | perazzo | pyraazoe | pɝɑzoʊ |
 | perc | pyrk | pɝk |
@@ -84993,7 +84993,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | perennials | pyreneeulz | pɝɛniːʌlz |
 | perera | pyreru | pɝɛɹʌ |
 | peres | perez | pɛɹɛz |
-| peres' | perez | pɛɹɛz |
+| peres' | perez' | pɛɹɛz |
 | peres's | perezi's | pɛɹɛzɪz |
 | perestroika | perustroiku | pɛɹʌstɹɔɪkʌ |
 | peretti | pyretee | pɝɛtiː |
@@ -85028,7 +85028,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | performed | pyrformd | pɝfɔːɹmd |
 | performer | pyrformyr | pɝfɔːɹmɝ |
 | performers | pyrformyrz | pɝfɔːɹmɝz |
-| performers' | pyrformyrz | pɝfɔːɹmɝz |
+| performers' | pyrformyrz' | pɝfɔːɹmɝz |
 | performing | pyrforming | pɝfɔːɹmɪŋ |
 | performs | pyrformz | pɝfɔːɹmz |
 | perfume | pyrfuem | pɝfjuːm |
@@ -85097,7 +85097,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | perkin | pyrkin | pɝkɪn |
 | perking | pyrking | pɝkɪŋ |
 | perkins | pyrkinz | pɝkɪnz |
-| perkins' | pyrkinz | pɝkɪnz |
+| perkins' | pyrkinz' | pɝkɪnz |
 | perkins's | pyrkinzi's | pɝkɪnzɪz |
 | perkinson | pyrkinsun | pɝkɪnsʌn |
 | perko | pyrkoe | pɝkoʊ |
@@ -85823,12 +85823,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | philippic | filipik | fɪlɪpɪk |
 | philippine | filupeen | fɪlʌpiːn |
 | philippines | filupeenz | fɪlʌpiːnz |
-| philippines' | filupeenz | fɪlʌpiːnz |
+| philippines' | filupeenz' | fɪlʌpiːnz |
 | philippino | filupeenoe | fɪlʌpiːnoʊ |
 | philippoussis | filupoosus | fɪlʌpuːsʌs |
 | philipps | filips | fɪlɪps |
 | philips | filips | fɪlɪps |
-| philips' | filips | fɪlɪps |
+| philips' | filips' | fɪlɪps |
 | philips's | filipsi's | fɪlɪpsɪz |
 | philipson | filupsun | fɪlʌpsʌn |
 | philistia | filisteeu | fɪlɪstiːʌ |
@@ -85848,7 +85848,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | phillippi | fuleepee | fʌliːpiː |
 | phillipps | filips | fɪlɪps |
 | phillips | filips | fɪlɪps |
-| phillips' | filips | fɪlɪps |
+| phillips' | filips' | fɪlɪps |
 | phillips's | filipsi's | fɪlɪpsɪz |
 | phillipson | filupsun | fɪlʌpsʌn |
 | phillis | filis | fɪlɪs |
@@ -85996,11 +85996,11 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | physician | fuzishun | fʌzɪʃʌn |
 | physician's | fuzishun's | fʌzɪʃʌnz |
 | physicians | fuzishunz | fʌzɪʃʌnz |
-| physicians' | fizishunz | fɪzɪʃʌnz |
+| physicians' | fizishunz' | fɪzɪʃʌnz |
 | physicist | fizisist | fɪzɪsɪst |
 | physicists | fizisists | fɪzɪsɪsts |
 | physics | fiziks | fɪzɪks |
-| physics' | fisiks | fɪsɪks |
+| physics' | fisiks' | fɪsɪks |
 | physio | fizeeoe | fɪziːoʊ |
 | physiologic | fizeeulaajik | fɪziːʌlɑdʒɪk |
 | physiological | fizeeulaajikul | fɪziːʌlɑdʒɪkʌl |
@@ -86084,7 +86084,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | pickelsimer | pikilsimyr | pɪkɪlsɪmɝ |
 | picken | pikun | pɪkʌn |
 | pickens | pikunz | pɪkʌnz |
-| pickens' | pikunz | pɪkʌnz |
+| pickens' | pikunz' | pɪkʌnz |
 | pickens's | pikunzi's | pɪkʌnzɪz |
 | picker | pikyr | pɪkɝ |
 | pickeral | pikyrul | pɪkɝʌl |
@@ -86145,7 +86145,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | picture's | pikchyr's | pɪktʃɝz |
 | pictured | pikchyrd | pɪktʃɝd |
 | pictures | pikchyrz | pɪktʃɝz |
-| pictures' | pikchyrz | pɪktʃɝz |
+| pictures' | pikchyrz' | pɪktʃɝz |
 | picturesque | pikchyrusk | pɪktʃɝʌsk |
 | picturetel | pikchyrtel | pɪktʃɝtɛl |
 | picturing | pikchyring | pɪktʃɝɪŋ |
@@ -86360,7 +86360,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | piloting | pieluting | paɪlʌtɪŋ |
 | pilotless | pielutlus | paɪlʌtlʌs |
 | pilots | pieluts | paɪlʌts |
-| pilots' | pieluts | paɪlʌts |
+| pilots' | pieluts' | paɪlʌts |
 | pilotte | pilot | pɪlɔːt |
 | pilsner | pilznyr | pɪlznɝ |
 | pilson | pilsun | pɪlsʌn |
@@ -86531,7 +86531,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | pipeline | pieplien | paɪplaɪn |
 | pipeline's | pieplien's | paɪplaɪnz |
 | pipelines | pieplienz | paɪplaɪnz |
-| pipelines' | pieplienz | paɪplaɪnz |
+| pipelines' | pieplienz' | paɪplaɪnz |
 | piper | piepyr | paɪpɝ |
 | pipers | piepyrz | paɪpɝz |
 | pipes | pieps | paɪps |
@@ -86786,7 +86786,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | plaintiff | plaentuf | pleɪntʌf |
 | plaintiff's | plaentif's | pleɪntɪfs |
 | plaintiffs | plaentifs | pleɪntɪfs |
-| plaintiffs' | plaentifs | pleɪntɪfs |
+| plaintiffs' | plaentifs' | pleɪntɪfs |
 | plaintive | plaentiv | pleɪntɪv |
 | plaintively | plaentievlee | pleɪntaɪvliː |
 | plainview | plaenvue | pleɪnvjuː |
@@ -86817,7 +86817,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | planer | plaenyr | pleɪnɝ |
 | planers | plaenyrz | pleɪnɝz |
 | planes | plaenz | pleɪnz |
-| planes' | plaenz | pleɪnz |
+| planes' | plaenz' | pleɪnz |
 | planet | planut | plænʌt |
 | planet's | planut's | plænʌts |
 | planetarium | planutereeum | plænʌtɛɹiːʌm |
@@ -86833,11 +86833,11 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | planner | planyr | plænɝ |
 | planner's | planyr's | plænɝz |
 | planners | planyrz | plænɝz |
-| planners' | planyrz | plænɝz |
+| planners' | planyrz' | plænɝz |
 | planning | planing | plænɪŋ |
 | plano | plaenoe | pleɪnoʊ |
 | plans | planz | plænz |
-| plans' | planz | plænz |
+| plans' | planz' | plænz |
 | plant | plant | plænt |
 | plant's | plant's | plænts |
 | plantain | plantun | plæntʌn |
@@ -86855,7 +86855,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | plantronic | plantraanik | plæntɹɑnɪk |
 | plantronics | plantraaniks | plæntɹɑnɪks |
 | plants | plants | plænts |
-| plants' | plants | plænts |
+| plants' | plants' | plænts |
 | plantz | plants | plænts |
 | plaque | plak | plæk |
 | plaques | plaks | plæks |
@@ -86949,7 +86949,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | player | plaeyr | pleɪɝ |
 | player's | plaeyr's | pleɪɝz |
 | players | plaeyrz | pleɪɝz |
-| players' | plaeyrz | pleɪɝz |
+| players' | plaeyrz' | pleɪɝz |
 | playford | plaefyrd | pleɪfɝd |
 | playful | plaeful | pleɪfʌl |
 | playfully | plaefulee | pleɪfʌliː |
@@ -86958,7 +86958,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | playgrounds | plaegroundz | pleɪɡɹaʊndz |
 | playhouse | plaehous | pleɪhaʊs |
 | playhouses | plaehousiz | pleɪhaʊsɪz |
-| playin' | plaein | pleɪɪn |
+| playin' | plaein' | pleɪɪn |
 | playing | plaeing | pleɪɪŋ |
 | playlist | plaelist | pleɪlɪst |
 | playlists | plaelists | pleɪlɪsts |
@@ -87463,7 +87463,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | policyholder | paaluseehoeldyr | pɑlʌsiːhoʊldɝ |
 | policyholder's | paaluseehoeldyr's | pɑlʌsiːhoʊldɝz |
 | policyholders | paaluseehoeldyrz | pɑlʌsiːhoʊldɝz |
-| policyholders' | paaluseehoeldyrz | pɑlʌsiːhoʊldɝz |
+| policyholders' | paaluseehoeldyrz' | pɑlʌsiːhoʊldɝz |
 | policymaker | paaluseemaekyr | pɑlʌsiːmeɪkɝ |
 | policymakers | paaluseemaekyrz | pɑlʌsiːmeɪkɝz |
 | policymaking | paaluseemaeking | pɑlʌsiːmeɪkɪŋ |
@@ -87497,7 +87497,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | politician | paalutishun | pɑlʌtɪʃʌn |
 | politician's | paalutishun's | pɑlʌtɪʃʌnz |
 | politicians | paalutishunz | pɑlʌtɪʃʌnz |
-| politicians' | paalutishunz | pɑlʌtɪʃʌnz |
+| politicians' | paalutishunz' | pɑlʌtɪʃʌnz |
 | politicization | pulitusuzaeshun | pʌlɪtʌsʌzeɪʃʌn |
 | politicize | pulitisiez | pʌlɪtɪsaɪz |
 | politicized | pulitisiezd | pʌlɪtɪsaɪzd |
@@ -87506,7 +87506,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | politico | pulitikoe | pʌlɪtɪkoʊ |
 | politicos | pulitikoez | pʌlɪtɪkoʊz |
 | politics | paalutiks | pɑlʌtɪks |
-| politics' | paalutiks | pɑlʌtɪks |
+| politics' | paalutiks' | pɑlʌtɪks |
 | politis | paalietis | pɑlaɪtɪs |
 | polito | poeleetoe | poʊliːtoʊ |
 | politte | pulit | pʌlɪt |
@@ -88306,11 +88306,11 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | powerlessness | pouyrlusnus | paʊɝlʌsnʌs |
 | powerpc | pouyrpeesee | paʊɝpiːsiː |
 | powerpcs | pouyrpeeseez | paʊɝpiːsiːz |
-| powerpcs' | pouyrpeeseez | paʊɝpiːsiːz |
+| powerpcs' | pouyrpeeseez' | paʊɝpiːsiːz |
 | powerpoint | pouyrpoint | paʊɝpɔɪnt |
 | powerpoints | pouyrpoints | paʊɝpɔɪnts |
 | powers | pouyrz | paʊɝz |
-| powers' | pouyrz | paʊɝz |
+| powers' | pouyrz' | paʊɝz |
 | powersoft | pouyrsaaft | paʊɝsɑft |
 | powertrain | pourtraen | paʊɹtɹeɪn |
 | powis | pouis | paʊɪs |
@@ -88526,7 +88526,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | predecessor | predusesyr | pɹɛdʌsɛsɝ |
 | predecessor's | predusesyr's | pɹɛdʌsɛsɝz |
 | predecessors | predusesyrz | pɹɛdʌsɛsɝz |
-| predecessors' | predusesyrz | pɹɛdʌsɛsɝz |
+| predecessors' | predusesyrz' | pɹɛdʌsɛsɝz |
 | predefined | preedifiend | pɹiːdɪfaɪnd |
 | predestination | preedestunaeshun | pɹiːdɛstʌneɪʃʌn |
 | predestine | preedestun | pɹiːdɛstʌn |
@@ -88794,7 +88794,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | presidentialist | prezudenshulist | pɹɛzʌdɛnʃʌlɪst |
 | presidentially | presidenshulee | pɹɛsɪdɛnʃʌliː |
 | presidents | prezudents | pɹɛzʌdɛnts |
-| presidents' | prezidunts | pɹɛzɪdʌnts |
+| presidents' | prezidunts' | pɹɛzɪdʌnts |
 | presides | priziedz | pɹɪzaɪdz |
 | presiding | prizieding | pɹɪzaɪdɪŋ |
 | presidio | prisideeoe | pɹɪsɪdiːoʊ |
@@ -88808,7 +88808,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | presplit | preesplit | pɹiːsplɪt |
 | presque-isle | preskiel | pɹɛskaɪl |
 | press | pres | pɹɛs |
-| press' | pres | pɹɛs |
+| press' | pres' | pɹɛs |
 | press's | presi's | pɹɛsɪz |
 | pressboard | presbord | pɹɛsbɔːɹd |
 | pressburger | presbyrgyr | pɹɛsbɝɡɝ |
@@ -89066,7 +89066,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | princely | prinslee | pɹɪnsliː |
 | princes | prinsuz | pɹɪnsʌz |
 | princess | prinses | pɹɪnsɛs |
-| princess' | prinses | pɹɪnsɛs |
+| princess' | prinses' | pɹɪnsɛs |
 | princess's | prinsesi's | pɹɪnsɛsɪz |
 | princesses | prinsesiz | pɹɪnsɛsɪz |
 | princeton | prinstun | pɹɪnstʌn |
@@ -89147,7 +89147,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | prisoner | prizunyr | pɹɪzʌnɝ |
 | prisoner's | prizunyr's | pɹɪzʌnɝz |
 | prisoners | prizunyrz | pɹɪzʌnɝz |
-| prisoners' | prizunyrz | pɹɪzʌnɝz |
+| prisoners' | prizunyrz' | pɹɪzʌnɝz |
 | prisons | prizunz | pɹɪzʌnz |
 | prissie | prisee | pɹɪsiː |
 | prissy | prisee | pɹɪsiː |
@@ -89315,7 +89315,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | producer | prudoosyr | pɹʌduːsɝ |
 | producer's | prudoosyr's | pɹʌduːsɝz |
 | producers | prudoosyrz | pɹʌduːsɝz |
-| producers' | prudoosyrz | pɹʌduːsɝz |
+| producers' | prudoosyrz' | pɹʌduːsɝz |
 | produces | prudoosuz | pɹʌduːsʌz |
 | producing | prudoosing | pɹʌduːsɪŋ |
 | product | praadukt | pɹɑdʌkt |
@@ -89323,12 +89323,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | production | prudukshun | pɹʌdʌkʃʌn |
 | production's | proedukshun's | pɹoʊdʌkʃʌnz |
 | productions | prudukshunz | pɹʌdʌkʃʌnz |
-| productions' | prudukshunz | pɹʌdʌkʃʌnz |
+| productions' | prudukshunz' | pɹʌdʌkʃʌnz |
 | productive | pruduktiv | pɹʌdʌktɪv |
 | productively | pruduktivlee | pɹʌdʌktɪvliː |
 | productivity | proeduktivitee | pɹoʊdʌktɪvɪtiː |
 | products | praadukts | pɹɑdʌkts |
-| products' | produkts | pɹɔːdʌkts |
+| products' | produkts' | pɹɔːdʌkts |
 | prody | poedee | poʊdiː |
 | proehl | proel | pɹoʊl |
 | prof. | prof | pɹɔːf |
@@ -89347,13 +89347,13 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | professionalized | prufeshunuliezd | pɹʌfɛʃʌnʌlaɪzd |
 | professionally | prufeshunulee | pɹʌfɛʃʌnʌliː |
 | professionals | prufeshunulz | pɹʌfɛʃʌnʌlz |
-| professionals' | prufeshunulz | pɹʌfɛʃʌnʌlz |
+| professionals' | prufeshunulz' | pɹʌfɛʃʌnʌlz |
 | professions | prufeshunz | pɹʌfɛʃʌnz |
 | professor | prufesyr | pɹʌfɛsɝ |
 | professor's | prufesyr's | pɹʌfɛsɝz |
 | professorial | proefusoreeul | pɹoʊfʌsɔːɹiːʌl |
 | professors | prufesyrz | pɹʌfɛsɝz |
-| professors' | prufesyrz | pɹʌfɛsɝz |
+| professors' | prufesyrz' | pɹʌfɛsɝz |
 | professorship | prufesyrship | pɹʌfɛsɝʃɪp |
 | professorships | prufesyrships | pɹʌfɛsɝʃɪps |
 | profeta | proefetu | pɹoʊfɛtʌ |
@@ -89414,7 +89414,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | programmers | proegramyrz | pɹoʊɡɹæmɝz |
 | programming | proegraming | pɹoʊɡɹæmɪŋ |
 | programs | proegramz | pɹoʊɡɹæmz |
-| programs' | proegramz | pɹoʊɡɹæmz |
+| programs' | proegramz' | pɹoʊɡɹæmz |
 | progress | prugres | pɹʌɡɹɛs |
 | progressed | prugrest | pɹʌɡɹɛst |
 | progresses | proegresuz | pɹoʊɡɹɛsʌz |
@@ -89449,7 +89449,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | projector | prujektyr | pɹʌdʒɛktɝ |
 | projectors | prujektyrz | pɹʌdʒɛktɝz |
 | projects | prujekts | pɹʌdʒɛkts |
-| projects' | projekts | pɹɔːdʒɛkts |
+| projects' | projekts' | pɹɔːdʒɛkts |
 | prokofiev | praakoefeev | pɹɑkoʊfiːv |
 | prokop | proekup | pɹoʊkʌp |
 | prolactin | proelaktun | pɹoʊlæktʌn |
@@ -89560,7 +89560,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | proper | praapyr | pɹɑpɝ |
 | properly | praapyrlee | pɹɑpɝliː |
 | properties | praapyrteez | pɹɑpɝtiːz |
-| properties' | proepyrteez | pɹoʊpɝtiːz |
+| properties' | proepyrteez' | pɹoʊpɝtiːz |
 | property | praapyrtee | pɹɑpɝtiː |
 | property's | praapyrtee's | pɹɑpɝtiːz |
 | propes | proeps | pɹoʊps |
@@ -89620,7 +89620,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | proration | proeraeshun | pɹoʊɹeɪʃʌn |
 | prorok | proruk | pɹɔːɹʌk |
 | pros | proez | pɹoʊz |
-| pros' | proez | pɹoʊz |
+| pros' | proez' | pɹoʊz |
 | prosaic | proezaeik | pɹoʊzeɪɪk |
 | proscar | proskaar | pɹɔːskɑɹ |
 | prosch | prosh | pɹɔːʃ |
@@ -89643,7 +89643,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | prosecutor's | praasikuetyr's | pɹɑsɪkjuːtɝz |
 | prosecutorial | praasikuetoreeul | pɹɑsɪkjuːtɔːɹiːʌl |
 | prosecutors | praasikuetyrz | pɹɑsɪkjuːtɝz |
-| prosecutors' | praasukuetyrz | pɹɑsʌkjuːtɝz |
+| prosecutors' | praasukuetyrz' | pɹɑsʌkjuːtɝz |
 | prosek | proesek | pɹoʊsɛk |
 | prosekey | proesekee | pɹoʊsɛkiː |
 | proselytize | praasulutiez | pɹɑsʌlʌtaɪz |
@@ -89728,7 +89728,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | protested | prutestid | pɹʌtɛstɪd |
 | protester | proetestyr | pɹoʊtɛstɝ |
 | protesters | proetestyrz | pɹoʊtɛstɝz |
-| protesters' | proetestyrz | pɹoʊtɛstɝz |
+| protesters' | proetestyrz' | pɹoʊtɛstɝz |
 | protesting | prutesting | pɹʌtɛstɪŋ |
 | protestors | proetestyrz | pɹoʊtɛstɝz |
 | protests | proetests | pɹoʊtɛsts |
@@ -90006,7 +90006,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | publication | publikaeshun | pʌblɪkeɪʃʌn |
 | publication's | publikaeshun's | pʌblɪkeɪʃʌnz |
 | publications | publikaeshunz | pʌblɪkeɪʃʌnz |
-| publications' | publikaeshunz | pʌblɪkeɪʃʌnz |
+| publications' | publikaeshunz' | pʌblɪkeɪʃʌnz |
 | publicis | publeesis | pʌbliːsɪs |
 | publicist | publisist | pʌblɪsɪst |
 | publicists | publisists | pʌblɪsɪsts |
@@ -90022,7 +90022,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | publisher | publishyr | pʌblɪʃɝ |
 | publisher's | publishyr's | pʌblɪʃɝz |
 | publishers | publishyrz | pʌblɪʃɝz |
-| publishers' | publishyrz | pʌblɪʃɝz |
+| publishers' | publishyrz' | pʌblɪʃɝz |
 | publishes | publishuz | pʌblɪʃʌz |
 | publishing | publishing | pʌblɪʃɪŋ |
 | publishing's | publishing's | pʌblɪʃɪŋz |
@@ -90251,7 +90251,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | purchaser | pyrchusyr | pɝtʃʌsɝ |
 | purchaser's | pyrchusyr's | pɝtʃʌsɝz |
 | purchasers | pyrchusyrz | pɝtʃʌsɝz |
-| purchasers' | pyrchusyrz | pɝtʃʌsɝz |
+| purchasers' | pyrchusyrz' | pɝtʃʌsɝz |
 | purchases | pyrchusuz | pɝtʃʌsʌz |
 | purchasing | pyrchusing | pɝtʃʌsɪŋ |
 | purdham | pyrdum | pɝdʌm |
@@ -90474,7 +90474,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | pyre | pieyr | paɪɝ |
 | pyrena | pireenu | pɪɹiːnʌ |
 | pyrenees | pirueez | pɪɹʌiːz |
-| pyrenees' | pirueez | pɪɹʌiːz |
+| pyrenees' | pirueez' | pɪɹʌiːz |
 | pyres | pieyrz | paɪɝz |
 | pyrite | pieriet | paɪɹaɪt |
 | pyro | pieroe | paɪɹoʊ |
@@ -90633,7 +90633,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | quarterman | kwortyrmun | kwɔːɹtɝmʌn |
 | quartermaster | kwortyrmastyr | kwɔːɹtɝmæstɝ |
 | quarters | kwortyrz | kwɔːɹtɝz |
-| quarters' | kwortyrz | kwɔːɹtɝz |
+| quarters' | kwortyrz' | kwɔːɹtɝz |
 | quarters's | kwortyr's | kwɔːɹtɝz |
 | quartet | kwortet | kwɔːɹtɛt |
 | quartet's | kwortet's | kwɔːɹtɛts |
@@ -90748,7 +90748,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | questionnaire | kweschuner | kwɛstʃʌnɛɹ |
 | questionnaires | kweschunerz | kwɛstʃʌnɛɹz |
 | questions | kweschunz | kwɛstʃʌnz |
-| questions' | kweschunz | kwɛstʃʌnz |
+| questions' | kweschunz' | kwɛstʃʌnz |
 | questran | kwestran | kwɛstɹæn |
 | questrom | kwestrum | kwɛstɹʌm |
 | quests | kwests | kwɛsts |
@@ -91270,7 +91270,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | raider | raedyr | ɹeɪdɝ |
 | raider's | raedyr's | ɹeɪdɝz |
 | raiders | raedyrz | ɹeɪdɝz |
-| raiders' | raedyrz | ɹeɪdɝz |
+| raiders' | raedyrz' | ɹeɪdɝz |
 | raiding | raeding | ɹeɪdɪŋ |
 | raids | raedz | ɹeɪdz |
 | raiff | raef | ɹeɪf |
@@ -91294,7 +91294,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | railroaded | raelroedid | ɹeɪlɹoʊdɪd |
 | railroading | raelroeding | ɹeɪlɹoʊdɪŋ |
 | railroads | raelroedz | ɹeɪlɹoʊdz |
-| railroads' | raelroedz | ɹeɪlɹoʊdz |
+| railroads' | raelroedz' | ɹeɪlɹoʊdz |
 | rails | raelz | ɹeɪlz |
 | railsback | raelzbak | ɹeɪlzbæk |
 | railtex | raelteks | ɹeɪltɛks |
@@ -91395,7 +91395,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | raleigh | rolee | ɹɔːliː |
 | raleigh's | rolee's | ɹɔːliːz |
 | rales | raelz | ɹeɪlz |
-| rales' | raelz | ɹeɪlz |
+| rales' | raelz' | ɹeɪlz |
 | rales's | raelzi's | ɹeɪlzɪz |
 | raleses | ruleesiz | ɹʌliːsɪz |
 | raley | ralee | ɹæliː |
@@ -91571,7 +91571,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | ranger | raenjyr | ɹeɪndʒɝ |
 | ranger's | raenjyr's | ɹeɪndʒɝz |
 | rangers | raenjyrz | ɹeɪndʒɝz |
-| rangers' | raenjyrz | ɹeɪndʒɝz |
+| rangers' | raenjyrz' | ɹeɪndʒɝz |
 | ranges | raenjuz | ɹeɪndʒʌz |
 | ranging | raenjing | ɹeɪndʒɪŋ |
 | rangoon | ranggoon | ɹæŋɡuːn |
@@ -91775,7 +91775,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | rateliff | ratlif | ɹætlɪf |
 | ratepayer | raetpaeyr | ɹeɪtpeɪɝ |
 | ratepayers | raetpaeyrz | ɹeɪtpeɪɝz |
-| ratepayers' | raetpaeyrz | ɹeɪtpeɪɝz |
+| ratepayers' | raetpaeyrz' | ɹeɪtpeɪɝz |
 | rater | raetyr | ɹeɪtɝ |
 | raters | raetyrz | ɹeɪtɝz |
 | rates | raets | ɹeɪts |
@@ -92050,7 +92050,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | reader's | reedyr's | ɹiːdɝz |
 | readerman | reedyrmun | ɹiːdɝmʌn |
 | readers | reedyrz | ɹiːdɝz |
-| readers' | reedyrz | ɹiːdɝz |
+| readers' | reedyrz' | ɹiːdɝz |
 | readership | reedyrship | ɹiːdɝʃɪp |
 | readied | redeed | ɹɛdiːd |
 | readier | redeeyr | ɹɛdiːɝ |
@@ -92087,7 +92087,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | reaganites | raeguniets | ɹeɪɡʌnaɪts |
 | reaganomics | raegunaamiks | ɹeɪɡʌnɑmɪks |
 | reagans | raegunz | ɹeɪɡʌnz |
-| reagans' | reegunz | ɹiːɡʌnz |
+| reagans' | reegunz' | ɹiːɡʌnz |
 | reagen | reegun | ɹiːɡʌn |
 | reagent | reejunt | ɹiːdʒʌnt |
 | reagents | reejunts | ɹiːdʒʌnts |
@@ -92275,7 +92275,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | rebello | rebeloe | ɹɛbɛloʊ |
 | rebelo | rebeloe | ɹɛbɛloʊ |
 | rebels | rebulz | ɹɛbʌlz |
-| rebels' | rebulz | ɹɛbʌlz |
+| rebels' | rebulz' | ɹɛbʌlz |
 | reber | rebyr | ɹɛbɝ |
 | rebert | rebyrt | ɹɛbɝt |
 | rebholz | rebhoelz | ɹɛbhoʊlz |
@@ -92415,7 +92415,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | recipient | rusipeeunt | ɹʌsɪpiːʌnt |
 | recipient's | risipeeunt's | ɹɪsɪpiːʌnts |
 | recipients | risipeeunts | ɹɪsɪpiːʌnts |
-| recipients' | risipeeunts | ɹɪsɪpiːʌnts |
+| recipients' | risipeeunts' | ɹɪsɪpiːʌnts |
 | reciprocal | risiprukul | ɹɪsɪpɹʌkʌl |
 | reciprocant | reesiprukunt | ɹiːsɪpɹʌkʌnt |
 | reciprocants | reesiprukunts | ɹiːsɪpɹʌkʌnts |
@@ -92555,7 +92555,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | recordings | rikordingz | ɹɪkɔːɹdɪŋz |
 | recordkeeping | rekyrdkeeping | ɹɛkɝdkiːpɪŋ |
 | records | rekyrdz | ɹɛkɝdz |
-| records' | rekyrdz | ɹɛkɝdz |
+| records' | rekyrdz' | ɹɛkɝdz |
 | recore | rekoree | ɹɛkɔːɹiː |
 | recoton | rikotin | ɹɪkɔːtɪn |
 | recount | rikount | ɹɪkaʊnt |
@@ -92791,11 +92791,11 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | redress | ridres | ɹɪdɹɛs |
 | redressing | reedresing | ɹiːdɹɛsɪŋ |
 | reds | redz | ɹɛdz |
-| reds' | redz | ɹɛdz |
+| reds' | redz' | ɹɛdz |
 | redshaw | redshaa | ɹɛdʃɑ |
 | redskin | redskin | ɹɛdskɪn |
 | redskins | redskinz | ɹɛdskɪnz |
-| redskins' | redskinz | ɹɛdskɪnz |
+| redskins' | redskinz' | ɹɛdskɪnz |
 | redstone | redstoen | ɹɛdstoʊn |
 | redstone's | redstoen's | ɹɛdstoʊnz |
 | reduce | rudoos | ɹʌduːs |
@@ -92821,7 +92821,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | reebok's | reebaak's | ɹiːbɑks |
 | reeboks | reebaaks | ɹiːbɑks |
 | reebs | reebz | ɹiːbz |
-| reebs' | reebz | ɹiːbz |
+| reebs' | reebz' | ɹiːbz |
 | reece | rees | ɹiːs |
 | reeche | reech | ɹiːtʃ |
 | reeck | reek | ɹiːk |
@@ -92874,7 +92874,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | reese's | reesi's | ɹiːsɪz |
 | reeser | reesyr | ɹiːsɝ |
 | reesjones | reesjoenz | ɹiːsdʒoʊnz |
-| reesjones' | reesjoenz | ɹiːsdʒoʊnz |
+| reesjones' | reesjoenz' | ɹiːsdʒoʊnz |
 | reesman | reesmun | ɹiːsmʌn |
 | reesor | reesyr | ɹiːsɝ |
 | reestablish | reeistablish | ɹiːɪstæblɪʃ |
@@ -92888,7 +92888,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | reeve | reev | ɹiːv |
 | reever | reevyr | ɹiːvɝ |
 | reeves | reevz | ɹiːvz |
-| reeves' | reevz | ɹiːvz |
+| reeves' | reevz' | ɹiːvz |
 | reeves's | reevzi's | ɹiːvzɪz |
 | reexamination | reeigzamunaeshun | ɹiːɪɡzæmʌneɪʃʌn |
 | reexamine | reeegzamun | ɹiːɛɡzæmʌn |
@@ -92941,7 +92941,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | refiner's | rifienyr's | ɹɪfaɪnɝz |
 | refineries | rifienyreez | ɹɪfaɪnɝiːz |
 | refiners | rifienyrz | ɹɪfaɪnɝz |
-| refiners' | rifienyrz | ɹɪfaɪnɝz |
+| refiners' | rifienyrz' | ɹɪfaɪnɝz |
 | refinery | rifienyree | ɹɪfaɪnɝiː |
 | refinery's | rifienyree's | ɹɪfaɪnɝiːz |
 | refines | rifienz | ɹɪfaɪnz |
@@ -92988,7 +92988,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | reformed | riformd | ɹɪfɔːɹmd |
 | reformer | riformyr | ɹɪfɔːɹmɝ |
 | reformers | riformyrz | ɹɪfɔːɹmɝz |
-| reformers' | riformyrz | ɹɪfɔːɹmɝz |
+| reformers' | riformyrz' | ɹɪfɔːɹmɝz |
 | reforming | riforming | ɹɪfɔːɹmɪŋ |
 | reformist | riformist | ɹɪfɔːɹmɪst |
 | reformists | riformists | ɹɪfɔːɹmɪsts |
@@ -93027,7 +93027,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | refuge's | refueji's | ɹɛfjuːdʒɪz |
 | refugee | refuejee | ɹɛfjuːdʒiː |
 | refugees | refuejeez | ɹɛfjuːdʒiːz |
-| refugees' | refuejeez | ɹɛfjuːdʒiːz |
+| refugees' | refuejeez' | ɹɛfjuːdʒiːz |
 | refuges | refuejiz | ɹɛfjuːdʒɪz |
 | refugio | rufuejeeoe | ɹʌfjuːdʒiːoʊ |
 | refund | rifund | ɹɪfʌnd |
@@ -93172,7 +93172,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | regulator | regyulaetyr | ɹɛɡjʌleɪtɝ |
 | regulator's | regyulaetyr's | ɹɛɡjʌleɪtɝz |
 | regulators | regyulaetyrz | ɹɛɡjʌleɪtɝz |
-| regulators' | regyulaetyrz | ɹɛɡjʌleɪtɝz |
+| regulators' | regyulaetyrz' | ɹɛɡjʌleɪtɝz |
 | regulatory | regyulutoree | ɹɛɡjʌlʌtɔːɹiː |
 | regurgitate | rigyrjutaet | ɹɪɡɝdʒʌteɪt |
 | regwan | regwaan | ɹɛɡwɑn |
@@ -93263,7 +93263,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | reidenbach | riedinbaak | ɹaɪdɪnbɑk |
 | reider | reedyr | ɹiːdɝ |
 | reiders | reedyrz | ɹiːdɝz |
-| reiders' | reedyrz | ɹiːdɝz |
+| reiders' | reedyrz' | ɹiːdɝz |
 | reidinger | riedingyr | ɹaɪdɪŋɝ |
 | reidt | reedt | ɹiːdt |
 | reidy | reedee | ɹiːdiː |
@@ -94034,11 +94034,11 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | reporter | riportyr | ɹɪpɔːɹtɝ |
 | reporter's | riportyr's | ɹɪpɔːɹtɝz |
 | reporters | riportyrz | ɹɪpɔːɹtɝz |
-| reporters' | riportyrz | ɹɪpɔːɹtɝz |
+| reporters' | riportyrz' | ɹɪpɔːɹtɝz |
 | reporting | reeporting | ɹiːpɔːɹtɪŋ |
 | reportorial | repyrtoreeul | ɹɛpɝtɔːɹiːʌl |
 | reports | riports | ɹɪpɔːɹts |
-| reports' | riports | ɹɪpɔːɹts |
+| reports' | riports' | ɹɪpɔːɹts |
 | repos | reepoez | ɹiːpoʊz |
 | reposa | repoesu | ɹɛpoʊsʌ |
 | repose | reepoez | ɹiːpoʊz |
@@ -94066,7 +94066,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | representative | repruzentutiv | ɹɛpɹʌzɛntʌtɪv |
 | representative's | reprizentutiv's | ɹɛpɹɪzɛntʌtɪvz |
 | representatives | repruzentutivz | ɹɛpɹʌzɛntʌtɪvz |
-| representatives' | reprusentutivz | ɹɛpɹʌsɛntʌtɪvz |
+| representatives' | reprusentutivz' | ɹɛpɹʌsɛntʌtɪvz |
 | represented | reprizentid | ɹɛpɹɪzɛntɪd |
 | representing | reprizenting | ɹɛpɹɪzɛntɪŋ |
 | represents | reprizents | ɹɛpɹɪzɛnts |
@@ -94124,7 +94124,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | republican's | reepublikun's | ɹiːpʌblɪkʌnz |
 | republicanism | ripublikunizum | ɹɪpʌblɪkʌnɪzʌm |
 | republicans | ripublikunz | ɹɪpʌblɪkʌnz |
-| republicans' | ripublikunz | ɹɪpʌblɪkʌnz |
+| republicans' | ripublikunz' | ɹɪpʌblɪkʌnz |
 | republicbank | reepublikbangk | ɹiːpʌblɪkbæŋk |
 | republicbank's | reepublikbangk's | ɹiːpʌblɪkbæŋks |
 | republics | reepubliks | ɹiːpʌblɪks |
@@ -94210,7 +94210,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | researched | reesyrcht | ɹiːsɝtʃt |
 | researcher | reesyrchyr | ɹiːsɝtʃɝ |
 | researchers | reesyrchyrz | ɹiːsɝtʃɝz |
-| researchers' | reesyrchyrz | ɹiːsɝtʃɝz |
+| researchers' | reesyrchyrz' | ɹiːsɝtʃɝz |
 | researches | reesyrchiz | ɹiːsɝtʃɪz |
 | researching | reesyrching | ɹiːsɝtʃɪŋ |
 | resection | reesekshun | ɹiːsɛkʃʌn |
@@ -94280,7 +94280,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | resident's | rezidunt's | ɹɛzɪdʌnts |
 | residential | rezidenshul | ɹɛzɪdɛnʃʌl |
 | residents | rezidunts | ɹɛzɪdʌnts |
-| residents' | rezidunts | ɹɛzɪdʌnts |
+| residents' | rezidunts' | ɹɛzɪdʌnts |
 | resides | riziedz | ɹɪzaɪdz |
 | residing | rizieding | ɹɪzaɪdɪŋ |
 | residual | rizijooul | ɹɪzɪdʒuːʌl |
@@ -94340,7 +94340,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | resorted | reesortid | ɹiːsɔːɹtɪd |
 | resorting | reesorting | ɹiːsɔːɹtɪŋ |
 | resorts | reesorts | ɹiːsɔːɹts |
-| resorts' | rizorts | ɹɪzɔːɹts |
+| resorts' | rizorts' | ɹɪzɔːɹts |
 | resound | reesound | ɹiːsaʊnd |
 | resounding | reesounding | ɹiːsaʊndɪŋ |
 | resoundingly | rizoundinglee | ɹɪzaʊndɪŋliː |
@@ -94348,7 +94348,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | resourceful | reesorsful | ɹiːsɔːɹsfʌl |
 | resourcefulness | reesorsfulnus | ɹiːsɔːɹsfʌlnʌs |
 | resources | reesorsiz | ɹiːsɔːɹsɪz |
-| resources' | reesorsiz | ɹiːsɔːɹsɪz |
+| resources' | reesorsiz' | ɹiːsɔːɹsɪz |
 | respawn | reespaan | ɹiːspɑn |
 | respeak | reespeek | ɹiːspiːk |
 | respect | rispekt | ɹɪspɛkt |
@@ -94375,7 +94375,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | responded | rispaandid | ɹɪspɑndɪd |
 | respondent | rispaandunt | ɹɪspɑndʌnt |
 | respondents | rispaandunts | ɹɪspɑndʌnts |
-| respondents' | rispaandunts | ɹɪspɑndʌnts |
+| respondents' | rispaandunts' | ɹɪspɑndʌnts |
 | responder | rispaandyr | ɹɪspɑndɝ |
 | responders | rispaandyrz | ɹɪspɑndɝz |
 | responding | rispaanding | ɹɪspɑndɪŋ |
@@ -94413,7 +94413,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | restauranteur | restraantyr | ɹɛstɹɑntɝ |
 | restauranteurs | restraantyrz | ɹɛstɹɑntɝz |
 | restaurants | restyraants | ɹɛstɝɑnts |
-| restaurants' | restyraants | ɹɛstɝɑnts |
+| restaurants' | restyraants' | ɹɛstɝɑnts |
 | restaurateur | restyrutyr | ɹɛstɝʌtɝ |
 | restaurateurs | restyrutyrz | ɹɛstɝʌtɝz |
 | rested | restud | ɹɛstʌd |
@@ -94504,7 +94504,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | retailer | reetaelyr | ɹiːteɪlɝ |
 | retailer's | reetaelyr's | ɹiːteɪlɝz |
 | retailers | reetaelyrz | ɹiːteɪlɝz |
-| retailers' | reetaelyrz | ɹiːteɪlɝz |
+| retailers' | reetaelyrz' | ɹiːteɪlɝz |
 | retailing | reetaeling | ɹiːteɪlɪŋ |
 | retailing's | reetaeling's | ɹiːteɪlɪŋz |
 | retails | reetaelz | ɹiːteɪlz |
@@ -94562,7 +94562,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | retiree | reetieree | ɹiːtaɪɹiː |
 | retiree's | ritieree's | ɹɪtaɪɹiːz |
 | retirees | reetiereez | ɹiːtaɪɹiːz |
-| retirees' | ritiereez | ɹɪtaɪɹiːz |
+| retirees' | ritiereez' | ɹɪtaɪɹiːz |
 | retirement | reetieyrmunt | ɹiːtaɪɝmʌnt |
 | retirement's | ritiermunt's | ɹɪtaɪɹmʌnts |
 | retirements | ritiermunts | ɹɪtaɪɹmʌnts |
@@ -94649,7 +94649,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | returnees | rityrneez | ɹɪtɝniːz |
 | returning | rityrning | ɹɪtɝnɪŋ |
 | returns | rityrnz | ɹɪtɝnz |
-| returns' | rutyrnz | ɹʌtɝnz |
+| returns' | rutyrnz' | ɹʌtɝnz |
 | retz | rets | ɹɛts |
 | retzer | retzyr | ɹɛtzɝ |
 | retzlaff | retzluf | ɹɛtzlʌf |
@@ -94680,7 +94680,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | reuter | roityr | ɹɔɪtɝ |
 | reuter's | roityr's | ɹɔɪtɝz |
 | reuters | roityrz | ɹɔɪtɝz |
-| reuters' | roityrz | ɹɔɪtɝz |
+| reuters' | roityrz' | ɹɔɪtɝz |
 | reuters's | roityr's | ɹɔɪtɝz |
 | reutgers | roitgyrz | ɹɔɪtɡɝz |
 | reuther | roithyr | ɹɔɪðɝ |
@@ -94894,7 +94894,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | reynaud | raenod | ɹeɪnɔːd |
 | reynold | renuld | ɹɛnʌld |
 | reynolds | renuldz | ɹɛnʌldz |
-| reynolds' | renuldz | ɹɛnʌldz |
+| reynolds' | renuldz' | ɹɛnʌldz |
 | reynolds's | renuldzi's | ɹɛnʌldzɪz |
 | reynoldson | raenoeldsun | ɹeɪnoʊldsʌn |
 | reynosa | reenoesu | ɹiːnoʊsʌ |
@@ -95066,7 +95066,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | richard | richyrd | ɹɪtʃɝd |
 | richard's | richyrd's | ɹɪtʃɝdz |
 | richards | richyrdz | ɹɪtʃɝdz |
-| richards' | richyrdz | ɹɪtʃɝdz |
+| richards' | richyrdz' | ɹɪtʃɝdz |
 | richards's | richyrdzi's | ɹɪtʃɝdzɪz |
 | richardson | richyrdsun | ɹɪtʃɝdsʌn |
 | richardson's | richyrdsun's | ɹɪtʃɝdsʌnz |
@@ -95139,7 +95139,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | rickie | rikee | ɹɪkiː |
 | ricklefs | riklifs | ɹɪklɪfs |
 | rickles | rikulz | ɹɪkʌlz |
-| rickles' | rikulz | ɹɪkʌlz |
+| rickles' | rikulz' | ɹɪkʌlz |
 | rickman | rikmun | ɹɪkmʌn |
 | rickner | riknyr | ɹɪknɝ |
 | ricks | riks | ɹɪks |
@@ -95228,7 +95228,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | rieder | reedyr | ɹiːdɝ |
 | riederer | reedyryr | ɹiːdɝɝ |
 | rieders | reedyrz | ɹiːdɝz |
-| rieders' | reedyrz | ɹiːdɝz |
+| rieders' | reedyrz' | ɹiːdɝz |
 | riedesel | reedisul | ɹiːdɪsʌl |
 | riedl | reedul | ɹiːdʌl |
 | riedlinger | reedlingyr | ɹiːdlɪŋɝ |
@@ -95349,7 +95349,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | rightness | rietnus | ɹaɪtnʌs |
 | righto | rietoe | ɹaɪtoʊ |
 | rights | riets | ɹaɪts |
-| rights' | riets | ɹaɪts |
+| rights' | riets' | ɹaɪts |
 | rightward | rietwyrd | ɹaɪtwɝd |
 | rightwing | rietwing | ɹaɪtwɪŋ |
 | righty | rietee | ɹaɪtiː |
@@ -95484,7 +95484,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | rintel | rintel | ɹɪntɛl |
 | rintel's | rintel's | ɹɪntɛlz |
 | rintels | rintelz | ɹɪntɛlz |
-| rintels' | rintelz | ɹɪntɛlz |
+| rintels' | rintelz' | ɹɪntɛlz |
 | rio | reeoe | ɹiːoʊ |
 | rio's | reeoe's | ɹiːoʊz |
 | rio-de-janeiro | reeoedeejuneroe | ɹiːoʊdiːdʒʌnɛɹoʊ |
@@ -95503,7 +95503,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | rioting | rieuting | ɹaɪʌtɪŋ |
 | riotous | rieutus | ɹaɪʌtʌs |
 | riots | rieuts | ɹaɪʌts |
-| riots' | rieuts | ɹaɪʌts |
+| riots' | rieuts' | ɹaɪʌts |
 | rioux | roo | ɹuː |
 | rip | rip | ɹɪp |
 | ripa | reepu | ɹiːpʌ |
@@ -95662,7 +95662,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | rivalries | rievulreez | ɹaɪvʌlɹiːz |
 | rivalry | rievulree | ɹaɪvʌlɹiː |
 | rivals | rievulz | ɹaɪvʌlz |
-| rivals' | rievulz | ɹaɪvʌlz |
+| rivals' | rievulz' | ɹaɪvʌlz |
 | rivard | rivyrd | ɹɪvɝd |
 | rivas | reevaaz | ɹiːvɑz |
 | riven | rivun | ɹɪvʌn |
@@ -95815,7 +95815,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | roberti | rubyrtee | ɹʌbɝtiː |
 | roberto | rubertoe | ɹʌbɛɹtoʊ |
 | roberts | raabyrts | ɹɑbɝts |
-| roberts' | raabyrts | ɹɑbɝts |
+| roberts' | raabyrts' | ɹɑbɝts |
 | roberts's | raabyrtsi's | ɹɑbɝtsɪz |
 | robertshaw | raabyrtshaa | ɹɑbɝtʃɑ |
 | robertson | raabyrtsun | ɹɑbɝtsʌn |
@@ -95839,12 +95839,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | robinhood | raabinhuud | ɹɑbɪnhʊd |
 | robinia | roebeeneeu | ɹoʊbiːniːʌ |
 | robins | raabunz | ɹɑbʌnz |
-| robins' | raabunz | ɹɑbʌnz |
+| robins' | raabunz' | ɹɑbʌnz |
 | robins's | raabunzi's | ɹɑbʌnzɪz |
 | robinson | raabunsun | ɹɑbʌnsʌn |
 | robinson's | raabunsun's | ɹɑbʌnsʌnz |
 | robinsons | raabunsunz | ɹɑbʌnsʌnz |
-| robinsons' | raabunsunz | ɹɑbʌnsʌnz |
+| robinsons' | raabunsunz' | ɹɑbʌnsʌnz |
 | robishaw | raabishaa | ɹɑbɪʃɑ |
 | robison | raabisun | ɹɑbɪsʌn |
 | robitaille | raabitael | ɹɑbɪteɪl |
@@ -95938,7 +95938,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | rockhold | raakhoeld | ɹɑkhoʊld |
 | rockholt | raakhoelt | ɹɑkhoʊlt |
 | rockies | raakeez | ɹɑkiːz |
-| rockin' | raakin | ɹɑkɪn |
+| rockin' | raakin' | ɹɑkɪn |
 | rocking | raaking | ɹɑkɪŋ |
 | rockingham | raakingham | ɹɑkɪŋhæm |
 | rockland | raaklund | ɹɑklʌnd |
@@ -96102,7 +96102,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | roger's | raajyr's | ɹɑdʒɝz |
 | rogernomics | roegyrnaamiks | ɹoʊɡɝnɑmɪks |
 | rogers | raajyrz | ɹɑdʒɝz |
-| rogers' | raajyrz | ɹɑdʒɝz |
+| rogers' | raajyrz' | ɹɑdʒɝz |
 | rogers's | raajyrzi's | ɹɑdʒɝzɪz |
 | rogerson | raagyrsun | ɹɑɡɝsʌn |
 | roget | roezjae | ɹoʊʒeɪ |
@@ -96226,12 +96226,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | rollicking | raaliking | ɹɑlɪkɪŋ |
 | rollie | roelee | ɹoʊliː |
 | rollin | raalin | ɹɑlɪn |
-| rollin' | roelin | ɹoʊlɪn |
+| rollin' | roelin' | ɹoʊlɪn |
 | rolling | roeling | ɹoʊlɪŋ |
 | rollinger | roelingyr | ɹoʊlɪŋɝ |
 | rollings | roelingz | ɹoʊlɪŋz |
 | rollins | raalinz | ɹɑlɪnz |
-| rollins' | raalinz | ɹɑlɪnz |
+| rollins' | raalinz' | ɹɑlɪnz |
 | rollins's | raalinzi's | ɹɑlɪnzɪz |
 | rollinson | raalinsun | ɹɑlɪnsʌn |
 | rollison | raalisun | ɹɑlɪsʌn |
@@ -96611,7 +96611,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | rosol | roesol | ɹoʊsɔːl |
 | rospatch | rospach | ɹɔːspætʃ |
 | ross | ros | ɹɔːs |
-| ross' | raas | ɹɑs |
+| ross' | raas' | ɹɑs |
 | ross's | raasi's | ɹɑsɪz |
 | rossa | roesu | ɹoʊsʌ |
 | rossano | roesaanoe | ɹoʊsɑnoʊ |
@@ -96918,7 +96918,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | royall | roiul | ɹɔɪʌl |
 | royally | roiulee | ɹɔɪʌliː |
 | royals | roiulz | ɹɔɪʌlz |
-| royals' | roiulz | ɹɔɪʌlz |
+| royals' | roiulz' | ɹɔɪʌlz |
 | royalties | roiulteez | ɹɔɪʌltiːz |
 | royalty | roiultee | ɹɔɪʌltiː |
 | roybal | roibul | ɹɔɪbʌl |
@@ -97314,7 +97314,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | runner's | runyr's | ɹʌnɝz |
 | runner-up | runyrup | ɹʌnɝʌp |
 | runners | runyrz | ɹʌnɝz |
-| runnin' | runin | ɹʌnɪn |
+| runnin' | runin' | ɹʌnɪn |
 | running | runing | ɹʌnɪŋ |
 | runnings | runingz | ɹʌnɪŋz |
 | runnion | runyun | ɹʌnjʌn |
@@ -97411,7 +97411,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | russian | rushun | ɹʌʃʌn |
 | russian's | rushun's | ɹʌʃʌnz |
 | russians | rushunz | ɹʌʃʌnz |
-| russians' | rushunz | ɹʌʃʌnz |
+| russians' | rushunz' | ɹʌʃʌnz |
 | russification | rusufukaeshun | ɹʌsʌfʌkeɪʃʌn |
 | russified | rusufied | ɹʌsʌfaɪd |
 | russin | rusin | ɹʌsɪn |
@@ -97456,7 +97456,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | rutger | rutgyr | ɹʌtɡɝ |
 | rutger's | rutgyr's | ɹʌtɡɝz |
 | rutgers | rutgyrz | ɹʌtɡɝz |
-| rutgers' | rutgyrz | ɹʌtɡɝz |
+| rutgers' | rutgyrz' | ɹʌtɡɝz |
 | ruth | rooth | ɹuːθ |
 | ruth's | rooth's | ɹuːθs |
 | ruth-ann | roothan | ɹuːθæn |
@@ -97619,7 +97619,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sabatista | saabuteestu | sɑbʌtiːstʌ |
 | sabatista's | saabuteestu's | sɑbʌtiːstʌz |
 | sabatistas | saabuteestuz | sɑbʌtiːstʌz |
-| sabatistas' | saabuteestuz | sɑbʌtiːstʌz |
+| sabatistas' | saabuteestuz' | sɑbʌtiːstʌz |
 | sabatka | saabaatku | sɑbɑtkʌ |
 | sabato | saabaatoe | sɑbɑtoʊ |
 | sabaudia | subodeeu | sʌbɔːdiːʌ |
@@ -97685,7 +97685,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sachi | sachee | sætʃiː |
 | sachin | sachun | sætʃʌn |
 | sachs | saks | sæks |
-| sachs' | saks | sæks |
+| sachs' | saks' | sæks |
 | sachs's | saksi's | sæksɪz |
 | sachse | sachs | sætʃs |
 | sacilor | sasulyr | sæsʌlɝ |
@@ -97877,7 +97877,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sailor | saelyr | seɪlɝ |
 | sailor's | saelyr's | seɪlɝz |
 | sailors | saelyrz | seɪlɝz |
-| sailors' | saelyrz | seɪlɝz |
+| sailors' | saelyrz' | seɪlɝz |
 | sails | saelz | seɪlz |
 | sain | saen | seɪn |
 | sainato | sunaatoe | sʌnɑtoʊ |
@@ -97891,7 +97891,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sainthood | saenthuud | seɪnthʊd |
 | saintly | saentlee | seɪntliː |
 | saints | saents | seɪnts |
-| saints' | saents | seɪnts |
+| saints' | saents' | seɪnts |
 | sainz | saenz | seɪnz |
 | saipan | saepun | seɪpʌn |
 | saipan's | saepun's | seɪpʌnz |
@@ -97990,7 +97990,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | salemme | salim | sælɪm |
 | salerno | sulernoe | sʌlɛɹnoʊ |
 | sales | saelz | seɪlz |
-| sales' | saelz | seɪlz |
+| sales' | saelz' | seɪlz |
 | salesforce | saelzfors | seɪlzfɔːɹs |
 | salesman | saelzmun | seɪlzmʌn |
 | salesman's | saelzmun's | seɪlzmʌnz |
@@ -98013,7 +98013,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | salin | saaleen | sɑliːn |
 | salina | suleenu | sʌliːnʌ |
 | salinas | suleenus | sʌliːnʌs |
-| salinas' | suleenus | sʌliːnʌs |
+| salinas' | suleenus' | sʌliːnʌs |
 | salinas's | suleenusi's | sʌliːnʌsɪz |
 | saline | suleen | sʌliːn |
 | saling | saeling | seɪlɪŋ |
@@ -98243,7 +98243,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sampling | sampling | sæmplɪŋ |
 | samplings | samplingz | sæmplɪŋz |
 | sampras | samprus | sæmpɹʌs |
-| sampras' | samprus | sæmpɹʌs |
+| sampras' | samprus' | sæmpɹʌs |
 | sampras's | samprusi's | sæmpɹʌsɪz |
 | sampre | sampree | sæmpɹiː |
 | sampsel | sampsul | sæmpsʌl |
@@ -98296,7 +98296,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sanctioned | sangkshund | sæŋkʃʌnd |
 | sanctioning | sangkshuning | sæŋkʃʌnɪŋ |
 | sanctions | sangkshunz | sæŋkʃʌnz |
-| sanctions' | sangkshunz | sæŋkʃʌnz |
+| sanctions' | sangkshunz' | sæŋkʃʌnz |
 | sanctity | sangktitee | sæŋktɪtiː |
 | sanctuaries | sangkchooereez | sæŋktʃuːɛɹiːz |
 | sanctuary | sangkchooeree | sæŋktʃuːɛɹiː |
@@ -98354,7 +98354,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sanding | sanding | sændɪŋ |
 | sandinista | sandinistu | sændɪnɪstʌ |
 | sandinistas | sandineestuz | sændɪniːstʌz |
-| sandinistas' | sandineestuz | sændɪniːstʌz |
+| sandinistas' | sandineestuz' | sændɪniːstʌz |
 | sandino | sandeenoe | sændiːnoʊ |
 | sandino's | sandeenoe's | sændiːnoʊz |
 | sandler | sandlyr | sændlɝ |
@@ -98791,7 +98791,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | saudia | soudeeu | saʊdiːʌ |
 | saudiization | soueeizaeshun | saʊiːɪzeɪʃʌn |
 | saudis | soudeez | saʊdiːz |
-| saudis' | soudeez | saʊdiːz |
+| saudis' | soudeez' | saʊdiːz |
 | sauer | souyr | saʊɝ |
 | sauerkraut | souyrkrout | saʊɝkɹaʊt |
 | sauers | souyrz | saʊɝz |
@@ -98812,7 +98812,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sauna | sonu | sɔːnʌ |
 | saunas | sonuz | sɔːnʌz |
 | saunders | sondyrz | sɔːndɝz |
-| saunders' | sondyrz | sɔːndɝz |
+| saunders' | sondyrz' | sɔːndɝz |
 | saunders's | sondyrzi's | sɔːndɝzɪz |
 | saunderson | sondyrsun | sɔːndɝsʌn |
 | saundra | sondru | sɔːndɹʌ |
@@ -98887,7 +98887,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | savina | suveenu | sʌviːnʌ |
 | saving | saeving | seɪvɪŋ |
 | savings | saevingz | seɪvɪŋz |
-| savings' | saevingz | seɪvɪŋz |
+| savings' | saevingz' | seɪvɪŋz |
 | savings's | saeving's | seɪvɪŋz |
 | savini | saaveenee | sɑviːniː |
 | savino | saaveenoe | sɑviːnoʊ |
@@ -98969,7 +98969,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sayer | saeyr | seɪɝ |
 | sayers | saeyrz | seɪɝz |
 | sayiid | sieid | saɪɪd |
-| sayin' | saein | seɪɪn |
+| sayin' | saein' | seɪɪn |
 | saying | saeing | seɪɪŋ |
 | sayings | saeingz | seɪɪŋz |
 | sayito | sieeetoe | saɪiːtoʊ |
@@ -99654,7 +99654,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | schneiderman | shniedyrmun | ʃnaɪdɝmʌn |
 | schneiderman's | shniedyrmun's | ʃnaɪdɝmʌnz |
 | schneiders | shniedyrz | ʃnaɪdɝz |
-| schneiders' | shniedyrz | ʃnaɪdɝz |
+| schneiders' | shniedyrz' | ʃnaɪdɝz |
 | schneidewind | shnieduwind | ʃnaɪdʌwɪnd |
 | schneidewind's | shnieduwind's | ʃnaɪdʌwɪndz |
 | schneier | shnieyr | ʃnaɪɝ |
@@ -99790,7 +99790,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | schoolmates | skoolmaets | skuːlmeɪts |
 | schoolroom | skoolroom | skuːlɹuːm |
 | schools | skoolz | skuːlz |
-| schools' | skoolz | skuːlz |
+| schools' | skoolz' | skuːlz |
 | schoolteacher | skoolteechyr | skuːltiːtʃɝ |
 | schoolteachers | skoolteechyrz | skuːltiːtʃɝz |
 | schooltime | skooltiem | skuːltaɪm |
@@ -100103,7 +100103,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | science's | sieunsi's | saɪʌnsɪz |
 | science-fiction | sieunsfikshun | saɪʌnsfɪkʃʌn |
 | sciences | sieunsuz | saɪʌnsʌz |
-| sciences' | sieunsiz | saɪʌnsɪz |
+| sciences' | sieunsiz' | saɪʌnsɪz |
 | scientific | sieuntifik | saɪʌntɪfɪk |
 | scientific's | sieuntifik's | saɪʌntɪfɪks |
 | scientifically | sieuntifikulee | saɪʌntɪfɪkʌliː |
@@ -100111,7 +100111,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | scientist | sieuntist | saɪʌntɪst |
 | scientist's | sieuntist's | saɪʌntɪsts |
 | scientists | sientists | saɪntɪsts |
-| scientists' | sieuntists | saɪʌntɪsts |
+| scientists' | sieuntists' | saɪʌntɪsts |
 | scientologist | sieuntaalujust | saɪʌntɑlʌdʒʌst |
 | scientologists | sieuntaalujusts | saɪʌntɑlʌdʒʌsts |
 | scientology | sieuntaalujee | saɪʌntɑlʌdʒiː |
@@ -100515,7 +100515,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | seagram | seegrum | siːɡɹʌm |
 | seagram's | seegrum's | siːɡɹʌmz |
 | seagrams | seegrumz | siːɡɹʌmz |
-| seagrams' | seegrumz | siːɡɹʌmz |
+| seagrams' | seegrumz' | siːɡɹʌmz |
 | seagrave | seegraev | siːɡɹeɪv |
 | seagraves | seegraevz | siːɡɹeɪvz |
 | seagren | seegren | siːɡɹɛn |
@@ -100593,7 +100593,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | searles | syrlz | sɝlz |
 | searls | syrlz | sɝlz |
 | sears | sirz | sɪɹz |
-| sears' | sirz | sɪɹz |
+| sears' | sirz' | sɪɹz |
 | sears's | sir's | sɪɹz |
 | searson | syrsun | sɝsʌn |
 | seas | seez | siːz |
@@ -100708,7 +100708,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | secretarial | sekrutereeul | sɛkɹʌtɛɹiːʌl |
 | secretariat | sekritereeut | sɛkɹɪtɛɹiːʌt |
 | secretaries | sekrutereez | sɛkɹʌtɛɹiːz |
-| secretaries' | sekritereez | sɛkɹɪtɛɹiːz |
+| secretaries' | sekritereez' | sɛkɹɪtɛɹiːz |
 | secretary | sekruteree | sɛkɹʌtɛɹiː |
 | secretary's | sekruteree's | sɛkɹʌtɛɹiːz |
 | secrete | sikreet | sɪkɹiːt |
@@ -100749,7 +100749,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | secures | sikyuurz | sɪkjʊɹz |
 | securing | sikyuuring | sɪkjʊɹɪŋ |
 | securities | sikyuuruteez | sɪkjʊɹʌtiːz |
-| securities' | sikyuuruteez | sɪkjʊɹʌtiːz |
+| securities' | sikyuuruteez' | sɪkjʊɹʌtiːz |
 | securitization | sikyuurutuzaeshun | sɪkjʊɹʌtʌzeɪʃʌn |
 | securitize | sikyuurutiez | sɪkjʊɹʌtaɪz |
 | securitized | sikyuurutiezd | sɪkjʊɹʌtaɪzd |
@@ -101053,7 +101053,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | selenite | seliniet | sɛlɪnaɪt |
 | selenium | suleeneeum | sʌliːniːʌm |
 | seles | seles | sɛlɛs |
-| seles' | seles | sɛlɛs |
+| seles' | seles' | sɛlɛs |
 | seley | seelee | siːliː |
 | self | self | sɛlf |
 | self's | self's | sɛlfs |
@@ -101126,7 +101126,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | selia | seleeu | sɛliːʌ |
 | selie | selee | sɛliː |
 | selies | seleez | sɛliːz |
-| selies' | seleez | sɛliːz |
+| selies' | seleez' | sɛliːz |
 | selig | selig | sɛlɪɡ |
 | seliga | seligu | sɛlɪɡʌ |
 | seliger | seligyr | sɛlɪɡɝ |
@@ -101159,7 +101159,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | seller | selyr | sɛlɝ |
 | seller's | selyr's | sɛlɝz |
 | sellers | selyrz | sɛlɝz |
-| sellers' | selyrz | sɛlɝz |
+| sellers' | selyrz' | sɛlɝz |
 | selley | selee | sɛliː |
 | sellick | selik | sɛlɪk |
 | sellier | selyyr | sɛljɝ |
@@ -101291,7 +101291,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | senatore | senaatoree | sɛnɑtɔːɹiː |
 | senatorial | senutoreeul | sɛnʌtɔːɹiːʌl |
 | senators | senutyrz | sɛnʌtɝz |
-| senators' | senutyrz | sɛnʌtɝz |
+| senators' | senutyrz' | sɛnʌtɝz |
 | send | send | sɛnd |
 | sendak | sendak | sɛndæk |
 | sendawal | sendaawul | sɛndɑwʌl |
@@ -101501,7 +101501,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | serbo-croatia | syrboekroeaeshu | sɝboʊkɹoʊeɪʃʌ |
 | serbo-croatian | syrboekroeaeshun | sɝboʊkɹoʊeɪʃʌn |
 | serbs | syrbz | sɝbz |
-| serbs' | syrbz | sɝbz |
+| serbs' | syrbz' | sɝbz |
 | serbska | syrbsku | sɝbskʌ |
 | serco | syrkoe | sɝkoʊ |
 | serda | serdu | sɛɹdʌ |
@@ -101540,7 +101540,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | serialized | sireeuliezd | sɪɹiːʌlaɪzd |
 | serials | sireeulz | sɪɹiːʌlz |
 | series | sireez | sɪɹiːz |
-| series' | sireez | sɪɹiːz |
+| series' | sireez' | sɪɹiːz |
 | serilda | syreeldu | sɝiːldʌ |
 | serino | syreenoe | sɝiːnoʊ |
 | serio | seereeoe | siːɹiːoʊ |
@@ -101593,7 +101593,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | servan | syrvun | sɝvʌn |
 | servant | syrvunt | sɝvʌnt |
 | servants | syrvunts | sɝvʌnts |
-| servants' | syrvunts | sɝvʌnts |
+| servants' | syrvunts' | sɝvʌnts |
 | serve | syrv | sɝv |
 | served | syrvd | sɝvd |
 | servello | syrveloe | sɝvɛloʊ |
@@ -101610,7 +101610,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | servicemen's | syrvismen's | sɝvɪsmɛnz |
 | servicer | syrvisyr | sɝvɪsɝ |
 | services | syrvisiz | sɝvɪsɪz |
-| services' | syrvisiz | sɝvɪsɪz |
+| services' | syrvisiz' | sɝvɪsɪz |
 | servicing | syrvising | sɝvɪsɪŋ |
 | servico | syrvikoe | sɝvɪkoʊ |
 | servidio | syrveedeeoe | sɝviːdiːoʊ |
@@ -101638,7 +101638,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | session | seshun | sɛʃʌn |
 | session's | seshun's | sɛʃʌnz |
 | sessions | seshunz | sɛʃʌnz |
-| sessions' | seshunz | sɛʃʌnz |
+| sessions' | seshunz' | sɛʃʌnz |
 | sessler | seslyr | sɛslɝ |
 | sessoms | sesumz | sɛsʌmz |
 | sessums | sesumz | sɛsʌmz |
@@ -101679,7 +101679,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | settlemyre | setulmier | sɛtʌlmaɪɹ |
 | settler | setulyr | sɛtʌlɝ |
 | settlers | setlyrz | sɛtlɝz |
-| settlers' | setlyrz | sɛtlɝz |
+| settlers' | setlyrz' | sɛtlɝz |
 | settles | setulz | sɛtʌlz |
 | settling | setuling | sɛtʌlɪŋ |
 | settsu | setsoo | sɛtsuː |
@@ -102054,7 +102054,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | shareholder | sherhoeldyr | ʃɛɹhoʊldɝ |
 | shareholder's | sherhoeldyr's | ʃɛɹhoʊldɝz |
 | shareholders | sherhoeldyrz | ʃɛɹhoʊldɝz |
-| shareholders' | sherhoeldyrz | ʃɛɹhoʊldɝz |
+| shareholders' | sherhoeldyrz' | ʃɛɹhoʊldɝz |
 | shareholding | sherhoelding | ʃɛɹhoʊldɪŋ |
 | shareholdings | sherhoeldingz | ʃɛɹhoʊldɪŋz |
 | sharell | shurel | ʃʌɹɛl |
@@ -102062,7 +102062,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | shareowners | sheroenyrz | ʃɛɹoʊnɝz |
 | sharer | sheryr | ʃɛɹɝ |
 | shares | sherz | ʃɛɹz |
-| shares' | sherz | ʃɛɹz |
+| shares' | sherz' | ʃɛɹz |
 | shareware | sherwer | ʃɛɹwɛɹ |
 | sharf | shaarf | ʃɑɹf |
 | sharfman | shaarfmun | ʃɑɹfmʌn |
@@ -102634,7 +102634,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | shipps | ships | ʃɪps |
 | shippy | shipee | ʃɪpiː |
 | ships | ships | ʃɪps |
-| ships' | ships | ʃɪps |
+| ships' | ships' | ʃɪps |
 | shipshape | shipshaep | ʃɪpʃeɪp |
 | shipton | shiptun | ʃɪptʌn |
 | shipwash | shipwaash | ʃɪpwɑʃ |
@@ -102797,7 +102797,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | shooter | shootyr | ʃuːtɝ |
 | shooter's | shootyr's | ʃuːtɝz |
 | shooters | shootyrz | ʃuːtɝz |
-| shootin' | shootin | ʃuːtɪn |
+| shootin' | shootin' | ʃuːtɪn |
 | shooting | shooting | ʃuːtɪŋ |
 | shootings | shootingz | ʃuːtɪŋz |
 | shootout | shootout | ʃuːtaʊt |
@@ -102821,7 +102821,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | shopper | shaapyr | ʃɑpɝ |
 | shopper's | shaapyr's | ʃɑpɝz |
 | shoppers | shaapyrz | ʃɑpɝz |
-| shoppers' | shaapyrz | ʃɑpɝz |
+| shoppers' | shaapyrz' | ʃɑpɝz |
 | shoppes | shaaps | ʃɑps |
 | shopping | shaaping | ʃɑpɪŋ |
 | shopping's | shaaping's | ʃɑpɪŋz |
@@ -102884,7 +102884,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | shortness | shortnus | ʃɔːɹtnʌs |
 | shortridge | shortrij | ʃɔːɹtɹɪdʒ |
 | shorts | shorts | ʃɔːɹts |
-| shorts' | shorts | ʃɔːɹts |
+| shorts' | shorts' | ʃɔːɹts |
 | shortsighted | shortsietid | ʃɔːɹtsaɪtɪd |
 | shortsightedness | shortsietidnis | ʃɔːɹtsaɪtɪdnɪs |
 | shortstop | shortstaap | ʃɔːɹtstɑp |
@@ -102893,7 +102893,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | shortwave | shortwaev | ʃɔːɹtweɪv |
 | shorty | shortee | ʃɔːɹtiː |
 | shortz | shorts | ʃɔːɹts |
-| shortz' | shorts | ʃɔːɹts |
+| shortz' | shorts' | ʃɔːɹts |
 | shortz's | shortsi's | ʃɔːɹtsɪz |
 | shosh | shoesh | ʃoʊʃ |
 | shoshone | shoeshoenee | ʃoʊʃoʊniː |
@@ -102971,7 +102971,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | showroom | shoeroom | ʃoʊɹuːm |
 | showrooms | shoeroomz | ʃoʊɹuːmz |
 | shows | shoez | ʃoʊz |
-| shows' | shoez | ʃoʊz |
+| shows' | shoez' | ʃoʊz |
 | showscan | shoeskan | ʃoʊskæn |
 | showtime | shoetiem | ʃoʊtaɪm |
 | showtime's | shoetiem's | ʃoʊtaɪmz |
@@ -103257,9 +103257,9 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | siderographer | siedyrogrufyr | saɪdɝɔːɡɹʌfɝ |
 | siderographers | siedyrogrufyrz | saɪdɝɔːɡɹʌfɝz |
 | siders | siedyrz | saɪdɝz |
-| siders' | siedyrz | saɪdɝz |
+| siders' | siedyrz' | saɪdɝz |
 | sides | siedz | saɪdz |
-| sides' | siedz | saɪdz |
+| sides' | siedz' | saɪdz |
 | sideshow | siedshoe | saɪdʃoʊ |
 | sideshows | siedshoez | saɪdʃoʊz |
 | sidestep | siedstep | saɪdstɛp |
@@ -103639,7 +103639,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | simmon's | simun's | sɪmʌnz |
 | simmonds | simundz | sɪmʌndz |
 | simmons | simunz | sɪmʌnz |
-| simmons' | simunz | sɪmʌnz |
+| simmons' | simunz' | sɪmʌnz |
 | simmons's | simunzi's | sɪmʌnzɪz |
 | simms | simz | sɪmz |
 | simo | seemoe | siːmoʊ |
@@ -103687,9 +103687,9 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | simpson | simpsun | sɪmpsʌn |
 | simpson's | simpsun's | sɪmpsʌnz |
 | simpsons | simpsunz | sɪmpsʌnz |
-| simpsons' | simpsunz | sɪmpsʌnz |
+| simpsons' | simpsunz' | sɪmpsʌnz |
 | sims | simz | sɪmz |
-| sims' | simz | sɪmz |
+| sims' | simz' | sɪmz |
 | simsbury | simzberee | sɪmzbɛɹiː |
 | simson | simsun | sɪmsʌn |
 | simulac | simyulak | sɪmjʌlæk |
@@ -103748,7 +103748,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | singers | singyrz | sɪŋɝz |
 | singh | sing | sɪŋ |
 | singh's | sing's | sɪŋz |
-| singin' | singin | sɪŋɪn |
+| singin' | singin' | sɪŋɪn |
 | singing | singing | sɪŋɪŋ |
 | singlaub | singloub | sɪŋlaʊb |
 | single | singgul | sɪŋɡʌl |
@@ -103927,7 +103927,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sitterly | sityrlee | sɪtɝliː |
 | sitters | sityrz | sɪtɝz |
 | sittig | sitig | sɪtɪɡ |
-| sittin' | situn | sɪtʌn |
+| sittin' | situn' | sɪtʌn |
 | sitting | siting | sɪtɪŋ |
 | sittler | sitlyr | sɪtlɝ |
 | sittner | sitnyr | sɪtnɝ |
@@ -104133,7 +104133,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | skinniest | skineeust | skɪniːʌst |
 | skinny | skinee | skɪniː |
 | skins | skinz | skɪnz |
-| skins' | skinz | skɪnz |
+| skins' | skinz' | skɪnz |
 | skip | skip | skɪp |
 | skipjack | skipjak | skɪpdʒæk |
 | skipjack's | skipjak's | skɪpdʒæks |
@@ -104816,7 +104816,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | smoker | smoekyr | smoʊkɝ |
 | smoker's | smoekyr's | smoʊkɝz |
 | smokers | smoekyrz | smoʊkɝz |
-| smokers' | smoekyrz | smoʊkɝz |
+| smokers' | smoekyrz' | smoʊkɝz |
 | smokes | smoeks | smoʊks |
 | smokescreen | smoekskreen | smoʊkskɹiːn |
 | smokestack | smoekstak | smoʊkstæk |
@@ -104878,7 +104878,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | smuggler | smuglyr | smʌɡlɝ |
 | smuggler's | smuglyr's | smʌɡlɝz |
 | smugglers | smuglyrz | smʌɡlɝz |
-| smugglers' | smuglyrz | smʌɡlɝz |
+| smugglers' | smuglyrz' | smʌɡlɝz |
 | smuggling | smugling | smʌɡlɪŋ |
 | smugly | smuglee | smʌɡliː |
 | smugness | smugnus | smʌɡnʌs |
@@ -105032,7 +105032,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sniper | sniepyr | snaɪpɝ |
 | sniper's | sniepyr's | snaɪpɝz |
 | snipers | sniepyrz | snaɪpɝz |
-| snipers' | sniepyrz | snaɪpɝz |
+| snipers' | sniepyrz' | snaɪpɝz |
 | snipes | snieps | snaɪps |
 | sniping | snieping | snaɪpɪŋ |
 | snippet | sniput | snɪpʌt |
@@ -105219,7 +105219,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | socialist | soeshulist | soʊʃʌlɪst |
 | socialistic | soeshulistik | soʊʃʌlɪstɪk |
 | socialists | soeshulists | soʊʃʌlɪsts |
-| socialists' | soeshulists | soʊʃʌlɪsts |
+| socialists' | soeshulists' | soʊʃʌlɪsts |
 | socialite | soeshuliet | soʊʃʌlaɪt |
 | socialites | soeshuliets | soʊʃʌlaɪts |
 | socialization | soeshulizaeshun | soʊʃʌlɪzeɪʃʌn |
@@ -105390,7 +105390,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | soldier's | soeljyr's | soʊldʒɝz |
 | soldiering | soeljyring | soʊldʒɝɪŋ |
 | soldiers | soeljyrz | soʊldʒɝz |
-| soldiers' | soeljyrz | soʊldʒɝz |
+| soldiers' | soeljyrz' | soʊldʒɝz |
 | soldner | soeldnyr | soʊldnɝ |
 | soldo | soeldoe | soʊldoʊ |
 | sole | soel | soʊl |
@@ -105548,7 +105548,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | somerville | sumyrvil | sʌmɝvɪl |
 | somes | sumz | sʌmz |
 | somesh | soemesh | soʊmɛʃ |
-| somethin' | sumthin | sʌmθɪn |
+| somethin' | sumthin' | sʌmθɪn |
 | something | sumthing | sʌmθɪŋ |
 | something's | sumthing's | sʌmθɪŋz |
 | somethings | sumthingz | sʌmθɪŋz |
@@ -105636,7 +105636,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sonorous | saanyrus | sɑnɝʌs |
 | sonrise | sunriez | sʌnɹaɪz |
 | sons | sunz | sʌnz |
-| sons' | saanz | sɑnz |
+| sons' | saanz' | sɑnz |
 | sons-in-law | suninlaa | sʌnɪnlɑ |
 | sontag | saantag | sɑntæɡ |
 | sonum | saanum | sɑnʌm |
@@ -105836,7 +105836,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | source's | sorsi's | sɔːɹsɪz |
 | sourcebook | sorsbuuk | sɔːɹsbʊk |
 | sources | sorsuz | sɔːɹsʌz |
-| sources' | sorsuz | sɔːɹsʌz |
+| sources' | sorsuz' | sɔːɹsʌz |
 | sourcing | sorsing | sɔːɹsɪŋ |
 | soured | souyrd | saʊɝd |
 | souring | souyring | saʊɝɪŋ |
@@ -105917,7 +105917,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sovietologist | soeveeutaalujist | soʊviːʌtɑlʌdʒɪst |
 | sovietologists | soeveeutaalujists | soʊviːʌtɑlʌdʒɪsts |
 | soviets | soeveeets | soʊviːɛts |
-| soviets' | soeveeets | soʊviːɛts |
+| soviets' | soeveeets' | soʊviːɛts |
 | sovine | saavien | sɑvaɪn |
 | sovran | saavrun | sɑvɹʌn |
 | sovran's | saavrun's | sɑvɹʌnz |
@@ -106170,7 +106170,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | speciale | spechulee | spɛtʃʌliː |
 | specialist | speshulist | spɛʃʌlɪst |
 | specialists | speshulists | spɛʃʌlɪsts |
-| specialists' | speshulists | spɛʃʌlɪsts |
+| specialists' | speshulists' | spɛʃʌlɪsts |
 | specialities | speshulteez | spɛʃʌltiːz |
 | speciality | spesheealitee | spɛʃiːælɪtiː |
 | specialization | speshuluzaeshun | spɛʃʌlʌzeɪʃʌn |
@@ -106183,7 +106183,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | specialties | speshulteez | spɛʃʌltiːz |
 | specialty | speshultee | spɛʃʌltiː |
 | species | speesheez | spiːʃiːz |
-| species' | speesheez | spiːʃiːz |
+| species' | speesheez' | spiːʃiːz |
 | specific | spusifik | spʌsɪfɪk |
 | specifically | spusifiklee | spʌsɪfɪkliː |
 | specification | spesifikaeshun | spɛsɪfɪkeɪʃʌn |
@@ -106238,7 +106238,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | speculative | spekyulutiv | spɛkjʌlʌtɪv |
 | speculator | spekyulaetyr | spɛkjʌleɪtɝ |
 | speculators | spekyulaetyrz | spɛkjʌleɪtɝz |
-| speculators' | spekyulyrtaez | spɛkjʌlɝteɪz |
+| speculators' | spekyulyrtaez' | spɛkjʌlɝteɪz |
 | sped | sped | spɛd |
 | speece | spees | spiːs |
 | speech | speech | spiːtʃ |
@@ -106647,7 +106647,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sporting | sporting | spɔːɹtɪŋ |
 | sportingly | sportinglee | spɔːɹtɪŋliː |
 | sports | sports | spɔːɹts |
-| sports' | sports | spɔːɹts |
+| sports' | sports' | spɔːɹts |
 | sportsbar | sportsbaar | spɔːɹtsbɑɹ |
 | sportscaster | sportskastyr | spɔːɹtskæstɝ |
 | sportscasters | sportskastyrz | spɔːɹtskæstɝz |
@@ -107266,7 +107266,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | standfield | standfeeld | stændfiːld |
 | standifer | standifyr | stændɪfɝ |
 | standiford | standifyrd | stændɪfɝd |
-| standin' | standin | stændɪn |
+| standin' | standin' | stændɪn |
 | standing | standing | stændɪŋ |
 | standings | standingz | stændɪŋz |
 | standish | standish | stændɪʃ |
@@ -107396,7 +107396,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | stargazer | staargaezyr | stɑɹɡeɪzɝ |
 | stargazers | staargaezyrz | stɑɹɡeɪzɝz |
 | starin | starin | stæɹɪn |
-| starin' | sterin | stɛɹɪn |
+| starin' | sterin' | stɛɹɪn |
 | staring | stering | stɛɹɪŋ |
 | stark | staark | stɑɹk |
 | stark's | staark's | stɑɹks |
@@ -107439,7 +107439,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | starrs | staarz | stɑɹz |
 | starry | staaree | stɑɹiː |
 | stars | staarz | stɑɹz |
-| stars' | staarz | stɑɹz |
+| stars' | staarz' | stɑɹz |
 | starship | staarship | stɑɹʃɪp |
 | starsight | staarsiet | stɑɹsaɪt |
 | starstream | staarstreem | stɑɹstɹiːm |
@@ -107502,7 +107502,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | stater's | staetyr's | steɪtɝz |
 | staters | staetyrz | steɪtɝz |
 | states | staets | steɪts |
-| states' | staets | steɪts |
+| states' | staets' | steɪts |
 | statesborough | staetsburoe | steɪtsbʌɹoʊ |
 | stateside | staetsied | steɪtsaɪd |
 | statesman | staetsmun | steɪtsmʌn |
@@ -107530,7 +107530,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | stationery | staeshuneree | steɪʃʌnɛɹiː |
 | stationing | staeshuning | steɪʃʌnɪŋ |
 | stations | staeshunz | steɪʃʌnz |
-| stations' | staeshunz | steɪʃʌnz |
+| stations' | staeshunz' | steɪʃʌnz |
 | statism | staetizum | steɪtɪzʌm |
 | statist | staetist | steɪtɪst |
 | statistic | stutistik | stʌtɪstɪk |
@@ -107539,7 +107539,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | statistician | statustishun | stætʌstɪʃʌn |
 | statisticians | statistishunz | stætɪstɪʃʌnz |
 | statistics | stutistiks | stʌtɪstɪks |
-| statistics' | stutistiks | stʌtɪstɪks |
+| statistics' | stutistiks' | stʌtɪstɪks |
 | statists | staetists | steɪtɪsts |
 | statler | statlyr | stætlɝ |
 | statoil | stutoil | stʌtɔɪl |
@@ -107696,13 +107696,13 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | steelmaker | steelmaekyr | stiːlmeɪkɝ |
 | steelmaker's | steelmaekyr's | stiːlmeɪkɝz |
 | steelmakers | steelmaekyrz | stiːlmeɪkɝz |
-| steelmakers' | steelmukyrz | stiːlmʌkɝz |
+| steelmakers' | steelmukyrz' | stiːlmʌkɝz |
 | steelmaking | steelmaeking | stiːlmeɪkɪŋ |
 | steelman | steelmun | stiːlmʌn |
 | steels | steelz | stiːlz |
 | steelworker | steelwyrkyr | stiːlwɝkɝ |
 | steelworkers | steelwyrkyrz | stiːlwɝkɝz |
-| steelworkers' | steelwyrkyrz | stiːlwɝkɝz |
+| steelworkers' | steelwyrkyrz' | stiːlwɝkɝz |
 | steelworks | steelwyrks | stiːlwɝks |
 | steely | steelee | stiːliː |
 | steen | steen | stiːn |
@@ -107967,7 +107967,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | stephania | stifaneeu | stɪfæniːʌ |
 | stephanie | stefunee | stɛfʌniː |
 | stephanopoulos | stefunaapulus | stɛfʌnɑpʌlʌs |
-| stephanopoulos' | stefunaapulus | stɛfʌnɑpʌlʌs |
+| stephanopoulos' | stefunaapulus' | stɛfʌnɑpʌlʌs |
 | stephanopoulos's | stefunaapulusi's | stɛfʌnɑpʌlʌsɪs |
 | stephans | stefunz | stɛfʌnz |
 | stephany | stefunee | stɛfʌniː |
@@ -107992,7 +107992,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | stepper | stepyr | stɛpɝ |
 | steppers | stepyrz | stɛpɝz |
 | steppes | steps | stɛps |
-| steppin' | stepin | stɛpɪn |
+| steppin' | stepin' | stɛpɪn |
 | stepping | steping | stɛpɪŋ |
 | steppingstone | stepingstoen | stɛpɪŋstoʊn |
 | steps | steps | stɛps |
@@ -108085,7 +108085,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | steven's | steevun's | stiːvʌnz |
 | stevena | stevinu | stɛvɪnʌ |
 | stevens | steevunz | stiːvʌnz |
-| stevens' | steevunz | stiːvʌnz |
+| stevens' | steevunz' | stiːvʌnz |
 | stevens's | steevunzu's | stiːvʌnzʌz |
 | stevenson | steevunsun | stiːvʌnsʌn |
 | stever | steevyr | stiːvɝ |
@@ -108330,7 +108330,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | stockbrokerage | staakbroekyrij | stɑkbɹoʊkɝɪdʒ |
 | stockbrokerages | staakbroekyrijiz | stɑkbɹoʊkɝɪdʒɪz |
 | stockbrokers | staakbroekyrz | stɑkbɹoʊkɝz |
-| stockbrokers' | staakbroekyrz | stɑkbɹoʊkɝz |
+| stockbrokers' | staakbroekyrz' | stɑkbɹoʊkɝz |
 | stockbroking | staakbroeking | stɑkbɹoʊkɪŋ |
 | stockburger | staakbyrgyr | stɑkbɝɡɝ |
 | stockdale | staakdael | stɑkdeɪl |
@@ -108346,7 +108346,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | stockhausen | staakhouzun | stɑkhaʊzʌn |
 | stockholder | staakhoeldyr | stɑkhoʊldɝ |
 | stockholders | staakhoeldyrz | stɑkhoʊldɝz |
-| stockholders' | staakhoeldyrz | stɑkhoʊldɝz |
+| stockholders' | staakhoeldyrz' | stɑkhoʊldɝz |
 | stockholding | staakhoelding | stɑkhoʊldɪŋ |
 | stockholdings | staakhoeldingz | stɑkhoʊldɪŋz |
 | stockholm | staakhoelm | stɑkhoʊlm |
@@ -108364,7 +108364,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | stockpiling | staakpieling | stɑkpaɪlɪŋ |
 | stockroom | staakroom | stɑkɹuːm |
 | stocks | staaks | stɑks |
-| stocks' | staaks | stɑks |
+| stocks' | staaks' | stɑks |
 | stocksdale | staaksdael | stɑksdeɪl |
 | stockslager | staakslaegyr | stɑksleɪɡɝ |
 | stockstill | staakstil | stɑkstɪl |
@@ -108487,7 +108487,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | stoneridge | stoenrij | stoʊnɹɪdʒ |
 | stonerock | stoenraak | stoʊnɹɑk |
 | stones | stoenz | stoʊnz |
-| stones' | stoenz | stoʊnz |
+| stones' | stoenz' | stoʊnz |
 | stonesifer | stoensiefyr | stoʊnsaɪfɝ |
 | stonestreet | stoenstreet | stoʊnstɹiːt |
 | stonewall | stoenwol | stoʊnwɔːl |
@@ -108555,7 +108555,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | storer's | storyr's | stɔːɹɝz |
 | storeroom | storroom | stɔːɹɹuːm |
 | stores | storz | stɔːɹz |
-| stores' | storz | stɔːɹz |
+| stores' | storz' | stɔːɹz |
 | storey | storee | stɔːɹiː |
 | storfer | storfyr | stɔːɹfɝ |
 | storie | storee | stɔːɹiː |
@@ -108913,9 +108913,9 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | striker | striekyr | stɹaɪkɝ |
 | striker's | striekyr's | stɹaɪkɝz |
 | strikers | striekyrz | stɹaɪkɝz |
-| strikers' | striekyrz | stɹaɪkɝz |
+| strikers' | striekyrz' | stɹaɪkɝz |
 | strikes | strieks | stɹaɪks |
-| strikes' | strieks | stɹaɪks |
+| strikes' | strieks' | stɹaɪks |
 | striking | strieking | stɹaɪkɪŋ |
 | strikingly | striekinglee | stɹaɪkɪŋliː |
 | strimple | strimpul | stɹɪmpʌl |
@@ -109116,14 +109116,14 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | student | stoodunt | stuːdʌnt |
 | student's | stoodunt's | stuːdʌnts |
 | students | stoodunts | stuːdʌnts |
-| students' | stoodunts | stuːdʌnts |
+| students' | stoodunts' | stuːdʌnts |
 | studer | stoodyr | stuːdɝ |
 | studied | studeed | stʌdiːd |
 | studies | studeez | stʌdiːz |
 | studio | stoodeeoe | stuːdiːoʊ |
 | studio's | stoodeeoe's | stuːdiːoʊz |
 | studios | stoodeeoez | stuːdiːoʊz |
-| studios' | stoodeeoez | stuːdiːoʊz |
+| studios' | stoodeeoez' | stuːdiːoʊz |
 | studious | stoodeeus | stuːdiːʌs |
 | studiously | stoodeeuslee | stuːdiːʌsliː |
 | studley | studlee | stʌdliː |
@@ -109345,7 +109345,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | subjective | subjektiv | sʌbdʒɛktɪv |
 | subjectivity | subjektivitee | sʌbdʒɛktɪvɪtiː |
 | subjects | subjekts | sʌbdʒɛkts |
-| subjects' | subjekts | sʌbdʒɛkts |
+| subjects' | subjekts' | sʌbdʒɛkts |
 | subjugate | subjugaet | sʌbdʒʌɡeɪt |
 | subjugated | subjugaetid | sʌbdʒʌɡeɪtɪd |
 | subkingdom | subkingdum | sʌbkɪŋdʌm |
@@ -109406,7 +109406,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | subscriber | subskriebyr | sʌbskɹaɪbɝ |
 | subscriber's | subskriebyr's | sʌbskɹaɪbɝz |
 | subscribers | subskriebyrz | sʌbskɹaɪbɝz |
-| subscribers' | subskriebyrz | sʌbskɹaɪbɝz |
+| subscribers' | subskriebyrz' | sʌbskɹaɪbɝz |
 | subscribes | subskriebz | sʌbskɹaɪbz |
 | subscribing | subskriebing | sʌbskɹaɪbɪŋ |
 | subscription | subskripshun | sʌbskɹɪpʃʌn |
@@ -109424,7 +109424,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | subsidence | subsieduns | sʌbsaɪdʌns |
 | subsides | subsiedz | sʌbsaɪdz |
 | subsidiaries | subsideeereez | sʌbsɪdiːɛɹiːz |
-| subsidiaries' | subsideeereez | sʌbsɪdiːɛɹiːz |
+| subsidiaries' | subsideeereez' | sʌbsɪdiːɛɹiːz |
 | subsidiary | subsideeeree | sʌbsɪdiːɛɹiː |
 | subsidiary's | subsideeeree's | sʌbsɪdiːɛɹiːz |
 | subsidies | subsideez | sʌbsɪdiːz |
@@ -110027,11 +110027,11 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | superoxide | soopyraaksied | suːpɝɑksaɪd |
 | superpower | soopyrpouyr | suːpɝpaʊɝ |
 | superpowers | soopyrpouyrz | suːpɝpaʊɝz |
-| superpowers' | soopyrpourz | suːpɝpaʊɹz |
+| superpowers' | soopyrpourz' | suːpɝpaʊɹz |
 | superpremium | soopyrpreemyum | suːpɝpɹiːmjʌm |
 | superregional | soopyrreejunul | suːpɝɹiːdʒʌnʌl |
 | superregionals | soopyrreejunulz | suːpɝɹiːdʒʌnʌlz |
-| superregionals' | soopyrreejunulz | suːpɝɹiːdʒʌnʌlz |
+| superregionals' | soopyrreejunulz' | suːpɝɹiːdʒʌnʌlz |
 | supers | soopyrz | suːpɝz |
 | supersaver | soopyrsaevyr | suːpɝseɪvɝ |
 | supersecret | soopyrseekrit | suːpɝsiːkɹɪt |
@@ -110063,7 +110063,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | supervisor | soopyrviezyr | suːpɝvaɪzɝ |
 | supervisor's | soopyrviezyr's | suːpɝvaɪzɝz |
 | supervisors | soopyrviezyrz | suːpɝvaɪzɝz |
-| supervisors' | soopyrviezyrz | suːpɝvaɪzɝz |
+| supervisors' | soopyrviezyrz' | suːpɝvaɪzɝz |
 | supervisory | soopyrviezyree | suːpɝvaɪzɝiː |
 | supervoting | soopyrvoeting | suːpɝvoʊtɪŋ |
 | superwoman | soopyrwuumun | suːpɝwʊmʌn |
@@ -110092,7 +110092,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | supplier | suplieyr | sʌplaɪɝ |
 | supplier's | suplieyr's | sʌplaɪɝz |
 | suppliers | suplieyrz | sʌplaɪɝz |
-| suppliers' | suplieyrz | sʌplaɪɝz |
+| suppliers' | suplieyrz' | sʌplaɪɝz |
 | supplies | supliez | sʌplaɪz |
 | supply | suplie | sʌplaɪ |
 | supply's | suplie's | sʌplaɪz |
@@ -110169,7 +110169,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | surgeon | syrjun | sɝdʒʌn |
 | surgeon's | syrjun's | sɝdʒʌnz |
 | surgeons | syrjunz | sɝdʒʌnz |
-| surgeons' | syrjinz | sɝdʒɪnz |
+| surgeons' | syrjinz' | sɝdʒɪnz |
 | surgeries | syrjyreez | sɝdʒɝiːz |
 | surgery | syrjyree | sɝdʒɝiː |
 | surges | syrjuz | sɝdʒʌz |
@@ -110285,7 +110285,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | suspected | suspektid | sʌspɛktɪd |
 | suspecting | suspekting | sʌspɛktɪŋ |
 | suspects | suspekts | sʌspɛkts |
-| suspects' | suspekts | sʌspɛkts |
+| suspects' | suspekts' | sʌspɛkts |
 | suspend | suspend | sʌspɛnd |
 | suspended | suspendid | sʌspɛndɪd |
 | suspender | suspendyr | sʌspɛndɝ |
@@ -110514,7 +110514,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | sweated | swetid | swɛtɪd |
 | sweater | swetyr | swɛtɝ |
 | sweaters | swetyrz | swɛtɝz |
-| sweatin' | swetin | swɛtɪn |
+| sweatin' | swetin' | swɛtɪn |
 | sweating | sweting | swɛtɪŋ |
 | sweatman | sweetmun | swiːtmʌn |
 | sweatpants | swetpants | swɛtpænts |
@@ -110756,7 +110756,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | syd | sid | sɪd |
 | sydell | siedel | saɪdɛl |
 | syders | siedyrz | saɪdɝz |
-| syders' | siedyrz | saɪdɝz |
+| syders' | siedyrz' | saɪdɝz |
 | sydney | sidnee | sɪdniː |
 | sydney's | sidnee's | sɪdniːz |
 | sydnor | sidnyr | sɪdnɝ |
@@ -110962,7 +110962,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | systemix | sistemiks | sɪstɛmɪks |
 | systemone | sistumoen | sɪstʌmoʊn |
 | systems | sistumz | sɪstʌmz |
-| systems' | sistumz | sɪstʌmz |
+| systems' | sistumz' | sɪstʌmz |
 | systemwide | sistumwied | sɪstʌmwaɪd |
 | systolic | sistolik | sɪstɔːlɪk |
 | systran | sistran | sɪstɹæn |
@@ -111248,7 +111248,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | taki | takee | tækiː |
 | taki's | takee's | tækiːz |
 | takihyo | tukeeyoe | tʌkiːjoʊ |
-| takin' | taekin | teɪkɪn |
+| takin' | taekin' | teɪkɪn |
 | taking | taeking | teɪkɪŋ |
 | takings | taekingz | teɪkɪŋz |
 | takla-makan | taklumaekun | tæklʌmeɪkʌn |
@@ -111300,7 +111300,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | talkie | tokee | tɔːkiː |
 | talkies | tokeez | tɔːkiːz |
 | talkin | taakun | tɑkʌn |
-| talkin' | tokin | tɔːkɪn |
+| talkin' | tokin' | tɔːkɪn |
 | talking | toking | tɔːkɪŋ |
 | talking's | toking's | tɔːkɪŋz |
 | talkington | tokingtun | tɔːkɪŋtʌn |
@@ -111790,7 +111790,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | taxer | taksyr | tæksɝ |
 | taxers | taksyrz | tæksɝz |
 | taxes | taksuz | tæksʌz |
-| taxes' | taksiz | tæksɪz |
+| taxes' | taksiz' | tæksɪz |
 | taxi | taksee | tæksiː |
 | taxi's | taksee's | tæksiːz |
 | taxicab | takseekab | tæksiːkæb |
@@ -111809,7 +111809,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | taxpayer | takspaeyr | tækspeɪɝ |
 | taxpayer's | takspaeyr's | tækspeɪɝz |
 | taxpayers | takspaeyrz | tækspeɪɝz |
-| taxpayers' | takspaeyrz | tækspeɪɝz |
+| taxpayers' | takspaeyrz' | tækspeɪɝz |
 | taxpaying | takspaeing | tækspeɪɪŋ |
 | tay | tae | teɪ |
 | tayler | taelyr | teɪlɝ |
@@ -111831,7 +111831,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | teacher | teechyr | tiːtʃɝ |
 | teacher's | teechyr's | tiːtʃɝz |
 | teachers | teechyrz | tiːtʃɝz |
-| teachers' | teechyrz | tiːtʃɝz |
+| teachers' | teechyrz' | tiːtʃɝz |
 | teaches | teechuz | tiːtʃʌz |
 | teachey | teechee | tiːtʃiː |
 | teaching | teeching | tiːtʃɪŋ |
@@ -111857,11 +111857,11 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | teammate | teemaet | tiːmeɪt |
 | teammates | teemmaets | tiːmmeɪts |
 | teams | teemz | tiːmz |
-| teams' | teemz | tiːmz |
+| teams' | teemz' | tiːmz |
 | teamster | teemstyr | tiːmstɝ |
 | teamster's | teemstyr's | tiːmstɝz |
 | teamsters | teemstyrz | tiːmstɝz |
-| teamsters' | teemstyrz | tiːmstɝz |
+| teamsters' | teemstyrz' | tiːmstɝz |
 | teamwork | teemwyrk | tiːmwɝk |
 | teaneck | teenek | tiːnɛk |
 | teaney | teenee | tiːniː |
@@ -111934,7 +111934,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | technological | teknulaajikul | tɛknʌlɑdʒɪkʌl |
 | technologically | teknulaajikulee | tɛknʌlɑdʒɪkʌliː |
 | technologies | teknaalujeez | tɛknɑlʌdʒiːz |
-| technologies' | teknaalujeez | tɛknɑlʌdʒiːz |
+| technologies' | teknaalujeez' | tɛknɑlʌdʒiːz |
 | technologist | teknaalujist | tɛknɑlʌdʒɪst |
 | technologists | teknaalujists | tɛknɑlʌdʒɪsts |
 | technology | teknaalujee | tɛknɑlʌdʒiː |
@@ -112077,7 +112077,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | telecom's | telukaam's | tɛlʌkɑmz |
 | telecommunication | telukumuenikaeshun | tɛlʌkʌmjuːnɪkeɪʃʌn |
 | telecommunications | telukumuenukaeshunz | tɛlʌkʌmjuːnʌkeɪʃʌnz |
-| telecommunications' | telukumuenukaeshunz | tɛlʌkʌmjuːnʌkeɪʃʌnz |
+| telecommunications' | telukumuenukaeshunz' | tɛlʌkʌmjuːnʌkeɪʃʌnz |
 | telecommute | telukumuet | tɛlʌkʌmjuːt |
 | telecommuter | telukumuetyr | tɛlʌkʌmjuːtɝ |
 | telecommuter's | telukumuetyr's | tɛlʌkʌmjuːtɝz |
@@ -112156,7 +112156,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | telescopic | teluskopik | tɛlʌskɔːpɪk |
 | telescript | teluskript | tɛlʌskɹɪpt |
 | telesis | telusis | tɛlʌsɪs |
-| telesis' | telusis | tɛlʌsɪs |
+| telesis' | telusis' | tɛlʌsɪs |
 | telesis's | telusisi's | tɛlʌsɪsɪz |
 | telesphere | telusfir | tɛlʌsfɪɹ |
 | telestrator | telustraetyr | tɛlʌstɹeɪtɝ |
@@ -112200,7 +112200,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | telles | telz | tɛlz |
 | tellez | taelez | teɪlɛz |
 | tellier | teleeyr | tɛliːɝ |
-| tellin' | telin | tɛlɪn |
+| tellin' | telin' | tɛlɪn |
 | telling | teling | tɛlɪŋ |
 | tellingly | telinglee | tɛlɪŋliː |
 | tellis | telis | tɛlɪs |
@@ -112300,7 +112300,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | tenant | tenunt | tɛnʌnt |
 | tenant's | tenunt's | tɛnʌnts |
 | tenants | tenunts | tɛnʌnts |
-| tenants' | tenunts | tɛnʌnts |
+| tenants' | tenunts' | tɛnʌnts |
 | tenbrink | tenbringk | tɛnbɹɪŋk |
 | tench | tench | tɛntʃ |
 | tencza | tenchu | tɛntʃʌ |
@@ -112518,7 +112518,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | terrorist | teryrist | tɛɹɝɪst |
 | terroristic | teryristik | tɛɹɝɪstɪk |
 | terrorists | teryrists | tɛɹɝɪsts |
-| terrorists' | teryrists | tɛɹɝɪsts |
+| terrorists' | teryrists' | tɛɹɝɪsts |
 | terrorize | teryriez | tɛɹɝaɪz |
 | terrorized | teryriezd | tɛɹɝaɪzd |
 | terrorizes | teryrieziz | tɛɹɝaɪzɪz |
@@ -112596,7 +112596,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | testosterone | testaastyroen | tɛstɑstɝoʊn |
 | testrake | testraek | tɛstɹeɪk |
 | tests | tests | tɛsts |
-| tests' | tests | tɛsts |
+| tests' | tests' | tɛsts |
 | testuro | testuuroe | tɛstʊɹoʊ |
 | testy | testee | tɛstiː |
 | tet | tet | tɛt |
@@ -112654,7 +112654,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | texans | teksunz | tɛksʌnz |
 | texarkana | teksaarkanu | tɛksɑɹkænʌ |
 | texas | teksus | tɛksʌs |
-| texas' | teksus | tɛksʌs |
+| texas' | teksus' | tɛksʌs |
 | texas's | teksusu's | tɛksʌsʌz |
 | texasgulf | teksusgulf | tɛksʌsɡʌlf |
 | texeira | taekseru | teɪksɛɹʌ |
@@ -112883,7 +112883,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | therapist | therupist | θɛɹʌpɪst |
 | therapist's | therupist's | θɛɹʌpɪsts |
 | therapists | therupists | θɛɹʌpɪsts |
-| therapists' | therupists | θɛɹʌpɪsts |
+| therapists' | therupists' | θɛɹʌpɪsts |
 | therapists's | therupist's | θɛɹʌpɪsts |
 | therapy | therupee | θɛɹʌpiː |
 | therat | therat | ðɛɹæt |
@@ -113001,7 +113001,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | thieve | theev | θiːv |
 | thievery | theevyree | θiːvɝiː |
 | thieves | theevz | θiːvz |
-| thieves' | theevz | θiːvz |
+| thieves' | theevz' | θiːvz |
 | thieving | theeving | θiːvɪŋ |
 | thigh | thie | θaɪ |
 | thighs | thiez | θaɪz |
@@ -113015,14 +113015,14 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | thing's | thing's | θɪŋz |
 | thingamabob | thingumubaab | θɪŋʌmʌbɑb |
 | things | thingz | θɪŋz |
-| things' | thingz | θɪŋz |
+| things' | thingz' | θɪŋz |
 | thingy | thingee | θɪŋiː |
 | think | thingk | θɪŋk |
 | think's | thingk's | θɪŋks |
 | thinker | thingkyr | θɪŋkɝ |
 | thinkers | thingkyrz | θɪŋkɝz |
 | thinkin | thingkin | θɪŋkɪn |
-| thinkin' | thingkin | θɪŋkɪn |
+| thinkin' | thingkin' | θɪŋkɪn |
 | thinking | thingking | θɪŋkɪŋ |
 | thinkpad | thingkpad | θɪŋkpæd |
 | thinks | thingks | θɪŋks |
@@ -113059,7 +113059,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | thiry | thiree | θɪɹiː |
 | thirza | thyrzu | θɝzʌ |
 | this | this | ðɪs |
-| this' | this | ðɪs |
+| this' | this' | ðɪs |
 | this'll | thisu'l | ðɪsʌl |
 | thissen | thisun | θɪsʌn |
 | thistle | thisul | θɪsʌl |
@@ -113081,7 +113081,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | thoman | thoemun | θoʊmʌn |
 | thomann | thoemun | ðoʊmʌn |
 | thomas | taamus | tɑmʌs |
-| thomas' | taamus | tɑmʌs |
+| thomas' | taamus' | tɑmʌs |
 | thomas's | taamusi's | tɑmʌsɪz |
 | thomasas | taamusus | tɑmʌsʌs |
 | thomases | taamusiz | tɑmʌsɪz |
@@ -113246,7 +113246,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | thrift's | thrift's | θɹɪfts |
 | thriftier | thrifteeyr | θɹɪftiːɝ |
 | thrifts | thrifts | θɹɪfts |
-| thrifts' | thrifts | θɹɪfts |
+| thrifts' | thrifts' | θɹɪfts |
 | thrifty | thriftee | θɹɪftiː |
 | thrill | thril | θɹɪl |
 | thrilled | thrild | θɹɪld |
@@ -113515,7 +113515,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | tiger's | tiegyr's | taɪɡɝz |
 | tigera | tijeru | tɪdʒɛɹʌ |
 | tigers | tiegyrz | taɪɡɝz |
-| tigers' | tiegyrz | taɪɡɝz |
+| tigers' | tiegyrz' | taɪɡɝz |
 | tigert | tiegyrt | taɪɡɝt |
 | tigges | tigz | tɪɡz |
 | tiggs | tigz | tɪɡz |
@@ -113614,7 +113614,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | timer | tiemyr | taɪmɝ |
 | timers | tiemyrz | taɪmɝz |
 | times | tiemz | taɪmz |
-| times' | tiemz | taɪmz |
+| times' | tiemz' | taɪmz |
 | times's | tiemzi's | taɪmzɪz |
 | timeshare | tiemsher | taɪmʃɛɹ |
 | timetable | tiemtaebul | taɪmteɪbʌl |
@@ -114297,7 +114297,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | torie | toree | tɔːɹiː |
 | toriente | toreeentae | tɔːɹiːɛnteɪ |
 | tories | toreez | tɔːɹiːz |
-| tories' | toreez | tɔːɹiːz |
+| tories' | toreez' | tɔːɹiːz |
 | torino | toreenoe | tɔːɹiːnoʊ |
 | torkelson | torkilsun | tɔːɹkɪlsʌn |
 | torley | torlee | tɔːɹliː |
@@ -114551,7 +114551,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | towered | touyrd | taʊɝd |
 | towering | touyring | taʊɝɪŋ |
 | towers | touyrz | taʊɝz |
-| towers' | touyrz | taʊɝz |
+| towers' | touyrz' | taʊɝz |
 | towery | toeyree | toʊɝiː |
 | towey | toeee | toʊiː |
 | towhee | toehee | toʊhiː |
@@ -114616,7 +114616,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | toyota's | toeyoetu's | toʊjoʊtʌz |
 | toyotas | toioetuz | tɔɪoʊtʌz |
 | toys | toiz | tɔɪz |
-| toys' | toiz | tɔɪz |
+| toys' | toiz' | tɔɪz |
 | toystore | toistor | tɔɪstɔːɹ |
 | toystores | toistorz | tɔɪstɔːɹz |
 | tozer | toezyr | toʊzɝ |
@@ -114685,7 +114685,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | trader | traedyr | tɹeɪdɝ |
 | trader's | traedyr's | tɹeɪdɝz |
 | traders | traedyrz | tɹeɪdɝz |
-| traders' | traedyrz | tɹeɪdɝz |
+| traders' | traedyrz' | tɹeɪdɝz |
 | trades | traedz | tɹeɪdz |
 | tradesmen | traedzmun | tɹeɪdzmʌn |
 | trading | traeding | tɹeɪdɪŋ |
@@ -114731,9 +114731,9 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | trailhead | traelhed | tɹeɪlhɛd |
 | trailing | traeling | tɹeɪlɪŋ |
 | trails | traelz | tɹeɪlz |
-| trails' | traelz | tɹeɪlz |
+| trails' | traelz' | tɹeɪlz |
 | trailways | traelwaez | tɹeɪlweɪz |
-| trailways' | traelwaez | tɹeɪlweɪz |
+| trailways' | traelwaez' | tɹeɪlweɪz |
 | train | traen | tɹeɪn |
 | train's | traen's | tɹeɪnz |
 | traina | traenu | tɹeɪnʌ |
@@ -115028,7 +115028,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | traveler | travulyr | tɹævʌlɝ |
 | traveler's | travulyr's | tɹævʌlɝz |
 | travelers | travulyrz | tɹævʌlɝz |
-| travelers' | travulyrz | tɹævʌlɝz |
+| travelers' | travulyrz' | tɹævʌlɝz |
 | travelgate | travulgaet | tɹævʌlɡeɪt |
 | traveling | travuling | tɹævʌlɪŋ |
 | travelled | travuld | tɹævʌld |
@@ -115526,10 +115526,10 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | trooper | troopyr | tɹuːpɝ |
 | trooper's | troopyr's | tɹuːpɝz |
 | troopers | troopyrz | tɹuːpɝz |
-| troopers' | troopyrz | tɹuːpɝz |
+| troopers' | troopyrz' | tɹuːpɝz |
 | trooping | trooping | tɹuːpɪŋ |
 | troops | troops | tɹuːps |
-| troops' | troops | tɹuːps |
+| troops' | troops' | tɹuːps |
 | troost | troost | tɹuːst |
 | tropea | troepeeu | tɹoʊpiːʌ |
 | tropeano | troepeenoe | tɹoʊpiːnoʊ |
@@ -115626,12 +115626,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | truckee | trukee | tɹʌkiː |
 | trucker | trukyr | tɹʌkɝ |
 | truckers | trukyrz | tɹʌkɝz |
-| truckers' | trukyrz | tɹʌkɝz |
+| truckers' | trukyrz' | tɹʌkɝz |
 | trucking | truking | tɹʌkɪŋ |
 | truckload | trukloed | tɹʌkloʊd |
 | truckloads | trukloedz | tɹʌkloʊdz |
 | trucks | truks | tɹʌks |
-| trucks' | truks | tɹʌks |
+| trucks' | truks' | tɹʌks |
 | truculent | trukyulunt | tɹʌkjʌlʌnt |
 | truda | troodu | tɹuːdʌ |
 | trude | trood | tɹuːd |
@@ -115727,12 +115727,12 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | trustee | trustee | tɹʌstiː |
 | trustee's | trustee's | tɹʌstiːz |
 | trustees | trusteez | tɹʌstiːz |
-| trustees' | trusteez | tɹʌstiːz |
+| trustees' | trusteez' | tɹʌstiːz |
 | trusteeship | trusteeship | tɹʌstiːʃɪp |
 | trusthouse | trusthous | tɹʌsthaʊs |
 | trusting | trusting | tɹʌstɪŋ |
 | trusts | trusts | tɹʌsts |
-| trusts' | trusts | tɹʌsts |
+| trusts' | trusts' | tɹʌsts |
 | trustworthiness | trustwyrtheenus | tɹʌstwɝðiːnʌs |
 | trustworthy | trustwyrthee | tɹʌstwɝðiː |
 | trusty | trustee | tɹʌstiː |
@@ -115754,7 +115754,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | trygg | trig | tɹɪɡ |
 | trygstad | trigstud | tɹɪɡstʌd |
 | trygve | trigvee | tɹɪɡviː |
-| tryin' | triein | tɹaɪɪn |
+| tryin' | triein' | tɹaɪɪn |
 | trying | trieing | tɹaɪɪŋ |
 | tryon | trieun | tɹaɪʌn |
 | tryout | trieout | tɹaɪaʊt |
@@ -115786,7 +115786,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | tsingtao | singtou | sɪŋtaʊ |
 | tso | tsoe | tsoʊ |
 | tsongas | tsonggus | tsɔːŋɡʌs |
-| tsongas' | tsonggus | tsɔːŋɡʌs |
+| tsongas' | tsonggus' | tsɔːŋɡʌs |
 | tsongas's | tsonggusu's | tsɔːŋɡʌsʌz |
 | tsu | tsoo | tsuː |
 | tsuda | tsoodu | tsuːdʌ |
@@ -115926,7 +115926,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | tumor | toomyr | tuːmɝ |
 | tumors | toomyrz | tuːmɝz |
 | tums | tumz | tʌmz |
-| tums' | tumz | tʌmz |
+| tums' | tumz' | tʌmz |
 | tumult | toomult | tuːmʌlt |
 | tumultuous | toomulchoous | tuːmʌltʃuːʌs |
 | tumulty | toomultee | tuːmʌltiː |
@@ -116249,7 +116249,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | twinkling | twingkling | twɪŋklɪŋ |
 | twinkly | twingkulee | twɪŋkʌliː |
 | twins | twinz | twɪnz |
-| twins' | twinz | twɪnz |
+| twins' | twinz' | twɪnz |
 | twinsburg | twinzbyrg | twɪnzbɝɡ |
 | twirl | twyrl | twɝl |
 | twirled | twyrld | twɝld |
@@ -117019,7 +117019,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | underwriter | undyrrietyr | ʌndɝɹaɪtɝ |
 | underwriter's | undyrrietyr's | ʌndɝɹaɪtɝz |
 | underwriters | undyrrietyrz | ʌndɝɹaɪtɝz |
-| underwriters' | undyrrietyrz | ʌndɝɹaɪtɝz |
+| underwriters' | undyrrietyrz' | ʌndɝɹaɪtɝz |
 | underwrites | undyrriets | ʌndɝɹaɪts |
 | underwriting | undyrrieting | ʌndɝɹaɪtɪŋ |
 | underwritings | undyrrietingz | ʌndɝɹaɪtɪŋz |
@@ -117296,7 +117296,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | unionized | uenyuniezd | juːnjʌnaɪzd |
 | unionizing | uenyuniezing | juːnjʌnaɪzɪŋ |
 | unions | uenyunz | juːnjʌnz |
-| unions' | uenyunz | juːnjʌnz |
+| unions' | uenyunz' | juːnjʌnz |
 | unique | ueneek | juːniːk |
 | uniquely | ueneeklee | juːniːkliː |
 | uniqueness | ueneeknus | juːniːknʌs |
@@ -117308,7 +117308,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | unisource | uenisors | juːnɪsɔːɹs |
 | unissued | unishood | ʌnɪʃuːd |
 | unisys | uenisis | juːnɪsɪs |
-| unisys' | uenisis | juːnɪsɪs |
+| unisys' | uenisis' | juːnɪsɪs |
 | unisys's | uenisisi's | juːnɪsɪsɪz |
 | unit | uenit | juːnɪt |
 | unit's | uenit's | juːnɪts |
@@ -117332,7 +117332,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | unitrode | uenitroed | juːnɪtɹoʊd |
 | unitrode's | uenitroed's | juːnɪtɹoʊdz |
 | units | uenits | juːnɪts |
-| units' | uenits | juːnɪts |
+| units' | uenits' | juːnɪts |
 | unity | uenitee | juːnɪtiː |
 | univa | uenivu | juːnɪvʌ |
 | univar | uenivaar | juːnɪvɑɹ |
@@ -117344,7 +117344,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | universe | uenuvyrs | juːnʌvɝs |
 | universes | uenuvyrsiz | juːnʌvɝsɪz |
 | universities | uenuvyrsuteez | juːnʌvɝsʌtiːz |
-| universities' | uenivyrsiteez | juːnɪvɝsɪtiːz |
+| universities' | uenivyrsiteez' | juːnɪvɝsɪtiːz |
 | university | uenuvyrsutee | juːnʌvɝsʌtiː |
 | university's | uenuvyrsutee's | juːnʌvɝsʌtiːz |
 | univisa | ueniveesu | juːnɪviːsʌ |
@@ -117997,7 +117997,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | username | uezyrnaem | juːzɝneɪm |
 | usernames | uezyrnaemz | juːzɝneɪmz |
 | users | uezyrz | juːzɝz |
-| users' | uezyrz | juːzɝz |
+| users' | uezyrz' | juːzɝz |
 | usery | uezyree | juːzɝiː |
 | uses | uesuz | juːsʌz |
 | usher | ushyr | ʌʃɝ |
@@ -118039,7 +118039,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | utilicorp | uetilukorp | juːtɪlʌkɔːɹp |
 | utilitarian | uetilutereeun | juːtɪlʌtɛɹiːʌn |
 | utilities | uetiluteez | juːtɪlʌtiːz |
-| utilities' | uetiluteez | juːtɪlʌtiːz |
+| utilities' | uetiluteez' | juːtɪlʌtiːz |
 | utility | uetilutee | juːtɪlʌtiː |
 | utility's | uetilutee's | juːtɪlʌtiːz |
 | utilization | uetuluzaeshun | juːtʌlʌzeɪʃʌn |
@@ -118103,7 +118103,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | vacationed | vaekaeshund | veɪkeɪʃʌnd |
 | vacationer | vaekaeshunyr | veɪkeɪʃʌnɝ |
 | vacationers | vaekaeshunyrz | veɪkeɪʃʌnɝz |
-| vacationers' | vaekaeshunyrz | veɪkeɪʃʌnɝz |
+| vacationers' | vaekaeshunyrz' | veɪkeɪʃʌnɝz |
 | vacationing | vaekaeshning | veɪkeɪʃnɪŋ |
 | vacations | vaekaeshunz | veɪkeɪʃʌnz |
 | vacaville | vakuvil | vækʌvɪl |
@@ -118312,7 +118312,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | valueless | valuelus | væljuːlʌs |
 | valuepoint | valuepoint | væljuːpɔɪnt |
 | values | valuez | væljuːz |
-| values' | valuez | væljuːz |
+| values' | valuez' | væljuːz |
 | valuevision | valuevizjun | væljuːvɪʒʌn |
 | valuing | valueing | væljuːɪŋ |
 | valujet | valuejet | væljuːdʒɛt |
@@ -118925,7 +118925,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | vehicle | veehikul | viːhɪkʌl |
 | vehicle's | veehikul's | viːhɪkʌlz |
 | vehicles | veehikulz | viːhɪkʌlz |
-| vehicles' | vehikulz | vɛhɪkʌlz |
+| vehicles' | vehikulz' | vɛhɪkʌlz |
 | vehicular | veehikyulyr | viːhɪkjʌlɝ |
 | veiga | vaegu | veɪɡʌ |
 | veigel | viegul | vaɪɡʌl |
@@ -119012,7 +119012,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | vendor | vendyr | vɛndɝ |
 | vendor's | vendyr's | vɛndɝz |
 | vendors | vendyrz | vɛndɝz |
-| vendors' | vendyrz | vɛndɝz |
+| vendors' | vendyrz' | vɛndɝz |
 | veneer | vunir | vʌnɪɹ |
 | veneers | vunirz | vʌnɪɹz |
 | venegas | veniguz | vɛnɪɡʌz |
@@ -119086,7 +119086,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | ventured | venchyrd | vɛntʃɝd |
 | venturella | ventuurelu | vɛntʊɹɛlʌ |
 | ventures | venchyrz | vɛntʃɝz |
-| ventures' | venchyrz | vɛntʃɝz |
+| ventures' | venchyrz' | vɛntʃɝz |
 | venturesome | venchyrsum | vɛntʃɝsʌm |
 | venturi | ventuuree | vɛntʊɹiː |
 | venturian | ventuureeun | vɛntʊɹiːʌn |
@@ -119339,7 +119339,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | veteran | vetyrun | vɛtɝʌn |
 | veteran's | vetyrun's | vɛtɝʌnz |
 | veterans | vetyrunz | vɛtɝʌnz |
-| veterans' | vetyrunz | vɛtɝʌnz |
+| veterans' | vetyrunz' | vɛtɝʌnz |
 | vetere | vetyr | vɛtɝ |
 | veterinarian | vetrunereeun | vɛtɹʌnɛɹiːʌn |
 | veterinarians | vetrunereeunz | vɛtɹʌnɛɹiːʌnz |
@@ -119468,7 +119468,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | victimizing | viktumiezing | vɪktʌmaɪzɪŋ |
 | victimless | viktumlus | vɪktʌmlʌs |
 | victims | viktimz | vɪktɪmz |
-| victims' | viktimz | vɪktɪmz |
+| victims' | viktimz' | vɪktɪmz |
 | victoire | viktwaar | vɪktwɑɹ |
 | victor | viktyr | vɪktɝ |
 | victor's | viktyr's | vɪktɝz |
@@ -119557,7 +119557,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | viewer | vueyr | vjuːɝ |
 | viewer's | vueyr's | vjuːɝz |
 | viewers | vueyrz | vjuːɝz |
-| viewers' | vueyrz | vjuːɝz |
+| viewers' | vueyrz' | vjuːɝz |
 | viewership | vueyrship | vjuːɝʃɪp |
 | viewfinder | vuefiendyr | vjuːfaɪndɝ |
 | viewing | vueing | vjuːɪŋ |
@@ -119876,7 +119876,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | visitor | vizityr | vɪzɪtɝ |
 | visitor's | vizityr's | vɪzɪtɝz |
 | visitors | vizityrz | vɪzɪtɝz |
-| visitors' | vizityrz | vɪzɪtɝz |
+| visitors' | vizityrz' | vɪzɪtɝz |
 | visits | vizits | vɪzɪts |
 | visnic | visnich | vɪsnɪtʃ |
 | visor | viezyr | vaɪzɝ |
@@ -120240,7 +120240,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | voter | voetyr | voʊtɝ |
 | voter's | voetyr's | voʊtɝz |
 | voters | voetyrz | voʊtɝz |
-| voters' | voetyrz | voʊtɝz |
+| voters' | voetyrz' | voʊtɝz |
 | votes | voets | voʊts |
 | voth | vaath | vɑθ |
 | voting | voeting | voʊtɪŋ |
@@ -120511,7 +120511,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | waiter's | waetyr's | weɪtɝz |
 | waiters | waetyrz | weɪtɝz |
 | waites | waets | weɪts |
-| waitin' | waetin | weɪtɪn |
+| waitin' | waetin' | weɪtɪn |
 | waiting | waeting | weɪtɪŋ |
 | waitkus | waetkus | weɪtkʌs |
 | waitman | wietmun | waɪtmʌn |
@@ -120572,7 +120572,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | waldemar | vaaldumaar | vɑldʌmɑɹ |
 | walden | woldun | wɔːldʌn |
 | waldenbooks | woldunbuuks | wɔːldʌnbʊks |
-| waldenbooks' | woldunbuuks | wɔːldʌnbʊks |
+| waldenbooks' | woldunbuuks' | wɔːldʌnbʊks |
 | walder | woldyr | wɔːldɝ |
 | waldheim | woldhiem | wɔːldhaɪm |
 | waldheim's | woldhiem's | wɔːldhaɪmz |
@@ -120610,7 +120610,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | walen | waelun | weɪlʌn |
 | walenta | wulentu | wʌlɛntʌ |
 | wales | waelz | weɪlz |
-| wales' | waelz | weɪlz |
+| wales' | waelz' | weɪlz |
 | walesa | wulesu | wʌlɛsʌ |
 | walesa's | wulesu's | wʌlɛsʌz |
 | waleson | waelsun | weɪlsʌn |
@@ -120635,7 +120635,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | walker's | wokyr's | wɔːkɝz |
 | walkers | wokyrz | wɔːkɝz |
 | walkie | wokee | wɔːkiː |
-| walkin' | wokin | wɔːkɪn |
+| walkin' | wokin' | wɔːkɪn |
 | walking | woking | wɔːkɪŋ |
 | walkington | wokingtun | wɔːkɪŋtʌn |
 | walkinshaw | waakunshaa | wɑkʌnʃɑ |
@@ -120741,7 +120741,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | walter's | woltyr's | wɔːltɝz |
 | waltermire | woltyrmier | wɔːltɝmaɪɹ |
 | walters | woltyrz | wɔːltɝz |
-| walters' | woltyrz | wɔːltɝz |
+| walters' | woltyrz' | wɔːltɝz |
 | walth | wolth | wɔːlθ |
 | walthall | wolthul | wɔːlθʌl |
 | waltham | wolthum | wɔːlθʌm |
@@ -120872,7 +120872,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | warden | wordun | wɔːɹdʌn |
 | warden's | wordun's | wɔːɹdʌnz |
 | wardens | wordunz | wɔːɹdʌnz |
-| wardens' | wordunz | wɔːɹdʌnz |
+| wardens' | wordunz' | wɔːɹdʌnz |
 | warder | wordyr | wɔːɹdɝ |
 | warders | wordyrz | wɔːɹdɝz |
 | warding | wording | wɔːɹdɪŋ |
@@ -120992,7 +120992,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | warrior | woreeyr | wɔːɹiːɝ |
 | warriors | woreeyrz | wɔːɹiːɝz |
 | wars | worz | wɔːɹz |
-| wars' | worz | wɔːɹz |
+| wars' | worz' | wɔːɹz |
 | warsaw | waarsaa | wɑɹsɑ |
 | warsaw's | waarsaa's | wɑɹsɑz |
 | warsaws | waarsaaz | wɑɹsɑz |
@@ -121112,7 +121112,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | watchers | waachyrz | wɑtʃɝz |
 | watches | waachuz | wɑtʃʌz |
 | watchful | waachful | wɑtʃfʌl |
-| watchin' | waachin | wɑtʃɪn |
+| watchin' | waachin' | wɑtʃɪn |
 | watching | waaching | wɑtʃɪŋ |
 | watchman | waachmun | wɑtʃmʌn |
 | watchmen | waachmen | wɑtʃmɛn |
@@ -121180,7 +121180,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | wathen | wothun | wɔːθʌn |
 | watkin | wotkin | wɔːtkɪn |
 | watkins | waatkinz | wɑtkɪnz |
-| watkins' | waatkinz | wɑtkɪnz |
+| watkins' | waatkinz' | wɑtkɪnz |
 | watkinson | wotkinsun | wɔːtkɪnsʌn |
 | watland | waatlund | wɑtlʌnd |
 | watley | waatlee | wɑtliː |
@@ -121299,7 +121299,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | weapon's | wepun's | wɛpʌnz |
 | weaponry | wepunree | wɛpʌnɹiː |
 | weapons | wepunz | wɛpʌnz |
-| weapons' | wepunz | wɛpʌnz |
+| weapons' | wepunz' | wɛpʌnz |
 | wear | wer | wɛɹ |
 | wearable | werubul | wɛɹʌbʌl |
 | wearer | weryr | wɛɹɝ |
@@ -121448,7 +121448,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | weekly | weeklee | wiːkliː |
 | weekly's | weeklee's | wiːkliːz |
 | weeks | weeks | wiːks |
-| weeks' | weeks | wiːks |
+| weeks' | weeks' | wiːks |
 | weems | weemz | wiːmz |
 | weeny | weenee | wiːniː |
 | weep | weep | wiːp |
@@ -121596,7 +121596,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | weinstock | wienstaak | waɪnstɑk |
 | weintraub | wientroub | waɪntɹaʊb |
 | weintz | wients | waɪnts |
-| weintz' | wients | waɪnts |
+| weintz' | wients' | waɪnts |
 | weintz's | wientsi's | waɪntsɪz |
 | weinzierl | wienzirl | waɪnzɪɹl |
 | weipert | wiepyrt | waɪpɝt |
@@ -121723,7 +121723,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | wellens | welunz | wɛlʌnz |
 | weller | welyr | wɛlɝ |
 | welles | welz | wɛlz |
-| welles' | welz | wɛlz |
+| welles' | welz' | wɛlz |
 | wellesley | welzlee | wɛlzliː |
 | wellfleet | welfleet | wɛlfliːt |
 | wellhead | welhed | wɛlhɛd |
@@ -122046,7 +122046,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | wethington | wethingtun | wɛθɪŋtʌn |
 | wetland | wetland | wɛtlænd |
 | wetlands | wetlandz | wɛtlændz |
-| wetlands' | wetlandz | wɛtlændz |
+| wetlands' | wetlandz' | wɛtlændz |
 | wetmore | wetmor | wɛtmɔːɹ |
 | wetness | wetnus | wɛtnʌs |
 | wetsel | wetsul | wɛtsʌl |
@@ -122440,7 +122440,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | wholesaler | hoelsaelyr | hoʊlseɪlɝ |
 | wholesaler's | hoelsaelyr's | hoʊlseɪlɝz |
 | wholesalers | hoelsaelyrz | hoʊlseɪlɝz |
-| wholesalers' | hoelsaelyrz | hoʊlseɪlɝz |
+| wholesalers' | hoelsaelyrz' | hoʊlseɪlɝz |
 | wholesales | hoelsaelz | hoʊlseɪlz |
 | wholesaling | hoelsaeling | hoʊlseɪlɪŋ |
 | wholesome | hoelsum | hoʊlsʌm |
@@ -122884,7 +122884,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | william | wilyum | wɪljʌm |
 | william's | wilyum's | wɪljʌmz |
 | williams | wilyumz | wɪljʌmz |
-| williams' | wilyumz | wɪljʌmz |
+| williams' | wilyumz' | wɪljʌmz |
 | williams's | wilyumzi's | wɪljʌmzɪz |
 | williamsburg | wilyumzbyrg | wɪljʌmzbɝɡ |
 | williamsburgh | wilyumzbyrg | wɪljʌmzbɝɡ |
@@ -123115,7 +123115,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | wingo | weenggoe | wiːŋɡoʊ |
 | wingrove | wingroev | wɪnɡɹoʊv |
 | wings | wingz | wɪŋz |
-| wings' | wingz | wɪŋz |
+| wings' | wingz' | wɪŋz |
 | wingspan | wingspan | wɪŋspæn |
 | winiarski | vineeaarskee | vɪniːɑɹskiː |
 | winick | winik | wɪnɪk |
@@ -123150,7 +123150,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | winner | winyr | wɪnɝ |
 | winner's | winyr's | wɪnɝz |
 | winners | winyrz | wɪnɝz |
-| winners' | winyrz | wɪnɝz |
+| winners' | winyrz' | wɪnɝz |
 | winnetka | winetku | wɪnɛtkʌ |
 | winnett | winit | wɪnɪt |
 | winney | winee | wɪniː |
@@ -123385,11 +123385,11 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | witman | witmun | wɪtmʌn |
 | witmer | witmyr | wɪtmɝ |
 | witness | witnus | wɪtnʌs |
-| witness' | witnus | wɪtnʌs |
+| witness' | witnus' | wɪtnʌs |
 | witness's | witnusi's | wɪtnʌsɪz |
 | witnessed | witnust | wɪtnʌst |
 | witnesses | witnusuz | wɪtnʌsʌz |
-| witnesses' | witnusiz | wɪtnʌsɪz |
+| witnesses' | witnusiz' | wɪtnʌsɪz |
 | witnessing | witnusing | wɪtnʌsɪŋ |
 | witowski | vitofskee | vɪtɔːfskiː |
 | wits | wits | wɪts |
@@ -123433,7 +123433,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | witzig | witzig | wɪtzɪɡ |
 | witzke | witskee | wɪtskiː |
 | wives | wievz | waɪvz |
-| wives' | wievz | waɪvz |
+| wives' | wievz' | waɪvz |
 | wix | wiks | wɪks |
 | wixom | wiksum | wɪksʌm |
 | wixon | wiksun | wɪksʌn |
@@ -123620,7 +123620,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | wombles | waambulz | wɑmbʌlz |
 | women | wimun | wɪmʌn |
 | women's | wimun's | wɪmʌnz |
-| womens' | wimunz | wɪmʌnz |
+| womens' | wimunz' | wɪmʌnz |
 | womer | woemyr | woʊmɝ |
 | wometco | woemetkoe | woʊmɛtkoʊ |
 | wommack | waamuk | wɑmʌk |
@@ -123810,7 +123810,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | wordperfect | wyrdpyrfekt | wɝdpɝfɛkt |
 | wordpress | wyrdpris | wɝdpɹɪs |
 | words | wyrdz | wɝdz |
-| words' | wyrdz | wɝdz |
+| words' | wyrdz' | wɝdz |
 | wordsmith | wyrdsmith | wɝdsmɪθ |
 | wordstar | wyrdstaar | wɝdstɑɹ |
 | wordsworth | wyrdzwyrth | wɝdzwɝθ |
@@ -123832,7 +123832,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | worker | wyrkyr | wɝkɝ |
 | worker's | wyrkyr's | wɝkɝz |
 | workers | wyrkyrz | wɝkɝz |
-| workers' | wyrkyrz | wɝkɝz |
+| workers' | wyrkyrz' | wɝkɝz |
 | workfare | wyrkfer | wɝkfɛɹ |
 | workflow | wyrkfloe | wɝkfloʊ |
 | workflows | wyrkfloez | wɝkfloʊz |
@@ -123841,7 +123841,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | workgroups | wyrkgroops | wɝkɡɹuːps |
 | workhorse | wyrkhors | wɝkhɔːɹs |
 | workhorses | wyrkhorsiz | wɝkhɔːɹsɪz |
-| workin' | wyrkun | wɝkʌn |
+| workin' | wyrkun' | wɝkʌn |
 | working | wyrking | wɝkɪŋ |
 | workinger | wyrkingyr | wɝkɪŋɝ |
 | workings | wyrkingz | wɝkɪŋz |
@@ -123859,7 +123859,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | workplaces | wyrkplaesiz | wɝkpleɪsɪz |
 | workroom | wyrkroom | wɝkɹuːm |
 | works | wyrks | wɝks |
-| works' | wyrks | wɝks |
+| works' | wyrks' | wɝks |
 | worksheet | wyrksheet | wɝkʃiːt |
 | worksheets | wyrksheets | wɝkʃiːts |
 | workshop | wyrkshaap | wɝkʃɑp |
@@ -124075,7 +124075,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | writer | rietyr | ɹaɪtɝ |
 | writer's | rietyr's | ɹaɪtɝz |
 | writers | rietyrz | ɹaɪtɝz |
-| writers' | rietyrz | ɹaɪtɝz |
+| writers' | rietyrz' | ɹaɪtɝz |
 | writes | riets | ɹaɪts |
 | writhe | rith | ɹɪθ |
 | writhed | rithd | ɹɪθd |
@@ -124413,7 +124413,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | yankee | yangkee | jæŋkiː |
 | yankee's | yangkee's | jæŋkiːz |
 | yankees | yangkeez | jæŋkiːz |
-| yankees' | yangkeez | jæŋkiːz |
+| yankees' | yangkeez' | jæŋkiːz |
 | yankelovich | yangkeluvich | jæŋkɛlʌvɪtʃ |
 | yankey | yangkee | jæŋkiː |
 | yanking | yangking | jæŋkɪŋ |
@@ -124559,7 +124559,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | yearns | yyrnz | jɝnz |
 | yearout | yirout | jɪɹaʊt |
 | years | yirz | jɪɹz |
-| years' | yirz | jɪɹz |
+| years' | yirz' | jɪɹz |
 | years-old | yirzold | jɪɹzɔːld |
 | yearsley | yyrslee | jɝsliː |
 | yearwood | yirwuud | jɪɹwʊd |
@@ -124598,7 +124598,7 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | yelled | yeld | jɛld |
 | yellen | yelun | jɛlʌn |
 | yellin | yelin | jɛlɪn |
-| yellin' | yelin | jɛlɪn |
+| yellin' | yelin' | jɛlɪn |
 | yelling | yeling | jɛlɪŋ |
 | yellow | yeloe | jɛloʊ |
 | yellower | yeloeyr | jɛloʊɝ |
@@ -124862,13 +124862,13 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | youngster | yungstyr | jʌŋstɝ |
 | youngster's | yungstyr's | jʌŋstɝz |
 | youngsters | yungstyrz | jʌŋstɝz |
-| youngsters' | yungstyrz | jʌŋstɝz |
+| youngsters' | yungstyrz' | jʌŋstɝz |
 | youngstown | yungztoun | jʌŋztaʊn |
 | youngstrom | yungstrum | jʌŋstɹʌm |
 | younis | yunis | jʌnɪs |
 | younker | yungkyr | jʌŋkɝ |
 | younkers | yungkyrz | jʌŋkɝz |
-| younkers' | yungkyrz | jʌŋkɝz |
+| younkers' | yungkyrz' | jʌŋkɝz |
 | younkin | yungkin | jʌŋkɪn |
 | younkins | yungkinz | jʌŋkɪnz |
 | yount | yount | jaʊnt |

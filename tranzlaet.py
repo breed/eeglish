@@ -29,16 +29,19 @@ def load_dictionary(path):
 
 
 def apply_capitalization(original, translated):
-    """Preserve the capitalization pattern of the original word."""
-    if original.isupper():
+    """Preserve the capitalization pattern of the original word.
+
+    A single capital letter is title case, not ALL CAPS ("I" → "Ie").
+    """
+    if original.isupper() and len(original) > 1:
         return translated.upper()
-    if original[0].isupper() and original[1:].islower():
+    if original[0].isupper() and (len(original) == 1 or original[1:].islower()):
         return translated.capitalize()
     return translated
 
 
-# regex: HTML tags, or runs of non-whitespace (stopping at <), or runs of whitespace
-_TOKEN_RE = re.compile(r"<[^>]*>|[^<\s]+|\s+")
+# regex: HTML tags, runs of non-whitespace (stopping at <), a lone <, or whitespace
+_TOKEN_RE = re.compile(r"<[^>]*>|[^<\s]+|<|\s+")
 # leading/trailing punctuation
 _PUNCT_RE = re.compile(r"^([^\w]*)(\w.*\w|\w)([^\w]*)$", re.UNICODE)
 
@@ -59,9 +62,17 @@ def translate_text(text, dictionary):
             result.append(token)
             continue
         leading, word, trailing = m.groups()
-        lookup = word.lower()
+        # curly apostrophes match the ASCII-apostrophe dictionary entries
+        lookup = word.lower().replace("’", "'")
+        # dictionary keys can end in an apostrophe (plural possessives, goin')
+        if trailing[:1] in ("'", "’") and lookup + "'" in dictionary:
+            word += trailing[0]
+            trailing = trailing[1:]
+            lookup += "'"
         if lookup in dictionary:
             translated = apply_capitalization(word, dictionary[lookup])
+            if "’" in word:
+                translated = translated.replace("'", "’")
             result.append(leading + translated + trailing)
         else:
             result.append(token)
