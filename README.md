@@ -15,3 +15,9 @@ Instead of teaching math, the arts, ethics, science, etc, we dedicate time to te
 `inglish` shows you a world of spelling as defined by the CMU pronunciation dictionary and a set of simple rules to produce a consistent, reasonable spelling.
 You can use the tools we provide to translate English spelling to Inglish spelling.
 There is even a JavaScript fragment you can include on your website to translate it to Inglish.
+
+There is also an MCP server (`inglish_mcp.py`) that exposes the translator to LLM clients such as Claude Desktop and Claude Code, with `translate`, `lookup_word`, and `reverse_translate` tools and the spelling rules served as resources. Install its dependency with `pip install -r requirements.txt`, then register it:
+
+```
+claude mcp add inglish -- python3 /path/to/inglish/inglish_mcp.py
+```

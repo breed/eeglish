@@ -21,6 +21,9 @@ key points for tools and dictionary generation:
 - `generate_dictionary.py` - regenerates `DIKSHUNEREE.md` and `dikshuneree.json` from CMU Pronouncing Dictionary
 - `tranzlaet.py` - CLI tool that translates english text to inglish (`python3 tranzlaet.py [file...]` or stdin)
 - `test_tranzlaet.py` - unit tests for tranzlaet.py (`python3 -m unittest test_tranzlaet`)
+- `inglish_mcp.py` - MCP server exposing the translator to LLM clients over stdio (`translate`, `lookup_word`, `reverse_translate` tools; `RULES.md`/`ALFUBET.md` resources)
+- `test_inglish_mcp.py` - unit tests for inglish_mcp.py (`python3 -m unittest test_inglish_mcp`)
+- `requirements.txt` - runtime deps for the MCP server (`mcp`)
 - `index.html` - website with translate tab (paste text) and rules tab (auto-rendered from RULES.md)
 - `translate-button.js` - embeddable script that adds a floating inglish translate button to any webpage
 - `CNAME` - custom domain config for github pages (inglish.us)
@@ -80,6 +83,21 @@ when a spelling rule changes (contractions, alternate pronunciation selection, a
 - the JS translators check dictionary words with `Object.prototype.hasOwnProperty` so prototype names (e.g. __proto__) in the text never false-match
 - a single capital letter is treated as title case, not ALL CAPS (I → Ie)
 - `test_tranzlaet.py` covers the python translator (`python3 -m unittest test_tranzlaet`)
+
+## mcp server
+
+`inglish_mcp.py` serves the translator over the Model Context Protocol (stdio) so LLM clients (Claude Desktop, Claude Code, etc.) can call it. it imports `translate_text` from `tranzlaet.py` and loads `dikshuneree.json` once at startup — no translation logic is duplicated.
+
+- built on the official python `mcp` SDK (FastMCP); the only runtime dep, pinned in `requirements.txt`
+- tools:
+  - `translate(text)` — full text → inglish, reusing `translate_text` (preserves caps, punctuation, contractions, HTML)
+  - `lookup_word(word)` — single english word → `{english, inglish, found}` (no IPA)
+  - `reverse_translate(spelling)` — inglish → `{inglish, candidates}`; returns **all** english words for that spelling (reverse is lossy, so a reverse index of inglish → [english, …] is built once at startup)
+- resources: `inglish://rules` (RULES.md) and `inglish://alphabet` (ALFUBET.md), read per-request so they always reflect the current files
+- install + run: `venv/bin/pip install -r requirements.txt`, then `venv/bin/python3 inglish_mcp.py`
+- register with claude code: `claude mcp add inglish -- /home/bcr33d/git/inglish/venv/bin/python3 /home/bcr33d/git/inglish/inglish_mcp.py`
+- `test_inglish_mcp.py` covers the three tools (`python3 -m unittest test_inglish_mcp`)
+- if a translation rule or the dictionary changes, the server needs no edits — it reads `dikshuneree.json` and reuses `translate_text` live
 
 ## website rules tab
 
