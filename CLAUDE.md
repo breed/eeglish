@@ -16,7 +16,7 @@ key points for tools and dictionary generation:
 
 - `ALFUBET.md` - IPA-to-inglish letter mapping (24 consonants, 17 vowels)
 - `RULES.md` - single source of truth for spelling rules, with examples
-- `DIKSHUNEREE.md` - 125,858 word dictionary with columns `english`, `inglish`, `IPA`
+- `DIKSHUNEREE.md` - 125,857 word dictionary with columns `english`, `inglish`, `IPA`
 - `dikshuneree.json` - JSON version of the dictionary for the website
 - `generate_dictionary.py` - regenerates `DIKSHUNEREE.md` and `dikshuneree.json` from CMU Pronouncing Dictionary
 - `tranzlaet.py` - CLI tool that translates english text to inglish (`python3 tranzlaet.py [file...]` or stdin)
@@ -45,7 +45,7 @@ the script applies all rules from `RULES.md`, including:
 2. handles Y + UW → "ue" (the /juː/ sound)
 3. words spelled with `aw` get `aa` instead of `o` for the AO phoneme
 4. picks closest pronunciation by edit distance; breaks ties by preferring ɑ (AA) over ɔː (AO)
-5. excludes acronyms (words whose only pronunciations are letter-by-letter spellings)
+5. excludes acronyms (words whose only pronunciations are letter-by-letter spellings), plus a manual exclusion list for acronym-dominant words that escape the filter via a real-word pronunciation (ai)
 6. preserves contractions: translates the base word, keeps the apostrophe and suffix ('t, 's, 'd, 'm, 'l, 'r, 'v)
 7. skips leading-apostrophe words ('em, 'twas, etc.) — they pass through the translator unchanged
 8. words ending in a bare apostrophe (plural possessives like lawyers', dropped-letter words like goin' and ol') keep the trailing apostrophe in the inglish spelling

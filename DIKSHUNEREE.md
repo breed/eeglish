@@ -1840,7 +1840,6 @@ inglish dictionary generated from the CMU Pronouncing Dictionary.
 | ahuja | aahooyu | ɑhuːjʌ |
 | ahumada | aauemaadu | ɑjuːmɑdʌ |
 | ahwahnee | uwaanee | ʌwɑniː |
-| ai | ie | aɪ |
 | aichele | iekul | aɪkʌl |
 | aicher | iekyr | aɪkɝ |
 | aichi | aaeechee | ɑiːtʃiː |

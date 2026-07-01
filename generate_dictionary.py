@@ -200,8 +200,11 @@ def main():
     acronym_count = 0
     contraction_count = 0
 
-    # words to exclude (collide with the inglish language name)
-    exclude = {'inglish'}
+    # words to exclude:
+    # - inglish: collides with the inglish language name
+    # - ai: almost always the acronym AI, but escapes the acronym filter
+    #   because CMU also lists the real-word pronunciation /aɪ/ (the sloth)
+    exclude = {'inglish', 'ai'}
 
     for word in sorted(d.keys()):
         if word in exclude:

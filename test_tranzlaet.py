@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Tests for tranzlaet.py."""
 
+import json
+import os
 import unittest
 
 from tranzlaet import apply_capitalization, translate_text
@@ -58,6 +60,20 @@ class TestTranslateText(unittest.TestCase):
     def test_single_quoted_word(self):
         # quoting apostrophes around a word are not part of it
         self.assertEqual(translate_text("'hello'", self.DICT), "'heloe'")
+
+
+class TestRealDictionary(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        path = os.path.join(os.path.dirname(__file__), "dikshuneree.json")
+        with open(path) as f:
+            cls.DICT = json.load(f)
+
+    def test_ai_is_excluded(self):
+        # "ai" (the sloth) is manually excluded so the acronym AI
+        # passes through untranslated
+        self.assertNotIn("ai", self.DICT)
+        self.assertEqual(translate_text("AI is here", self.DICT), "AI iz heer")
 
 
 if __name__ == "__main__":

@@ -120,6 +120,8 @@ the inglish dictionary (`DIKSHUNEREE.md` and `dikshuneree.json`) is generated fr
 
 acronyms (words whose only pronunciations are letter-by-letter spellings, like "FBI" or "USA") are excluded from the dictionary — they are left untranslated.
 
+a few words that are overwhelmingly used as acronyms but also have a real-word pronunciation (like "AI", which is also the name of a sloth) are manually excluded as well.
+
 ## contractions
 
 contractions preserve the apostrophe and suffix.
