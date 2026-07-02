@@ -1,0 +1,44 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "inglish"
+version = "0.1.0"
+description = "translate english spelling to inglish — CLI translator and MCP server"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["mcp>=1.28,<2"]
+keywords = ["spelling", "phonetics", "english", "mcp", "model-context-protocol"]
+
+[project.urls]
+Homepage = "https://inglish.us"
+Source = "https://github.com/breed/inglish"
+
+[project.scripts]
+inglish = "tranzlaet:main"
+inglish-mcp = "inglish_mcp:main"
+
+# the repo doubles as a github-pages site, so the python code lives as flat
+# modules at the root with data files beside them. the wheel ships the two
+# modules top-level and tucks the data into inglish_data/ (see data_path()).
+[tool.hatch.build.targets.wheel]
+only-include = ["tranzlaet.py", "inglish_mcp.py"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"dikshuneree.json" = "inglish_data/dikshuneree.json"
+"RULES.md" = "inglish_data/RULES.md"
+"ALFUBET.md" = "inglish_data/ALFUBET.md"
+
+[tool.hatch.build.targets.sdist]
+only-include = [
+    "tranzlaet.py",
+    "inglish_mcp.py",
+    "test_tranzlaet.py",
+    "test_inglish_mcp.py",
+    "dikshuneree.json",
+    "RULES.md",
+    "ALFUBET.md",
+    "README.md",
+    "CHANGELOG.md",
+]

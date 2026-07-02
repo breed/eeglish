@@ -2,30 +2,26 @@
 """tranzlaet - translate english text to inglish spelling."""
 
 import argparse
+import json
 import os
 import re
 import sys
 
 
-def load_dictionary(path):
-    """Parse DIKSHUNEREE.md into a dict mapping english -> inglish."""
-    dictionary = {}
-    with open(path, encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if not line.startswith("|"):
-                continue
-            parts = [p.strip() for p in line.split("|")]
-            # parts[0] is empty (before first |), parts[1] = english, parts[2] = inglish
-            if len(parts) < 4:
-                continue
-            english = parts[1]
-            inglish = parts[2]
-            # skip header rows
-            if english.startswith("---") or parts[3] == "IPA":
-                continue
-            dictionary[english.lower()] = inglish
-    return dictionary
+def data_path(name):
+    """Locate a data file next to this module (git checkout) or in the
+    inglish_data directory (installed PyPI wheel)."""
+    here = os.path.dirname(os.path.abspath(__file__))
+    path = os.path.join(here, name)
+    if os.path.exists(path):
+        return path
+    return os.path.join(here, "inglish_data", name)
+
+
+def load_dictionary():
+    """Load dikshuneree.json into a dict mapping english -> inglish."""
+    with open(data_path("dikshuneree.json"), encoding="utf-8") as f:
+        return json.load(f)
 
 
 def apply_capitalization(original, translated):
@@ -92,8 +88,7 @@ def main():
     )
     args = parser.parse_args()
 
-    dict_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "DIKSHUNEREE.md")
-    dictionary = load_dictionary(dict_path)
+    dictionary = load_dictionary()
 
     for f in args.files:
         for line in f:

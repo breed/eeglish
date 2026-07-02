@@ -5,8 +5,9 @@
 #   sudo systemctl daemon-reload
 #   sudo systemctl enable --now inglish-mcp
 #
-# assumes the repo is cloned at /opt/inglish with a venv (see deploy/README.md);
-# adjust paths and User if your layout differs.
+# assumes the `inglish` package from PyPI is installed in a venv at
+# /opt/inglish/venv (see deploy/README.md); adjust paths and User if your
+# layout differs.
 
 [Unit]
 Description=inglish MCP server (streamable HTTP on 127.0.0.1:8000)
@@ -15,12 +16,12 @@ After=network.target
 [Service]
 Type=simple
 User=inglish
-WorkingDirectory=/opt/inglish
-ExecStart=/opt/inglish/venv/bin/python3 /opt/inglish/inglish_mcp.py --http --host 127.0.0.1 --port 8000
+ExecStart=/opt/inglish/venv/bin/inglish-mcp --http --host 127.0.0.1 --port 8000
 Restart=on-failure
 RestartSec=2
 
-# hardening: the server only reads repo files, so lock everything else down
+# hardening: the server only reads its own package files, so lock everything
+# else down
 NoNewPrivileges=true
 ProtectSystem=strict
 ProtectHome=true

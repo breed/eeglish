@@ -7,11 +7,12 @@ local use; nothing about local registrations changes.
 ## architecture
 
 ```
-client ──https──> nginx (TLS, rate limit, Host check) ──> 127.0.0.1:8000 inglish_mcp.py --http
+client ──https──> nginx (TLS, rate limit, Host check) ──> 127.0.0.1:8000 inglish-mcp --http
 ```
 
 the python server binds only to localhost; nginx terminates TLS and is the only
-public listener.
+public listener. the server is installed from PyPI (package `inglish`), which
+bundles the dictionary, rules, and alphabet — no repo checkout needed.
 
 ## steps
 
@@ -19,13 +20,12 @@ public listener.
    (at your registrar; inglish.us apex stays on github pages, this is a new
    subdomain).
 
-2. **code** — on the VPS:
+2. **install from PyPI** — on the VPS:
 
    ```
-   sudo git clone https://github.com/breed/inglish /opt/inglish
-   cd /opt/inglish
-   sudo python3 -m venv venv
-   sudo venv/bin/pip install -r requirements.txt
+   sudo apt install python3-venv
+   sudo python3 -m venv /opt/inglish/venv
+   sudo /opt/inglish/venv/bin/pip install inglish
    sudo useradd --system --no-create-home inglish
    ```
 
@@ -60,12 +60,13 @@ public listener.
 
 ## updating
 
-the server reads `dikshuneree.json`, `RULES.md`, and `ALFUBET.md` live, and
-imports `translate_text` at startup. after a `git pull` on the VPS:
+the dictionary, rules, and alphabet ship inside the PyPI package, so an update
+is: publish a new `inglish` release, then on the VPS:
 
-- dictionary/rules-only changes: no restart needed for resources; restart to
-  pick up a regenerated dictionary (`sudo systemctl restart inglish-mcp`)
-- code changes: `sudo systemctl restart inglish-mcp`
+```
+sudo /opt/inglish/venv/bin/pip install -U inglish
+sudo systemctl restart inglish-mcp
+```
 
 ## security posture
 

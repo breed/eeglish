@@ -2,17 +2,12 @@
 """inglish_mcp - serve the inglish translator over the Model Context Protocol."""
 
 import argparse
-import json
-import os
 
 from mcp.server.fastmcp import FastMCP
 
-from tranzlaet import translate_text
+from tranzlaet import data_path, load_dictionary, translate_text
 
-_HERE = os.path.dirname(os.path.abspath(__file__))
-
-with open(os.path.join(_HERE, "dikshuneree.json"), encoding="utf-8") as f:
-    DICTIONARY = json.load(f)            # english -> inglish (lowercased keys)
+DICTIONARY = load_dictionary()           # english -> inglish (lowercased keys)
 
 # reverse index: inglish spelling -> [english, ...] (collisions are real)
 REVERSE = {}
@@ -54,7 +49,7 @@ def reverse_translate(spelling: str) -> dict:
 
 
 def _read(name):
-    with open(os.path.join(_HERE, name), encoding="utf-8") as f:
+    with open(data_path(name), encoding="utf-8") as f:
         return f.read()
 
 
