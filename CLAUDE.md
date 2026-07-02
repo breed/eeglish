@@ -99,6 +99,15 @@ when a spelling rule changes (contractions, alternate pronunciation selection, a
 - register with claude code: `claude mcp add inglish -- /home/bcr33d/git/inglish/venv/bin/python3 /home/bcr33d/git/inglish/inglish_mcp.py`
 - transports: stdio by default; `--http [--host H] [--port P]` serves stateless streamable HTTP at `/mcp` (binds 127.0.0.1, meant to sit behind a TLS reverse proxy)
 - remote deployment (mcp.inglish.us on a VPS): see `deploy/README.md` — nginx terminates TLS, rate-limits, and Host-checks; systemd runs the server as an unprivileged user; register with `claude mcp add --transport http inglish https://mcp.inglish.us/mcp`
+- the live endpoint is https://mcp.inglish.us/mcp, installed from the PyPI package (not a git checkout); to update it: publish a new release, then `pip install -U inglish` in /opt/inglish/venv and restart the service (see deploy/README.md)
+
+## pypi package
+
+the repo is published on PyPI as `inglish` (`pyproject.toml`, hatchling):
+- entry points: `inglish` (the tranzlaet CLI) and `inglish-mcp` (the MCP server)
+- the wheel ships `tranzlaet.py`/`inglish_mcp.py` top-level and `dikshuneree.json`/`RULES.md`/`ALFUBET.md` under `inglish_data/`; `data_path()` in tranzlaet.py resolves both layouts (repo checkout vs installed wheel)
+- `DIKSHUNEREE.md` is not shipped — the CLI loads `dikshuneree.json`
+- release flow: bump version in `pyproject.toml` → update `CHANGELOG.md` → commit "Release vX.Y.Z" → `python3 -m build` → `twine upload dist/*` → install to verify → push
 - `test_inglish_mcp.py` covers the three tools (`python3 -m unittest test_inglish_mcp`)
 - if a translation rule or the dictionary changes, the server needs no edits — it reads `dikshuneree.json` and reuses `translate_text` live
 

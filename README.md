@@ -22,4 +22,16 @@ There is also an MCP server (`inglish_mcp.py`) that exposes the translator to LL
 claude mcp add inglish -- python3 /path/to/inglish/inglish_mcp.py
 ```
 
-The server can also run as a remote MCP endpoint over streamable HTTP (`inglish_mcp.py --http`); see `deploy/` for hosting it behind nginx with TLS.
+Or install from PyPI (`pip install inglish`), which provides the `inglish` CLI translator and the `inglish-mcp` server:
+
+```
+claude mcp add inglish -- inglish-mcp
+```
+
+A public remote endpoint runs at `https://mcp.inglish.us/mcp` — no install needed:
+
+```
+claude mcp add --transport http inglish https://mcp.inglish.us/mcp
+```
+
+See `deploy/` for how the remote endpoint is hosted (nginx + TLS in front of `inglish-mcp --http`).
