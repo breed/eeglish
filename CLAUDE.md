@@ -24,6 +24,7 @@ key points for tools and dictionary generation:
 - `inglish_mcp.py` - MCP server exposing the translator to LLM clients over stdio (`translate`, `lookup_word`, `reverse_translate` tools; `RULES.md`/`ALFUBET.md` resources)
 - `test_inglish_mcp.py` - unit tests for inglish_mcp.py (`python3 -m unittest test_inglish_mcp`)
 - `requirements.txt` - runtime deps for the MCP server (`mcp`)
+- `deploy/` - VPS deployment for the remote MCP endpoint (systemd unit, nginx config, step-by-step README)
 - `index.html` - website with translate tab (paste text) and rules tab (auto-rendered from RULES.md)
 - `translate-button.js` - embeddable script that adds a floating inglish translate button to any webpage
 - `CNAME` - custom domain config for github pages (inglish.us)
@@ -96,6 +97,8 @@ when a spelling rule changes (contractions, alternate pronunciation selection, a
 - resources: `inglish://rules` (RULES.md) and `inglish://alphabet` (ALFUBET.md), read per-request so they always reflect the current files
 - install + run: `venv/bin/pip install -r requirements.txt`, then `venv/bin/python3 inglish_mcp.py`
 - register with claude code: `claude mcp add inglish -- /home/bcr33d/git/inglish/venv/bin/python3 /home/bcr33d/git/inglish/inglish_mcp.py`
+- transports: stdio by default; `--http [--host H] [--port P]` serves stateless streamable HTTP at `/mcp` (binds 127.0.0.1, meant to sit behind a TLS reverse proxy)
+- remote deployment (mcp.inglish.us on a VPS): see `deploy/README.md` — nginx terminates TLS, rate-limits, and Host-checks; systemd runs the server as an unprivileged user; register with `claude mcp add --transport http inglish https://mcp.inglish.us/mcp`
 - `test_inglish_mcp.py` covers the three tools (`python3 -m unittest test_inglish_mcp`)
 - if a translation rule or the dictionary changes, the server needs no edits — it reads `dikshuneree.json` and reuses `translate_text` live
 

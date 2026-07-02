@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """inglish_mcp - serve the inglish translator over the Model Context Protocol."""
 
+import argparse
 import json
 import os
 
@@ -69,5 +70,38 @@ def alphabet() -> str:
     return _read("ALFUBET.md")
 
 
+def main():
+    parser = argparse.ArgumentParser(
+        description="Serve the inglish translator over the Model Context Protocol."
+    )
+    parser.add_argument(
+        "--http",
+        action="store_true",
+        help="serve streamable HTTP at /mcp instead of stdio",
+    )
+    parser.add_argument(
+        "--host",
+        default="127.0.0.1",
+        help="HTTP bind address (default: 127.0.0.1; put a TLS proxy in front)",
+    )
+    parser.add_argument(
+        "--port",
+        type=int,
+        default=8000,
+        help="HTTP port (default: 8000)",
+    )
+    args = parser.parse_args()
+
+    if args.http:
+        mcp.settings.host = args.host
+        mcp.settings.port = args.port
+        # tools are pure lookups, so run stateless: no per-session state,
+        # requests survive restarts and need no session pinning behind a proxy
+        mcp.settings.stateless_http = True
+        mcp.run(transport="streamable-http")
+    else:
+        mcp.run()  # stdio transport
+
+
 if __name__ == "__main__":
-    mcp.run()  # stdio transport
+    main()

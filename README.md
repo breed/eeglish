@@ -21,3 +21,5 @@ There is also an MCP server (`inglish_mcp.py`) that exposes the translator to LL
 ```
 claude mcp add inglish -- python3 /path/to/inglish/inglish_mcp.py
 ```
+
+The server can also run as a remote MCP endpoint over streamable HTTP (`inglish_mcp.py --http`); see `deploy/` for hosting it behind nginx with TLS.
